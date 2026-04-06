@@ -37,9 +37,9 @@
 > "Re-read the docs and reorient."
 
 **End of session:**
-> "We're done for today — give me an updated project state I can save."
+> "We're done for today — update the project state doc."
 
-Then paste Claude's output into the relevant `_project_state.md` file and push it to GitHub.
+Then paste Claude's output into the relevant `_project_state.md` on Github.
 
 ---
 
