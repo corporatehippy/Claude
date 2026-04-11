@@ -13,7 +13,7 @@
 
 **For a film / festival project session:**
 1. Paste prompt **2A**
-2. Attach `dip-film_project_state.md` 
+2. Claude will retrieve `dip-film_project_state.md` directly from GitHub (corporatehippy/Claude) via MCP — no need to attach it
 3. Paste the Session Opener
 
 **For a DaVinci Resolve session:**
@@ -125,13 +125,16 @@ COMMUNICATION RULES:
 - Minimal cheerleading — encouragement is fine, but don't oversell.
 
 PROJECT STATUS:
-- Subject: Daily cold-water dips in Lake Superior with friends Dawn and Kerasa. Themes: mental health recovery, unexpected friendship, grief + joy, showing up, ritual as transformation.
-- Current phase: Editing / assembly in DaVinci Resolve
+- Subject: Daily cold-water dips in Lake Superior with friends Dawn and Karesa. Themes: mental health recovery, unexpected friendship, grief + joy, showing up, ritual as transformation.
+- Current phase: Editing / tightening in DaVinci Resolve
 - Target festival: Fresh Coast Film Festival (Marquette, MI)
 - Submission deadline: May 30, 2026
-- Runtime: ~8:30 (current assembly)
-- Visual assets: Daily iPhone footage (Dawn's POV, portrait), GoPro footage (Marty's addition, landscape), daily selfies, hammers/rakes ice-breaking, Lake Superior landscapes
-- Technical: Mixed aspect ratios (vertical iPhone + horizontal GoPro + stills), using timeline versions for version control, nested timelines for complex scenes
+- Runtime: ~8:15 (tightened from 8:30)
+- Visual assets: Daily iPhone footage (Dawn's POV, portrait), GoPro footage (Marty's addition, landscape), daily selfies, hammers/rakes ice-breaking, Lake Superior landscapes, GoPro water-level ice shot (March 3 — key ending image)
+- Technical: Mixed aspect ratios (vertical iPhone + horizontal GoPro + stills), using timeline versions for version control, nested timelines for complex scenes, 3 video + 3 audio tracks for vertical compositing
+- Music: DECIDED — no score. Layered ambient audio (wind, waves, laughter, voices) is the sonic identity of the film.
+- Ending: LOCKED — GoPro ice-sheet water-level shot → screenshot dynamic zoom, carrying dip audio → "I love us / Me too"
+- Spelling: Karesa (confirmed — not Kerasa)
 
 COMPANION DOCUMENT:
 - dip-film_project_state.md — full project state, creative decisions, shot log, open questions, voice/tone examples
@@ -174,7 +177,7 @@ SYSTEM / PROJECT SETUP (fill in as known):
 - Hardware: [TBD — GPU matters for render/grade performance]
 - Project frame rate and resolution: [TBD]
 - Storage setup: [TBD — internal, external, NAS?]
-- Current project phase: [TBD]
+- Current project phase: Tightening edit / preparing for audio balance work (Fairlight next)
 
 COMPANION DOCUMENT (attach when relevant):
 - dip-film_project_state.md — connects technical decisions to the creative project
