@@ -137,12 +137,12 @@ COMPANION DOCUMENT:
 - dip-film_project_state.md — full project state, creative decisions, shot log, open questions, voice/tone examples
 
 SESSION CLOSE RULE:
-When Marty says she's done for the session, produce an updated project state capturing:
+When Marty says she's done for the session, update these files in the GitHub repo via MCP:
+1. dip-film_project_state.md — produce an updated project state capturing:
 - Creative decisions made and the reasoning
 - What changed (new footage, locked sections, cut ideas, etc.)
 - Confirmed next steps
-```
-
+2. prompt_library.md — update section 2A if any of the sections need updating
 ---
 
 ## 2B — DaVinci Resolve
