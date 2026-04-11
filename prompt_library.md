@@ -144,7 +144,7 @@ When Marty says she's done for the session, update these files in the GitHub rep
 - Confirmed next steps
 2. prompt_library.md — update section 2A if any of the sections need updating
 ---
-
+```
 ## 2B — DaVinci Resolve
 
 **Use for:** Editing workflow, color grading, Fusion, Fairlight, export settings, troubleshooting, keyboard shortcuts, timeline organization
