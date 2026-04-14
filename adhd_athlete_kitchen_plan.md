@@ -35,6 +35,8 @@ This document is a living reference for ongoing work between client and dietitia
 - Comfortable with hands-off cooking — long oven/dutch oven times are not a problem, especially working from home
 - Open to ingredient-level prep (not full meal prep) to reduce mid-week friction
 - Good instinct for immediate ingredient prep: pulls rotisserie chicken off the carcass as soon as she gets home — this is exactly right and should be the model for all 'landing' tasks when groceries arrive
+- Uses a vacuum sealer for freezer storage — proteins stored this way are reliable even long-term (confirmed: last summer's BBQ pulled pork still perfect)
+- Owns a 22" Weber kettle grill — accessible once snow clears from deck (spring/summer cooking option)
 
 ### Current Friction Points
 
@@ -178,6 +180,7 @@ Organized by effort tier. Living list — built out based on what she actually m
 - Canned fish over greens or with crackers and hot sauce
 - Leftover anything + fried egg on top
 - Any salad from the salad bank (see below) — if chicken is pre-cooked, 5 min max
+- Kevin's Paleo sous vide chicken pouches over rice — confirmed winner, zero-friction, freezer staple
 
 ### Tier 2 — Quick Active Cook (20–30 min)
 
@@ -201,6 +204,9 @@ Organized by effort tier. Living list — built out based on what she actually m
 - Chicken piccata-ish — pound thin, sear, deglaze with lemon juice + splash of broth, swirl in butter. Over pasta or with bread. 20 min.
 - Thai coconut soup — chicken broth (Better than Bullion) + coconut milk + curry paste + rice noodles + spinach + lime. 25 min. Pantry already stocked.
 
+**Salmon:**
+- Glazed salmon over rice — brush with chili garlic sauce + soy + honey + rice vinegar. 400°F, 12-14 min. Sheet pan. Done. Works when miso isn't on hand; chili garlic sauce is a solid alternative glaze.
+
 **Other quick cooks:**
 - Fried rice: leftover rice + fridge scraps + egg + soy sauce
 - Quesadillas: cheese + whatever protein you have
@@ -215,6 +221,7 @@ Organized by effort tier. Living list — built out based on what she actually m
 - **Chili** — ground beef or turkey (browning optional), chili beans + fire roasted tomatoes + spices. Dutch oven, 45 min simmer. Feeds 4+ meals.
 - **Sheet pan sausage and potatoes** — Italian sausage sliced + potatoes cubed + olive oil + seasoning. 400°F, 35-40 min. Zero dishes.
 - **Shakshuka** — fire roasted tomatoes + eggs cracked in + spices. 20 min, one pan. Breakfast-for-dinner energy.
+- **Baby back ribs** — oven version: 275°F, 2.5-3 hours wrapped in foil, then 15 min uncovered with sauce. Weekend afternoon project, not a weeknight move. Weber kettle available once snow is off the deck (now accessible as of spring 2026).
 - Salsa chicken
 - Barbacoa
 - Carnitas
@@ -254,7 +261,37 @@ Build around a shared base, diverge on toppings. Chicken pre-cooked on the Forem
 
 ---
 
-## 7. Open Questions & Next Steps
+## 7. Freezer Inventory (Partial — Audit In Progress)
+
+*Captured during session; full audit is next priority. Items noted as approximate.*
+
+### Proteins
+- Baby back ribs — 1 slab
+- Chicken breasts — 1 package
+- Frozen hamburger patties
+- Bare breaded chicken — nuggets (spicy + regular), maybe tenders, maybe patties. Zero-effort backup protein.
+- Vacuum-sealed carnitas — portioned in 2-3 cup portions, a few weeks old. **Use this week before shopping.**
+- Vacuum-sealed pulled pork — from last summer BBQ. Confirmed still excellent quality. Ready to use.
+- Kevin's Paleo sous vide chicken pouches — confirmed winner. Keep stocked.
+- Frozen salmon fillets — in use; glazed version worked well
+
+### Vegetables
+- Frozen green beans — large bag
+- Frozen corn
+- Frozen peppers
+- Maybe various mixed veg
+
+*Full freezer + pantry audit scheduled for next session. Goal: know exactly what's there, toss anything questionable, and build the real staples baseline.*
+
+---
+
+## 8. Open Questions & Next Steps
+
+### Immediate Priority — Next Session
+
+- **Full freezer + pantry audit** — go through everything category by category. Toss what's past its prime. Build the actual staples baseline from what's real, not assumed.
+- **Confirmed pantry staples to capture:** rice vinegar (always stocked), chili garlic sauce, sriracha — these are already working as flavor bombs.
+- **Use carnitas this week** — it's portioned, it's ready, it's the obvious bridge-to-shopping move.
 
 ### In Progress
 
@@ -270,6 +307,16 @@ Build around a shared base, diverge on toppings. Chicken pre-cooked on the Forem
 - End-of-cycle strategy when pantry is low and fresh proteins are gone
 - Specific athlete fueling guidance around training blocks and race season
 - Lunch ideas beyond current rotation — good base exists, room to expand
+
+---
+
+## 9. Real-Life Execution Notes
+
+*Running log of how the system performs in actual use — what works, what breaks down, what gets adapted.*
+
+- **Kevin's Paleo sous vide chicken over rice** — came through when shopping didn't happen and friends were unexpectedly in town. Quick, no decision required, satisfying. Exactly what the freezer backup tier is for. Keep these stocked.
+- **Glazed salmon over leftover rice (post-trainer ride)** — chili garlic sauce + soy + honey + rice vinegar, 400°F 12-14 min. No miso needed. Thawed during trainer ride, oven on immediately after, dinner ready post-cooldown. Clean execution of the 'finishable not startable' principle.
+- **Vacuum sealer is a real asset** — pulled pork from last summer BBQ still excellent. Carnitas a few weeks old, perfect. This is the end-of-cycle safety net working exactly as intended.
 
 ---
 
