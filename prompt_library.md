@@ -116,7 +116,7 @@ DIRECTOR PROFILE:
 - Marty. Hobbyist filmmaker, relatively new to editing (~12 projects total across iMovie and DaVinci Resolve).
 - Former endurance athlete, spent 3 years recovering from injury. Started cold-water dipping in Lake Superior Sept 2025 as part of mental health recovery.
 - Deep personal connection to subject matter—she's living the story while documenting it.
-- Goal: complete "Dips with the Girl Gang" (working title) for submission to Fresh Coast Film Festival (Marquette, MI) by May 30, 2026.
+- Goal: complete "Dips with the Girl Gang" (working title) for submission to Fresh Coast Film Festival (Marquette, MI) by May 31, 2026.
 - Technical/analytical brain (writes for executive audiences professionally) + creative soul that wants poetic expression.
 - Core tension: fights between literal/narrative voice and poetic voice.
 - Voice breakthrough: authenticity > borrowed poetic language. Her natural voice IS poetic when she's specific and honest.
@@ -131,15 +131,17 @@ COMMUNICATION RULES:
 
 PROJECT STATUS:
 - Subject: Daily cold-water dips in Lake Superior with friends Dawn and Karesa. Themes: mental health recovery, unexpected friendship, grief + joy, showing up, ritual as transformation.
-- Current phase: Editing / tightening in DaVinci Resolve
+- Current phase: Audio mix (Fairlight) → color grade → export
 - Target festival: Fresh Coast Film Festival (Marquette, MI)
-- Submission deadline: May 30, 2026
-- Runtime: ~8:15 (tightened from 8:30)
-- Visual assets: Daily iPhone footage (Dawn's POV, portrait), GoPro footage (Marty's addition, landscape), daily selfies, hammers/rakes ice-breaking, Lake Superior landscapes, GoPro water-level ice shot (March 3 — key ending image)
+- Submission deadline: May 31, 2026. Notification: August 14, 2026. Event: October 15–18, 2026.
+- Runtime: 8:03 (PICTURE LOCKED — do not cut further)
+- Visual assets: Daily iPhone footage (Dawn's POV, portrait), GoPro footage (Marty's addition, landscape), daily selfies, hammers/rakes ice-breaking, Lake Superior landscapes, GoPro water-level ice shot (March 3 — key ending image), scrolling Photos library screen capture (standout moment — confirmed in screening)
 - Technical: Mixed aspect ratios (vertical iPhone + horizontal GoPro + stills), using timeline versions for version control, nested timelines for complex scenes, 3 video + 3 audio tracks for vertical compositing
 - Music: DECIDED — no score. Layered ambient audio (wind, waves, laughter, voices) is the sonic identity of the film.
 - Ending: LOCKED — GoPro ice-sheet water-level shot → screenshot dynamic zoom, carrying dip audio → "I love us / Me too"
 - Spelling: Karesa (confirmed — not Kerasa)
+- Screening: DONE — Dawn and Karesa watched on Jeep hood before a dip. Both moved, gasped at scrolling photo library scene. Cold-viewer (third friend, no context) whispered "this is beautiful" within seconds of watching. Film works on strangers.
+- Award to target: Best First Time Filmmaker (Fresh Coast gives this award any length — Marty qualifies)
 
 COMPANION DOCUMENT:
 - dip-film_project_state.md — full project state, creative decisions, shot log, open questions, voice/tone examples
@@ -182,7 +184,7 @@ SYSTEM / PROJECT SETUP (fill in as known):
 - Hardware: [TBD — GPU matters for render/grade performance]
 - Project frame rate and resolution: [TBD]
 - Storage setup: [TBD — internal, external, NAS?]
-- Current project phase: Tightening edit / preparing for audio balance work (Fairlight next)
+- Current project phase: Fairlight audio balance → color grade → export
 
 COMPANION DOCUMENT (attach when relevant):
 - dip-film_project_state.md — connects technical decisions to the creative project
@@ -262,7 +264,7 @@ KEY FACTS TO REMEMBER:
 - Each machine needs its own config file edited
 - The same GitHub Personal Access Token can be reused across machines (stored in password manager)
 - Node.js must be installed on each machine as a prerequisite
-- Config file paths: Mac → ~/Library/Application Support/Claude/claude_desktop_config.json | Windows → %APPDATA%\Claude\claude_desktop_config.json
+- Config file paths: Mac → ~/Library/Application Support/Claude/claude_desktop_config.json | Windows → %APPDATA%\\Claude\\claude_desktop_config.json
 - Claude Desktop must be fully quit and relaunched after any config change
 - Verify setup by asking: "Can you see my GitHub repos?"
 
