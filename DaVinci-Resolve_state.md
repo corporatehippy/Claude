@@ -76,6 +76,7 @@
 
 ## OPEN QUESTIONS / THINGS TO EXPLORE
 
+- [ ] **SESSION OPENER TASK: Ask Marty about her full equipment and setup** — cameras (GoPro model, iPhone model), editing machine specs (Mac Mini specs, GPU, RAM), any other tools (microphones, external drives, etc.). This affects proxy workflow advice, render/grade performance, and storage recommendations.
 - [ ] Confirm GoPro capture resolution (1080p vs 4K)
 - [ ] Confirm Resolve version and Free vs Studio
 - [ ] Hardware specs (GPU especially — affects grade and render performance)
@@ -103,3 +104,4 @@
   - Learned Timeline Versions vs duplicated timelines
   - Mute track as multi-version export workaround
 - Final outcome: vertical Short posted to Facebook/Instagram with VO; skipped horizontal YouTube upload for this project
+- Marty flagged: ask about full equipment and setup at next session opener
