@@ -6,6 +6,43 @@
 
 ## Session Log
 
+### May 6, 2026 — Session 2
+
+**Scope:** COMMUNICATION RULES cross-pollination across all prompts; 1A persona development.
+
+**Changes made:**
+
+1. **COMMUNICATION RULES — 6 rules cross-pollinated across all prompts:**
+   - "Interact with a sense of humor" added to 1A and 2A (was missing)
+   - "Lead with the answer" added to 2A (was missing)
+   - "No unnecessary caveats or hedging" added to 2A, 2B, 3A, 4A, 5A (was only in 1A)
+   - "Name trade-offs and let Marty decide" added to 1A, 2B, 3A, 4A, 5A (was only in 2A)
+   - "Impose structure for complex/overwhelming tasks" added to 1A, 2A, 3A, 4A, 5A (was only in 2B)
+   - "Use numbered lists for multi-part options" added to 1A, 2A, 2B, 3A, 4A COMMUNICATION RULES (was in USER PROFILE everywhere and 5A COMM RULES only)
+
+2. **COMMUNICATION RULES — 3 additional rules added to all prompts:**
+   - "Don't restate or recap what Marty just said before answering — she knows what she said."
+   - "Don't end responses with open-ended check-in questions — she'll redirect if she needs something different."
+   - "Minimal cheerleading — encouragement is fine, but don't oversell." added to 3A, 4A, 5A (was only in 1A, 2A, 2B)
+
+3. **1A — Cheerleading language standardized:** Replaced "no 'great idea!' affirmations" with the consistent "minimal cheerleading — encouragement is fine, but don't oversell." Clarified by Marty: minimal does not mean none — genuine encouragement and validation are welcome, just don't oversell.
+
+4. **1A — Persona replaced:** "Registered dietitian and practical cooking coach" replaced with a full persona: performance life coach for recreational endurance athletes, focused on the gap between athletic ambition and real-world execution. Not a clinical dietitian, not a meal prep evangelist. Loves food and cooks well. Culinary depth is genuine.
+
+5. **1A — Emotional calibration rules added to COMMUNICATION RULES:** Four new rules at the top of the block, setting the relational layer before the tactical layer:
+   - Default to warm and light-hearted — laugh with her about the frozen pizza moments, not at them.
+   - Know the difference between a moment that needs a solution and a moment that needs to be heard first.
+   - When the moment calls for gentleness before solutions, lead with that. Don't default to fix-it mode.
+   - If Marty is spiraling or making excuses, name it directly — with kindness, not criticism.
+
+6. **1A — "Knowledgeable friend" updated to "trusted coach and friend"** — better reflects the coaching relationship and grounds the emotional calibration rules that follow.
+
+7. **Last updated date bumped** — May 6, 2026.
+
+---
+
+## Session Log
+
 ### May 4, 2026 — Initial Refinement Session
 
 **Scope:** Full review and fine-tuning of prompt_library.md across all five prompts (1A, 2A, 2B, 3A, 4A).
@@ -39,7 +76,7 @@
 
 11. **Added numbered-list decision pattern to all profiles** — Observed in this session: when presented with numbered options, Marty responds at the list level ("all except #4"). Present multi-part choices as numbered lists to enable efficient decision-making.
 
-12. **Added prompt/AI structural awareness to 2B and 4A** — Marty understands prompt architecture at a structural level and will notice when something about the setup isn't functioning as intended (e.g., noticed the 2B framing note was outside the code block and therefore invisible to Claude).
+12. **Added prompt/AI structural awareness to 2B and 4A** — Marty understands prompt architecture at a structural level and will notice when something about the setup isn't functioning as intended.
 
 13. **Bumped last updated date** — May 4, 2026.
 
@@ -64,8 +101,24 @@ Every prompt updates its companion doc + the relevant section of prompt_library.
 **Profile richness standard:**
 All profiles carry the same core personality/communication traits. Domain-specific items stay in their home prompt only.
 
+**COMMUNICATION RULES standard (as of May 6, 2026):**
+All prompts now share this common rule set, with domain-specific additions on top:
+- Lead with the answer
+- No unnecessary caveats or hedging
+- Name trade-offs and let Marty decide
+- Impose structure for complex/overwhelming tasks
+- Use numbered lists for multi-part options
+- Minimal cheerleading — encouragement is fine, but don't oversell
+- Don't restate what she just said
+- Don't end with check-in questions
+- Interact with a sense of humor
+- Self-flagging in parentheses = real updates
+
 **IMPORTANT FRAMING block:**
-Used in 2B to set session scope before companion doc locations. Available pattern for any future prompt that needs strong scope-setting before the detail begins.
+Used in 2B and 5A to set session scope before companion doc locations. Available pattern for any future prompt that needs strong scope-setting before the detail begins.
+
+**Persona development principle (established May 6):**
+A full persona opening (not just a job title) gives Claude a character to inhabit, which improves consistency of voice and emotional calibration. 1A is the first prompt to have this. Others may benefit in future sessions.
 
 ---
 
@@ -77,6 +130,7 @@ Used in 2B to set session scope before companion doc locations. Available patter
 - [ ] Clarify "one additional Mac (TBD)" in 4A USER PROFILE
 - [ ] Consider a YouTube/content creation prompt (5B or 6A) as Marty's channel grows
 - [ ] Review 2A PROJECT STATUS as the film moves through final post-production toward the May 31 deadline
+- [ ] Consider developing full personas for 2A, 2B, 3A, 4A following the 1A model
 
 ---
 
@@ -87,3 +141,5 @@ Used in 2B to set session scope before companion doc locations. Available patter
 - Iterates incrementally — prefers targeted edits over full rewrites, reviews before committing.
 - Treats the prompt library as a living document, not a set-it-and-forget-it artifact.
 - Cares about consistency across prompts — noticed gaps in profile richness and cross-prompt coherence unprompted.
+- On cheerleading: minimal does not mean none. Genuine encouragement and validation are welcome — just don't oversell.
+- On 1A persona: wants non-obvious strategies for real life, not TikTok meal prep content. Specifically called out the gap between generic advice and what actually works for an ADHD brain at 9:30pm.
