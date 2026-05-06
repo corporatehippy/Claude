@@ -4,13 +4,13 @@
 
 Registered Dietitian — Endurance Athlete Focus
 
-*Last updated: April 2026 | Living document — updated each session*
+*Last updated: May 2026 | Living document — updated each session*
 
 ---
 
 ## How to Use This Document
 
-This document is a living reference for ongoing work between client and dietitian. At the start of each new session, Claude retrieves this file directly from GitHub (corporatehippy/Claude repo) via MCP — no need to attach it manually.
+This document is a living reference for ongoing work between client and dietitian. At the start of each new session, Claude retrieves this file directly from GitHub (corporatehippy/Claude) via MCP — no need to attach it manually.
 
 *Sections are updated progressively as new ground is covered. Notes at the end of each section indicate open questions and next steps.*
 
@@ -36,7 +36,7 @@ This document is a living reference for ongoing work between client and dietitia
 - Open to ingredient-level prep (not full meal prep) to reduce mid-week friction
 - Good instinct for immediate ingredient prep: pulls rotisserie chicken off the carcass as soon as she gets home — this is exactly right and should be the model for all 'landing' tasks when groceries arrive
 - Uses a vacuum sealer for freezer storage — proteins stored this way are reliable even long-term (confirmed: last summer's BBQ pulled pork still perfect)
-- Owns a 22" Weber kettle grill — accessible once snow clears from deck (spring/summer cooking option)
+- Owns a 22\" Weber kettle grill — accessible once snow clears from deck (spring/summer cooking option)
 
 ### Current Friction Points
 
@@ -181,6 +181,7 @@ Organized by effort tier. Living list — built out based on what she actually m
 - Leftover anything + fried egg on top
 - Any salad from the salad bank (see below) — if chicken is pre-cooked, 5 min max
 - Kevin's Paleo sous vide chicken pouches over rice — confirmed winner, zero-friction, freezer staple
+- **Fried rice** — leftover rice + frozen veg + 2 eggs + soy sauce + chili garlic sauce or gochujang. One pan, 10 min. Works meatless. Confirmed: pantry already perfectly stocked for this at all times.
 
 ### Tier 2 — Quick Active Cook (20–30 min)
 
@@ -267,10 +268,10 @@ Build around a shared base, diverge on toppings. Chicken pre-cooked on the Forem
 
 ### Proteins
 - Baby back ribs — 1 slab
-- Chicken breasts — 1 package
+- Chicken breasts — 1 package (currently thawing as of May 2026 session)
 - Frozen hamburger patties
 - Bare breaded chicken — nuggets (spicy + regular), maybe tenders, maybe patties. Zero-effort backup protein.
-- Vacuum-sealed carnitas — portioned in 2-3 cup portions, a few weeks old. **Use this week before shopping.**
+- Vacuum-sealed carnitas — portioned in 2-3 cup portions. **Use soon.**
 - Vacuum-sealed pulled pork — from last summer BBQ. Confirmed still excellent quality. Ready to use.
 - Kevin's Paleo sous vide chicken pouches — confirmed winner. Keep stocked.
 - Frozen salmon fillets — in use; glazed version worked well
@@ -281,7 +282,7 @@ Build around a shared base, diverge on toppings. Chicken pre-cooked on the Forem
 - Frozen peppers
 - Maybe various mixed veg
 
-*Full freezer + pantry audit scheduled for next session. Goal: know exactly what's there, toss anything questionable, and build the real staples baseline.*
+*Full freezer + pantry audit still pending. Goal: know exactly what's there, toss anything questionable, and build the real staples baseline.*
 
 ---
 
@@ -289,9 +290,9 @@ Build around a shared base, diverge on toppings. Chicken pre-cooked on the Forem
 
 ### Immediate Priority — Next Session
 
-- **Full freezer + pantry audit** — go through everything category by category. Toss what's past its prime. Build the actual staples baseline from what's real, not assumed.
-- **Confirmed pantry staples to capture:** rice vinegar (always stocked), chili garlic sauce, sriracha — these are already working as flavor bombs.
-- **Use carnitas this week** — it's portioned, it's ready, it's the obvious bridge-to-shopping move.
+- **Full freezer + pantry audit** — still hasn't happened. Go through everything category by category. Toss what's past its prime. Build the actual staples baseline from what's real, not assumed.
+- **Shopping trip** — fridge was cleaned out after vacation (garbage night, May 2026). Essentially starting fresh. Next session: build the restock list using the if-then protein logic.
+- **Confirmed pantry staples to capture:** rice vinegar, chili garlic sauce, sriracha, soy sauce, gochujang, oyster sauce, fish sauce — confirmed stocked and working as flavor bombs.
 
 ### In Progress
 
@@ -317,6 +318,8 @@ Build around a shared base, diverge on toppings. Chicken pre-cooked on the Forem
 - **Kevin's Paleo sous vide chicken over rice** — came through when shopping didn't happen and friends were unexpectedly in town. Quick, no decision required, satisfying. Exactly what the freezer backup tier is for. Keep these stocked.
 - **Glazed salmon over leftover rice (post-trainer ride)** — chili garlic sauce + soy + honey + rice vinegar, 400°F 12-14 min. No miso needed. Thawed during trainer ride, oven on immediately after, dinner ready post-cooldown. Clean execution of the 'finishable not startable' principle.
 - **Vacuum sealer is a real asset** — pulled pork from last summer BBQ still excellent. Carnitas a few weeks old, perfect. This is the end-of-cycle safety net working exactly as intended.
+- **Post-vacation fridge reset (May 2026)** — 8 days away → spoiled fridge → cleaned out on garbage night. First real meal back was salmon + rice (Monday). Second night: fried rice with frozen veg + 2 eggs + soy/chili garlic sauce — meatless, pantry-only, 10 min, actually good. Key reminder: the pantry sauce situation (soy, chili garlic, gochujang, oyster sauce, fish sauce) is strong enough to carry a meal when the fridge is bare. Fried rice is now an explicit no-protein-needed fallback.
+- **Frozen pizza + ice cream at 10:30pm** — noted without judgment. Vacation hangover + gross fridge + barely-thawed chicken = not a character flaw. The system caught back up the next night.
 
 ---
 
