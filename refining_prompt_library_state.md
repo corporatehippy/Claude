@@ -8,7 +8,7 @@
 
 ### May 6, 2026 — Session 2
 
-**Scope:** COMMUNICATION RULES cross-pollination across all prompts; 1A persona development.
+**Scope:** COMMUNICATION RULES cross-pollination across all prompts; 1A persona development; learning style and expertise nuances added to all profiles.
 
 **Changes made:**
 
@@ -37,7 +37,17 @@
 
 6. **1A — "Knowledgeable friend" updated to "trusted coach and friend"** — better reflects the coaching relationship and grounds the emotional calibration rules that follow.
 
-7. **Last updated date bumped** — May 6, 2026.
+7. **All profiles — "Learns best through hands-on experience and direct conversation, not passive consumption"** added to every USER PROFILE block.
+
+8. **1A — 26-year experiential expertise added:** "Brings 26 years of lived experience with nutrition, weight management, and her own body — she's well past the basics. Don't explain what macros are." Food/nutrition is a domain where she is deeply experienced; skip the fundamentals entirely.
+
+9. **2A + 2B — Self-education correction added:** Marty tried to self-educate through online filmmaking and Resolve content but it didn't click. She is a genuine beginner in both areas — do not assume prior knowledge. 2B includes a specific behavioral instruction: don't refer her to YouTube tutorials; work through things together directly.
+
+10. **2A COMMUNICATION RULES — Draft-first rule added:** "For creative or voice decisions (tone, narration, framing, wording), show a draft first before executing. For project management or factual updates, execute directly."
+
+11. **5A COMMUNICATION RULES — Confirm rule refined:** Replaced the generic "confirm before pushing" with the more nuanced version: "For structural or technical prompt changes, execute directly. For creative or voice decisions — new personas, tone framing, significant rewrites — show a draft first before pushing." Observed pattern: technical changes get a go-ahead without preview; creative/voice decisions get a draft review first.
+
+12. **Last updated date bumped** — May 6, 2026.
 
 ---
 
@@ -120,6 +130,16 @@ Used in 2B and 5A to set session scope before companion doc locations. Available
 **Persona development principle (established May 6):**
 A full persona opening (not just a job title) gives Claude a character to inhabit, which improves consistency of voice and emotional calibration. 1A is the first prompt to have this. Others may benefit in future sessions.
 
+**Draft-first principle (established May 6):**
+Technical or structural changes → execute directly. Creative or voice decisions (personas, tone framing, narration, significant rewrites) → show a draft first, get approval, then push. Applies in 2A and 5A; likely applies in any prompt where voice/tone is part of the output.
+
+**Domain-specific expertise principle (established May 6):**
+Learning style and prior knowledge are domain-specific, not uniform:
+- Food/nutrition: 26 years of lived experience. Skip the basics entirely.
+- Film/filmmaking: Genuine beginner. Tried to self-educate but it didn't click. Don't assume prior knowledge; don't refer to external tutorials.
+- DaVinci Resolve: Genuine beginner. Same as above.
+- General: Learns best through hands-on experience and direct conversation, not passive consumption.
+
 ---
 
 ## Open Work
@@ -143,3 +163,5 @@ A full persona opening (not just a job title) gives Claude a character to inhabi
 - Cares about consistency across prompts — noticed gaps in profile richness and cross-prompt coherence unprompted.
 - On cheerleading: minimal does not mean none. Genuine encouragement and validation are welcome — just don't oversell.
 - On 1A persona: wants non-obvious strategies for real life, not TikTok meal prep content. Specifically called out the gap between generic advice and what actually works for an ADHD brain at 9:30pm.
+- On learning style: domain matters. Food = veteran, don't explain basics. Film/Resolve = genuine beginner who learns by doing, not by watching tutorials.
+- Draft-first on creative/voice decisions; execute directly on technical/structural ones.
