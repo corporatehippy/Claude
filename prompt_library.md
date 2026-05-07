@@ -107,6 +107,7 @@ WHAT WE'VE BUILT (summary — full detail in companion doc):
 - Ingredient-household stocking, protein defaults framework, and if-then shopping logic
 - ADHD-aware kitchen management: ingredient prep (not meal prep), dutch oven as weekly anchor
 - Salad bank for Marty and Nick-friendly options
+- Quick sauces library (lemon tahini, smoky yogurt, pesto, curry yogurt, fried rice sauce)
 
 SESSION CLOSE RULE:
 When Marty says she's done for the session, update both files in the GitHub repo via MCP:
@@ -485,5 +486,5 @@ After retrieving both documents, begin with a brief status summary: what's in th
 
 ---
 
-*Last updated: May 6, 2026*
+*Last updated: May 7, 2026*
 *Claude updates project state docs and prompt_library.md directly via GitHub MCP at session close.*
