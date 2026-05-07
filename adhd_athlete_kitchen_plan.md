@@ -36,7 +36,8 @@ This document is a living reference for ongoing work between client and dietitia
 - Open to ingredient-level prep (not full meal prep) to reduce mid-week friction
 - Good instinct for immediate ingredient prep: pulls rotisserie chicken off the carcass as soon as she gets home — this is exactly right and should be the model for all 'landing' tasks when groceries arrive
 - Uses a vacuum sealer for freezer storage — proteins stored this way are reliable even long-term (confirmed: last summer's BBQ pulled pork still perfect)
-- Owns a 22\" Weber kettle grill — accessible once snow clears from deck (spring/summer cooking option)
+- Owns a 22" Weber kettle grill — accessible once snow clears from deck (spring/summer cooking option)
+- Owns a good wok — confirmed in use, excellent for fried rice
 
 ### Current Friction Points
 
@@ -181,7 +182,7 @@ Organized by effort tier. Living list — built out based on what she actually m
 - Leftover anything + fried egg on top
 - Any salad from the salad bank (see below) — if chicken is pre-cooked, 5 min max
 - Kevin's Paleo sous vide chicken pouches over rice — confirmed winner, zero-friction, freezer staple
-- **Fried rice** — leftover rice + frozen veg + 2 eggs + soy sauce + chili garlic sauce or gochujang. One pan, 10 min. Works meatless. Confirmed: pantry already perfectly stocked for this at all times.
+- **Fried rice** — leftover rice + frozen veg + eggs + soy sauce + chili garlic sauce or gochujang. Wok preferred, one pan, 10 min. Works meatless. Nick-approved. See execution notes for confirmed technique.
 
 ### Tier 2 — Quick Active Cook (20–30 min)
 
@@ -223,6 +224,7 @@ Organized by effort tier. Living list — built out based on what she actually m
 - **Sheet pan sausage and potatoes** — Italian sausage sliced + potatoes cubed + olive oil + seasoning. 400°F, 35-40 min. Zero dishes.
 - **Shakshuka** — fire roasted tomatoes + eggs cracked in + spices. 20 min, one pan. Breakfast-for-dinner energy.
 - **Baby back ribs** — oven version: 275°F, 2.5-3 hours wrapped in foil, then 15 min uncovered with sauce. Weekend afternoon project, not a weeknight move. Weber kettle available once snow is off the deck (now accessible as of spring 2026).
+- **Sheet pan chicken + sweet potato** — cube sweet potato 3/4 inch, season with olive oil + cumin + chili powder + garlic powder + salt, 425°F 10-12 min first. Add chicken breasts (whole or cubed), same seasoning, another 20-22 min. Squeeze lime at end. Serve with lemon tahini or any quick sauce. Nick-friendly. Confirmed May 2026.
 - Salsa chicken
 - Barbacoa
 - Carnitas
@@ -235,7 +237,19 @@ Organized by effort tier. Living list — built out based on what she actually m
 
 ---
 
-## 6. Salad Bank
+## 6. Quick Sauces (2 Minutes or Less)
+
+No-cook sauces that work over roasted things, grain bowls, and sheet pan meals.
+
+- **Lemon tahini** — 3 tbsp tahini + juice of half a lemon + 1 small garlic clove grated (or pinch of garlic powder) + pinch of salt + water 1 tbsp at a time until pourable. Taste and adjust. Keeps in fridge all week. Especially good on sweet potato. Confirmed May 2026.
+- **Smoky yogurt** — greek yogurt + lemon + smoked paprika or smoky hot sauce + salt + garlic powder. Cool against hot roasted things. Dollop, don't drizzle.
+- **Pesto** — straight from the jar. Unironically great over roasted chicken and sweet potato. Lowest friction option.
+- **Curry yogurt** — greek yogurt + spoonful of red curry paste + squeeze of lemon. *Flagged as future experiment — save for a day with bandwidth to be curious. No experience with it yet; can't predict the outcome.*
+- **Fried rice sauce** — ~1/2 cup soy sauce + chili garlic sauce + oyster sauce + red pepper flakes, stir together, splash of rice vinegar after tasting. Toss over finished rice in the wok. Confirmed ratio May 2026.
+
+---
+
+## 7. Salad Bank
 
 ### Marty's Established Salads
 
@@ -262,13 +276,13 @@ Build around a shared base, diverge on toppings. Chicken pre-cooked on the Forem
 
 ---
 
-## 7. Freezer Inventory (Partial — Audit In Progress)
+## 8. Freezer Inventory (Partial — Audit In Progress)
 
 *Captured during session; full audit is next priority. Items noted as approximate.*
 
 ### Proteins
 - Baby back ribs — 1 slab
-- Chicken breasts — 1 package (currently thawing as of May 2026 session)
+- Chicken breasts — used May 2026 (sheet pan with sweet potato)
 - Frozen hamburger patties
 - Bare breaded chicken — nuggets (spicy + regular), maybe tenders, maybe patties. Zero-effort backup protein.
 - Vacuum-sealed carnitas — portioned in 2-3 cup portions. **Use soon.**
@@ -286,13 +300,13 @@ Build around a shared base, diverge on toppings. Chicken pre-cooked on the Forem
 
 ---
 
-## 8. Open Questions & Next Steps
+## 9. Open Questions & Next Steps
 
 ### Immediate Priority — Next Session
 
 - **Full freezer + pantry audit** — still hasn't happened. Go through everything category by category. Toss what's past its prime. Build the actual staples baseline from what's real, not assumed.
-- **Shopping trip** — fridge was cleaned out after vacation (garbage night, May 2026). Essentially starting fresh. Next session: build the restock list using the if-then protein logic.
-- **Confirmed pantry staples to capture:** rice vinegar, chili garlic sauce, sriracha, soy sauce, gochujang, oyster sauce, fish sauce — confirmed stocked and working as flavor bombs.
+- **Shopping trip** — fridge cleaned out post-vacation. Restocking from near-zero. Build the list using if-then protein logic.
+- **Confirmed pantry staples to capture:** rice vinegar, chili garlic sauce, sriracha, soy sauce, gochujang, oyster sauce, fish sauce, tahini, greek yogurt, pesto (jarred) — confirmed stocked and in use.
 
 ### In Progress
 
@@ -308,18 +322,21 @@ Build around a shared base, diverge on toppings. Chicken pre-cooked on the Forem
 - End-of-cycle strategy when pantry is low and fresh proteins are gone
 - Specific athlete fueling guidance around training blocks and race season
 - Lunch ideas beyond current rotation — good base exists, room to expand
+- Curry yogurt sauce — interesting but flagged for a day with bandwidth to experiment
 
 ---
 
-## 9. Real-Life Execution Notes
+## 10. Real-Life Execution Notes
 
 *Running log of how the system performs in actual use — what works, what breaks down, what gets adapted.*
 
 - **Kevin's Paleo sous vide chicken over rice** — came through when shopping didn't happen and friends were unexpectedly in town. Quick, no decision required, satisfying. Exactly what the freezer backup tier is for. Keep these stocked.
 - **Glazed salmon over leftover rice (post-trainer ride)** — chili garlic sauce + soy + honey + rice vinegar, 400°F 12-14 min. No miso needed. Thawed during trainer ride, oven on immediately after, dinner ready post-cooldown. Clean execution of the 'finishable not startable' principle.
 - **Vacuum sealer is a real asset** — pulled pork from last summer BBQ still excellent. Carnitas a few weeks old, perfect. This is the end-of-cycle safety net working exactly as intended.
-- **Post-vacation fridge reset (May 2026)** — 8 days away → spoiled fridge → cleaned out on garbage night. First real meal back was salmon + rice (Monday). Second night: fried rice with frozen veg + 2 eggs + soy/chili garlic sauce — meatless, pantry-only, 10 min, actually good. Key reminder: the pantry sauce situation (soy, chili garlic, gochujang, oyster sauce, fish sauce) is strong enough to carry a meal when the fridge is bare. Fried rice is now an explicit no-protein-needed fallback.
+- **Post-vacation fridge reset (May 2026)** — 8 days away → spoiled fridge → cleaned out on garbage night. First real meal back was salmon + rice (Monday). Second night: fried rice — meatless, pantry-only, 10 min, actually good. Key reminder: the pantry sauce situation is strong enough to carry a meal when the fridge is bare. Fried rice is now an explicit no-protein-needed fallback.
 - **Frozen pizza + ice cream at 10:30pm** — noted without judgment. Vacation hangover + gross fridge + barely-thawed chicken = not a character flaw. The system caught back up the next night.
+- **Fried rice — confirmed technique (wok, May 2026):** Canola oil in wok, heat up. Small-diced onion + lots of garlic, cook briefly. Add frozen mixed veg, cook until warmed and getting color. Add rice (brown, 2-3 cups), move around. Drizzle of sesame oil. Make a well, add bit of sesame oil, add 4 scrambled eggs — cook and fold into rice. Sauce: ~1/2 cup soy + chili garlic sauce + oyster sauce + red pepper flakes stirred together, splash of rice vinegar after tasting. Toss and serve. Nick loved it.
+- **Sheet pan chicken + sweet potato + lemon tahini (May 2026):** Sweet potato cubed 3/4 inch + olive oil + cumin + chili powder + garlic powder + salt → 425°F 10-12 min first. Add chicken breasts (whole), same seasoning, 20-22 more min. Lime squeezed at end. Lemon tahini alongside: 3 tbsp tahini + half lemon juice + garlic + salt + water to thin. Easy, Nick-friendly, reheats well.
 
 ---
 
