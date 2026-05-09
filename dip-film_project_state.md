@@ -1,6 +1,6 @@
 # Dips with the Girl Gang - Project State
 
-**Last Updated:** 2026-04-15
+**Last Updated:** 2026-05-09
 
 ---
 
@@ -9,7 +9,7 @@
 **Working Title:** Dips with the Girl Gang (or Daily Dips - TBD)
 
 **Format:** Documentary short  
-**Runtime:** 8:03 (LOCKED)  
+**Runtime:** 8:03 + opening extension (picture lock adjusted — see Session 5 notes)  
 **Aspect Ratio:** Mixed (vertical iPhone footage + horizontal GoPro + stills)
 
 **Logline:**  
@@ -59,12 +59,12 @@ Two acquaintances meet at a Lake Superior beach for morning dips in September. A
 ### CURRENT PHASE: Audio Mix → Color Grade → Export
 
 **What's Locked:**
-- **VIDEO EDIT: PICTURE LOCKED at 8:03.** Do not cut further — every remaining second carries weight.
+- **VIDEO EDIT: PICTURE LOCKED (with opening adjustment — see below).** Every remaining second carries weight.
 - Script structure and emotional arc
 - Opening hook: "this is the thing that brought me back"
 - Karesa/girl gang beat as Act 2.5
 - Closing beat: "I love us" / "Me too"
-- Injury/depression section VO (final version — confirm re-record status):
+- Injury/depression section VO (final version — **do not re-record**):
   * "For three years, plantar fasciitis kept me off my feet. One foot, then the other. The pain was constant."
   * "Hiking and running in the woods—that's what kept me sane. And I just... couldn't."
   * "By the time I was recovered, I was out of shape. Overweight. Miserable."
@@ -72,7 +72,15 @@ Two acquaintances meet at a Lake Superior beach for morning dips in September. A
   * "And I felt shame for that. Guilt for ignoring the paradise I live in."
 - **MUSIC DECISION: No score.** Layered ambient audio (wind, waves, laughter, conversation bleeding through) IS the score.
 - **ENDING: LOCKED.** GoPro ice-sheet dip audio (talk-laughing) carries through from "still find light" into screenshot/dynamic zoom → "I love us" / "Me too". Do not touch.
-- **SCREENING: DONE.** Dawn and Karesa watched on Jeep hood before a dip. Loved it. Were moved. Both gasped at the scrolling photo library scene — cumulative volume of days represented hit hard. A third friend arrived mid-screening, watched for seconds, whispered "this is beautiful" — cold-viewer validation, no context, no investment. Film works on strangers.
+- **SCREENING: DONE.** Dawn and Karesa watched on Jeep hood before a dip. Loved it. Were moved. Both gasped at the scrolling photo library scene — cumulative volume of days represented hit hard. A third friend arrived mid-screening, watched for seconds, whispered "this is beautiful" — cold-viewer validation, no context, no investment. Film works on strangers. Additional informal screenings since — positive feedback, non-specific.
+
+**Opening Scene (ADJUSTED — Session 5):**
+- Scene: Frozen cove in January. Three shots — frozen cove → entering water → shoulder-deep. Ambient chatter audible throughout.
+- **VO was starting ~4 seconds in. Extended all three shots to push VO start to ~10 seconds.** Gives audience time to settle before narration begins. Runtime increased slightly — correct tradeoff.
+- Pacing fix, not a content change. Correct call.
+
+**VO Re-Record Decision (Session 5):**
+- **Decision: Do not re-record.** "Don't let perfect be the enemy of good." VO is done. Move on.
 
 **What's Shot:**
 - Daily iPhone footage (Dawn's POV, portrait, phone-in-shoe tripod) - Sept 2025–present
@@ -103,6 +111,8 @@ Two acquaintances meet at a Lake Superior beach for morning dips in September. A
 - **Still image sections:** Manually placed ambient audio — treat like A1
 
 **Key mixing challenge:** A1+A2+A3 sum in iPhone sections — will be louder than GoPro sections unless A2/A3 faders are pulled down to compensate. See Fairlight guide for full workflow.
+
+**Known audio issue (from TV screening — Session 5):** First third of the film has thin ambient — background sounds largely lost. Second 2/3 is well balanced and correct. Fairlight work needs to focus heavily on the first third: bring A1 up in those sections.
 
 **Headphone caveat:** DT770 Pros are bass-heavy — ambient will sound fuller than on other speakers. Don't over-correct low end based on headphone monitoring alone.
 
@@ -160,7 +170,10 @@ Resolved. Specificity and honesty > abstract poetic language. Natural voice IS t
 No score. Ambient layered audio (wind, waves, laughter, voices) is the film's sonic identity.
 
 ### ~~RUNTIME~~ (RESOLVED - 2026-04-15)
-Picture locked at 8:03. Cold-viewer response confirmed film works at this length. Do not cut further.
+Picture locked at 8:03 + opening extension. Cold-viewer response confirmed film works at this length. Do not cut further.
+
+### ~~VO RE-RECORD~~ (RESOLVED - 2026-05-09)
+Do not re-record. VO is done. Don't let perfect be the enemy of good.
 
 ### MIXED ASPECT RATIO
 Decision still pending. Options: commit to one orientation / embrace mix as aesthetic / use ratio shifts to mark transitions.
@@ -174,7 +187,6 @@ Decision still pending. Options: commit to one orientation / embrace mix as aest
 - [ ] Credits: include Dawn and Karesa? archival footage attribution?
 - [ ] Color grade approach — naturalistic correction priority (match iPhone + GoPro)
 - [ ] Script cuts from v5 flagged section above
-- [ ] Confirm injury VO re-record status
 - [ ] Press kit — optional but recommended for Fresh Coast. Worth preparing.
 - [ ] Vimeo screener setup (upload, set password, enable download) before May 31
 
@@ -182,7 +194,7 @@ Decision still pending. Options: commit to one orientation / embrace mix as aest
 
 ## NEXT STEPS
 
-1. **Fairlight audio balance** — use fairlight_audio_guide.docx. Anchor on A4 VO, set A1 reference level, tame triple-track iPhone sections, spot-check stills audio, full pass start to finish.
+1. **Fairlight audio balance** — use fairlight_audio_guide.docx. Anchor on A4 VO, set A1 reference level, tame triple-track iPhone sections, spot-check stills audio, full pass start to finish. **Priority: first third of film — ambient is thin there. Second 2/3 is already close.**
 2. **Color grade** — naturalistic correction first. Goal: seamless cuts between iPhone and GoPro footage.
 3. **Picture + sound + color lock**
 4. **Set up Vimeo screener** — upload, password protect, enable download
@@ -224,13 +236,13 @@ Decision still pending. Options: commit to one orientation / embrace mix as aest
 - **PICTURE LOCKED at 8:03.** Tightened from 8:15. Marty called video editing done — right call.
 - **Screening completed.** Dawn and Karesa watched on Jeep hood before a dip. Both moved. Both gasped at scrolling photo library scene — cumulative volume of days hit them viscerally. A third friend (cold viewer, no prior context) arrived mid-screening, watched seconds, whispered "this is beautiful." Strong external validation.
 - **Photo library scene confirmed as a standout moment** — worth noting in any director's statement or festival Q&A.
-- **Fresh Coast submission details confirmed** from FilmFreeway listing:
-  - Final deadline: May 31, 2026
-  - Notification: August 14, 2026
-  - Event: October 15–18, 2026
-  - Submission: Vimeo screener with download enabled
-  - They accept works-in-progress
-  - **Best First Time Filmmaker award** — explicit category Marty should target
-  - Audio rights: clean (all original ambient, no licensed music)
+- **Fresh Coast submission details confirmed** from FilmFreeway listing
 - **Fairlight audio guide created** (fairlight_audio_guide.docx) — 5-step workflow, level targets, DT770 bass-heavy caveat, triple-track summing issue, full setup notes
 - Next session: Fairlight audio balance
+
+**2026-05-09 - Session 5:**
+- No editing work since Session 4. Additional informal screenings — positive feedback, non-specific.
+- **TV screening observation:** Watched on a large TV with real sound system — first opportunity to hear and see at scale. Key finding: ambient audio in first third largely lost; second 2/3 well balanced and correct. Confirms Fairlight is the right next focus, with priority on the first third.
+- **Opening scene extended:** Frozen cove scene (January) — all three shots extended (frozen cove → entering → shoulder-deep). VO was starting ~4 seconds in; pushed to ~10 seconds. Gives audience time to settle. Slight runtime increase — correct tradeoff. Pacing fix, not a content change.
+- **VO re-record: DECIDED against.** "Don't let perfect be the enemy of good." VO is done. Locked.
+- **Fairlight session postponed** — needs 1-2 hours of focused time; Marty will tackle tonight.
