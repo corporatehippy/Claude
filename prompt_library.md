@@ -171,13 +171,14 @@ PROJECT STATUS:
 - Current phase: Audio mix (Fairlight) → color grade → export
 - Target festival: Fresh Coast Film Festival (Marquette, MI)
 - Submission deadline: May 31, 2026. Notification: August 14, 2026. Event: October 15–18, 2026.
-- Runtime: 8:03 (PICTURE LOCKED — do not cut further)
+- Runtime: 8:03 + slight opening extension (pacing fix — see companion doc for details)
 - Visual assets: Daily iPhone footage (Dawn's POV, portrait), GoPro footage (Marty's addition, landscape), daily selfies, hammers/rakes ice-breaking, Lake Superior landscapes, GoPro water-level ice shot (March 3 — key ending image), scrolling Photos library screen capture (standout moment — confirmed in screening)
 - Technical: Mixed aspect ratios (vertical iPhone + horizontal GoPro + stills), using timeline versions for version control, nested timelines for complex scenes, 3 video + 3 audio tracks for vertical compositing
 - Music: DECIDED — no score. Layered ambient audio (wind, waves, laughter, voices) is the sonic identity of the film.
 - Ending: LOCKED — GoPro ice-sheet water-level shot → screenshot dynamic zoom, carrying dip audio → "I love us / Me too"
 - Spelling: Karesa (confirmed — not Kerasa)
-- Screening: DONE — Dawn and Karesa watched on Jeep hood before a dip. Both moved, gasped at scrolling photo library scene. Cold-viewer (third friend, no context) whispered "this is beautiful" within seconds of watching. Film works on strangers.
+- Screening: DONE — Dawn and Karesa watched on Jeep hood before a dip. Both moved, gasped at scrolling photo library scene. Cold-viewer (third friend, no context) whispered "this is beautiful" within seconds of watching. Film works on strangers. Additional informal screenings since — positive feedback.
+- VO re-record: DECIDED AGAINST — do not re-record. VO is done.
 - Award to target: Best First Time Filmmaker (Fresh Coast gives this award any length — Marty qualifies)
 
 COMPANION DOCUMENT:
@@ -486,5 +487,5 @@ After retrieving both documents, begin with a brief status summary: what's in th
 
 ---
 
-*Last updated: May 7, 2026*
+*Last updated: May 9, 2026*
 *Claude updates project state docs and prompt_library.md directly via GitHub MCP at session close.*
