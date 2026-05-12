@@ -1,6 +1,6 @@
 # Dips with the Girl Gang - Project State
 
-**Last Updated:** 2026-05-09
+**Last Updated:** 2026-05-11
 
 ---
 
@@ -56,7 +56,7 @@ Two acquaintances meet at a Lake Superior beach for morning dips in September. A
 
 ## PRODUCTION STATUS
 
-### CURRENT PHASE: Audio Mix → Color Grade → Export
+### CURRENT PHASE: Audio Mix (IN PROGRESS) → Color Grade → Export
 
 **What's Locked:**
 - **VIDEO EDIT: PICTURE LOCKED (with opening adjustment — see below).** Every remaining second carries weight.
@@ -97,7 +97,7 @@ Two acquaintances meet at a Lake Superior beach for morning dips in September. A
 - Nested timelines for complex composite scenes
 - VO on Track A4 (locked — reference level for audio mix)
 - 3 video tracks + 3 audio tracks for vertical footage compositing
-- **Next technical session: Fairlight audio balance**
+- **Next technical session: Complete Fairlight audio balance**
 - Fairlight guide doc created (fairlight_audio_guide.docx) — covers 5-step workflow, DT770 caveat, triple-track summing issue, level targets
 
 ---
@@ -115,6 +115,14 @@ Two acquaintances meet at a Lake Superior beach for morning dips in September. A
 **Known audio issue (from TV screening — Session 5):** First third of the film has thin ambient — background sounds largely lost. Second 2/3 is well balanced and correct. Fairlight work needs to focus heavily on the first third: bring A1 up in those sections.
 
 **Headphone caveat:** DT770 Pros are bass-heavy — ambient will sound fuller than on other speakers. Don't over-correct low end based on headphone monitoring alone.
+
+**Fairlight orientation notes (Session 6):**
+- A4 VO levels confirmed correct — peaks around −10 to −9, body of track around −15. Do not touch A4 fader.
+- A1 in GoPro sections is too quiet — mostly −40 to −30 with occasional peaks around −20. Needs to come up to −20 to −15 range on active moments.
+- Mixer (lower right) is the right workspace. Upper-left sliders are not the tool.
+- Track fader in Mixer = whole track. Clip-by-clip adjustment = hover near top edge of clip in timeline → drag the volume overlay line.
+- Goal is not identical levels across all clips — goal is no jarring surprises. Fix the offenders; trust your ears. Meters are a sanity check, not the primary tool.
+- Session ended with some progress made but orientation/confidence was the main win. Returning with fresh ears next session.
 
 ---
 
@@ -194,7 +202,7 @@ Decision still pending. Options: commit to one orientation / embrace mix as aest
 
 ## NEXT STEPS
 
-1. **Fairlight audio balance** — use fairlight_audio_guide.docx. Anchor on A4 VO, set A1 reference level, tame triple-track iPhone sections, spot-check stills audio, full pass start to finish. **Priority: first third of film — ambient is thin there. Second 2/3 is already close.**
+1. **Complete Fairlight audio balance** — use fairlight_audio_guide.docx. Anchor on A4 VO (confirmed correct — do not touch). Bring A1 up in first third (ambient is thin). Use clip volume overlay lines for clip-by-clip adjustments; use Mixer fader for overall track level. Fix the offenders by ear. Tame triple-track iPhone sections. Full pass start to finish. **Priority: first third of film.**
 2. **Color grade** — naturalistic correction first. Goal: seamless cuts between iPhone and GoPro footage.
 3. **Picture + sound + color lock**
 4. **Set up Vimeo screener** — upload, password protect, enable download
@@ -246,3 +254,14 @@ Decision still pending. Options: commit to one orientation / embrace mix as aest
 - **Opening scene extended:** Frozen cove scene (January) — all three shots extended (frozen cove → entering → shoulder-deep). VO was starting ~4 seconds in; pushed to ~10 seconds. Gives audience time to settle. Slight runtime increase — correct tradeoff. Pacing fix, not a content change.
 - **VO re-record: DECIDED against.** "Don't let perfect be the enemy of good." VO is done. Locked.
 - **Fairlight session postponed** — needs 1-2 hours of focused time; Marty will tackle tonight.
+
+**2026-05-11 - Session 6:**
+- **Fairlight orientation session.** No prior Fairlight experience — this was the first real time in the interface.
+- **A4 VO levels confirmed correct:** peaks around −10 to −9, body around −15. Anchor is set. Do not touch A4 fader.
+- **A1 GoPro sections too quiet:** mostly −40 to −30, occasional peaks around −20. Needs to come up significantly.
+- **Key concepts locked in:**
+  - Mixer (lower right) is the workspace. Upper-left sliders are not the tool for this.
+  - Track fader = whole track. Clip-by-clip = hover near top edge of clip → drag volume overlay line.
+  - Goal is not identical clip levels — goal is no jarring surprises. Fix the offenders. Trust ears; use meters as sanity check.
+- Some progress made on clip adjustments; got briefly confused by starting with wrong sliders but self-corrected.
+- Ended session intentionally — coming back with fresh ears. Intimidation is gone. Orientation is solid.
