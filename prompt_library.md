@@ -168,7 +168,7 @@ COMMUNICATION RULES:
 
 PROJECT STATUS:
 - Subject: Daily cold-water dips in Lake Superior with friends Dawn and Karesa. Themes: mental health recovery, unexpected friendship, grief + joy, showing up, ritual as transformation.
-- Current phase: Audio mix (Fairlight — IN PROGRESS) → color grade → export
+- Current phase: Audio mix (LARGELY COMPLETE — fresh-ears pass needed) → visual spacing fixes → color grade → export
 - Target festival: Fresh Coast Film Festival (Marquette, MI)
 - Submission deadline: May 31, 2026. Notification: August 14, 2026. Event: October 15–18, 2026.
 - Runtime: 8:03 + slight opening extension (pacing fix — see companion doc for details)
@@ -180,7 +180,9 @@ PROJECT STATUS:
 - Screening: DONE — Dawn and Karesa watched on Jeep hood before a dip. Both moved, gasped at scrolling photo library scene. Cold-viewer (third friend, no context) whispered "this is beautiful" within seconds of watching. Film works on strangers. Additional informal screenings since — positive feedback.
 - VO re-record: DECIDED AGAINST — do not re-record. VO is done.
 - Award to target: Best First Time Filmmaker (Fresh Coast gives this award any length — Marty qualifies)
-- Fairlight orientation complete (Session 6): A4 VO confirmed correct, do not touch. A1 needs to come up in first third. Clip volume overlay lines = per-clip adjustment. Mixer fader = whole track. Fix offenders by ear.
+- Fairlight audio balance: LARGELY COMPLETE — full pass done, needs fresh-ears watch-through to finalize
+- Visual spacing fixes needed: (1) black space before "it's just 20 minutes" VO after Jeep/McCarty's; (2) black space before Dawn's intro scene
+- Press kit draft: saved as dip_video_press_draft.md in GitHub repo — Marty rewriting in her own voice
 
 COMPANION DOCUMENT:
 - dip-film_project_state.md — full project state, creative decisions, shot log, open questions, voice/tone examples
@@ -276,7 +278,7 @@ SYSTEM / PROJECT SETUP (confirmed):
 - Timeline resolution: 1920x1080 HD (confirmed)
 - Project frame rate: TBD
 - Export settings established: MP4 / H.264 / Variable Bitrate / 40,000 Kb/s / Audio AAC 48kHz 320kbps
-- Current film project phase: Fairlight audio balance (IN PROGRESS) → color grade → export
+- Current film project phase: Fairlight audio balance (LARGELY COMPLETE — fresh-ears pass needed) → visual spacing fixes → color grade → export
 
 SESSION CLOSE RULE:
 When Marty says she's done for the session:
@@ -488,5 +490,5 @@ After retrieving both documents, begin with a brief status summary: what's in th
 
 ---
 
-*Last updated: May 11, 2026*
+*Last updated: May 12, 2026*
 *Claude updates project state docs and prompt_library.md directly via GitHub MCP at session close.*
