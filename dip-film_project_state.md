@@ -1,6 +1,6 @@
 # Dips with the Girl Gang - Project State
 
-**Last Updated:** 2026-05-11
+**Last Updated:** 2026-05-12
 
 ---
 
@@ -56,7 +56,7 @@ Two acquaintances meet at a Lake Superior beach for morning dips in September. A
 
 ## PRODUCTION STATUS
 
-### CURRENT PHASE: Audio Mix (IN PROGRESS) → Color Grade → Export
+### CURRENT PHASE: Audio Mix (LARGELY COMPLETE — fresh-ears pass needed) → Visual spacing fixes → Color Grade → Export
 
 **What's Locked:**
 - **VIDEO EDIT: PICTURE LOCKED (with opening adjustment — see below).** Every remaining second carries weight.
@@ -97,7 +97,6 @@ Two acquaintances meet at a Lake Superior beach for morning dips in September. A
 - Nested timelines for complex composite scenes
 - VO on Track A4 (locked — reference level for audio mix)
 - 3 video tracks + 3 audio tracks for vertical footage compositing
-- **Next technical session: Complete Fairlight audio balance**
 - Fairlight guide doc created (fairlight_audio_guide.docx) — covers 5-step workflow, DT770 caveat, triple-track summing issue, level targets
 
 ---
@@ -122,7 +121,18 @@ Two acquaintances meet at a Lake Superior beach for morning dips in September. A
 - Mixer (lower right) is the right workspace. Upper-left sliders are not the tool.
 - Track fader in Mixer = whole track. Clip-by-clip adjustment = hover near top edge of clip in timeline → drag the volume overlay line.
 - Goal is not identical levels across all clips — goal is no jarring surprises. Fix the offenders; trust your ears. Meters are a sanity check, not the primary tool.
-- Session ended with some progress made but orientation/confidence was the main win. Returning with fresh ears next session.
+
+**Audio mix status (Session 7):**
+- Full Fairlight balance pass completed. Tedious but thinks it landed well.
+- Did not do a complete watch-through — was fried and tired of hearing herself in the VO.
+- **Next step: fresh-ears full watch-through, adjust where needed.**
+
+---
+
+## VISUAL SPACING FIXES (noted Session 7 — fix on next editing pass)
+
+1. **Jeep drive → McCarty's → "it's just 20 minutes"** — needs black space before the VO so it has room to breathe
+2. **Dawn's intro** — scene cuts in too fast after the preceding scene; needs black space before it to let the tonal shift to Dawn's more somber story land properly
 
 ---
 
@@ -169,6 +179,15 @@ Two acquaintances meet at a Lake Superior beach for morning dips in September. A
 
 ---
 
+## PRESS KIT
+
+- **Draft saved:** `dip_video_press_draft.md` in GitHub repo (generated Session 7 as reference)
+- Includes: logline, short synopsis (~120 words), long synopsis (~270 words), director's statement (~280 words)
+- **Marty intends to rewrite in her own voice** — draft is a reference/starting point only
+- Still needed: film stills (3–5 screenshots from best footage), director bio, technical specs page
+
+---
+
 ## CURRENT CREATIVE CHALLENGES
 
 ### ~~VOICE / TONE ISSUE~~ (RESOLVED - 2026-04-05)
@@ -195,20 +214,21 @@ Decision still pending. Options: commit to one orientation / embrace mix as aest
 - [ ] Credits: include Dawn and Karesa? archival footage attribution?
 - [ ] Color grade approach — naturalistic correction priority (match iPhone + GoPro)
 - [ ] Script cuts from v5 flagged section above
-- [ ] Press kit — optional but recommended for Fresh Coast. Worth preparing.
-- [ ] Vimeo screener setup (upload, set password, enable download) before May 31
+- [ ] Press kit — Marty rewriting in her own voice; draft reference saved
+- [ ] Vimeo screener setup (upload, set password, enable download) before May 31 — Marty handling independently
 
 ---
 
 ## NEXT STEPS
 
-1. **Complete Fairlight audio balance** — use fairlight_audio_guide.docx. Anchor on A4 VO (confirmed correct — do not touch). Bring A1 up in first third (ambient is thin). Use clip volume overlay lines for clip-by-clip adjustments; use Mixer fader for overall track level. Fix the offenders by ear. Tame triple-track iPhone sections. Full pass start to finish. **Priority: first third of film.**
-2. **Color grade** — naturalistic correction first. Goal: seamless cuts between iPhone and GoPro footage.
-3. **Picture + sound + color lock**
-4. **Set up Vimeo screener** — upload, password protect, enable download
-5. **Submit to Fresh Coast** — deadline May 31, 2026
-6. **Optional: prepare press kit** — recommended by festival, electronic only
-7. **Wait for notification** — August 14, 2026
+1. **Fresh-ears full watch-through** — assess audio balance, adjust where needed
+2. **Visual spacing fixes** — add black space before "it's just 20 minutes" VO section (after Jeep/McCarty's) and before Dawn's intro scene
+3. **Color grade** — naturalistic correction first. Goal: seamless cuts between iPhone and GoPro footage.
+4. **Picture + sound + color lock**
+5. **Set up Vimeo screener** — upload, password protect, enable download (Marty handling)
+6. **Submit to Fresh Coast** — deadline May 31, 2026
+7. **Press kit** — Marty rewriting from draft reference; add stills, bio, tech specs
+8. **Wait for notification** — August 14, 2026
 
 ---
 
@@ -265,3 +285,11 @@ Decision still pending. Options: commit to one orientation / embrace mix as aest
   - Goal is not identical clip levels — goal is no jarring surprises. Fix the offenders. Trust ears; use meters as sanity check.
 - Some progress made on clip adjustments; got briefly confused by starting with wrong sliders but self-corrected.
 - Ended session intentionally — coming back with fresh ears. Intimidation is gone. Orientation is solid.
+
+**2026-05-12 - Session 7:**
+- **Fairlight audio balance: complete (rough pass).** Spent a couple of hours. Tedious. Thinks it landed well. Did not do a full watch-through — too fried, too tired of hearing herself in the VO. Will return with fresh ears next session.
+- **Visual spacing fixes identified** (to address on next editing pass):
+  1. Jeep drive → McCarty's → "it's just 20 minutes" — needs black space for VO to breathe
+  2. Dawn's intro — cuts in too fast; needs black space before it for tonal shift to land
+- **Press kit:** Claude drafted logline, short synopsis, long synopsis, and director's statement. Saved as `dip_video_press_draft.md` in GitHub repo. Marty intends to rewrite in her own voice; draft is a reference only.
+- **Vimeo setup:** Marty handling independently.
