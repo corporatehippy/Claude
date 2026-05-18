@@ -137,7 +137,7 @@ DIRECTOR PROFILE:
 - Marty. Hobbyist filmmaker, relatively new to editing (~12 projects total across iMovie and DaVinci Resolve).
 - Former endurance athlete, spent 3 years recovering from injury. Started cold-water dipping in Lake Superior Sept 2025 as part of mental health recovery.
 - Deep personal connection to subject matter—she's living the story while documenting it.
-- Goal: complete "Dips with the Girl Gang" (working title) for submission to Fresh Coast Film Festival (Marquette, MI) by May 31, 2026.
+- Goal: submit "Join Us Tomorrow" to Fresh Coast Film Festival (Marquette, MI) by May 31, 2026.
 - Technical/analytical brain (writes for executive audiences professionally) + creative soul that wants poetic expression.
 - Core tension: fights between literal/narrative voice and poetic voice.
 - Voice breakthrough: authenticity > borrowed poetic language. Her natural voice IS poetic when she's specific and honest.
@@ -167,22 +167,21 @@ COMMUNICATION RULES:
 - She self-flags profile notes in parentheses — treat these as real updates and incorporate them.
 
 PROJECT STATUS:
-- Subject: Daily cold-water dips in Lake Superior with friends Dawn and Karesa. Themes: mental health recovery, unexpected friendship, grief + joy, showing up, ritual as transformation.
-- Current phase: Audio mix (LARGELY COMPLETE — fresh-ears pass needed) → visual spacing fixes → color grade → export
+- Title: "Join Us Tomorrow" (LOCKED)
+- Subject: Daily cold-water dips in Lake Superior with friends Dawn and Keresa. Themes: mental health recovery, unexpected friendship, grief + joy, showing up, ritual as transformation.
+- Spelling: KERESA Erickson (confirmed final — not Karesa, not Kerasa)
+- Current phase: EXPORTED — Vimeo upload → press kit finalize → submit by May 31
 - Target festival: Fresh Coast Film Festival (Marquette, MI)
 - Submission deadline: May 31, 2026. Notification: August 14, 2026. Event: October 15–18, 2026.
-- Runtime: 8:03 + slight opening extension (pacing fix — see companion doc for details)
-- Visual assets: Daily iPhone footage (Dawn's POV, portrait), GoPro footage (Marty's addition, landscape), daily selfies, hammers/rakes ice-breaking, Lake Superior landscapes, GoPro water-level ice shot (March 3 — key ending image), scrolling Photos library screen capture (standout moment — confirmed in screening)
-- Technical: Mixed aspect ratios (vertical iPhone + horizontal GoPro + stills), using timeline versions for version control, nested timelines for complex scenes, 3 video + 3 audio tracks for vertical compositing
-- Music: DECIDED — no score. Layered ambient audio (wind, waves, laughter, voices) is the sonic identity of the film.
-- Ending: LOCKED — GoPro ice-sheet water-level shot → screenshot dynamic zoom, carrying dip audio → "I love us / Me too"
-- Spelling: Karesa (confirmed — not Kerasa)
-- Screening: DONE — Dawn and Karesa watched on Jeep hood before a dip. Both moved, gasped at scrolling photo library scene. Cold-viewer (third friend, no context) whispered "this is beautiful" within seconds of watching. Film works on strangers. Additional informal screenings since — positive feedback.
+- Runtime: 8:29:12 (final, with credits)
+- Color grade: SKIPPED — deliberate decision. Mixed-source documentary footage reads as authentic. Non-issue.
+- Export settings: MP4 / H.264 / Quality preset / Variable Bitrate / 40,000 Kb/s / AAC 48kHz 320kbps
+- Ending + credits: LOCKED — "I love us" fades to black → title card → location card → credits (Marty Shue, Dawn Lundin, Keresa Erickson). GoPro audio underlaid, fades to silence.
+- Music: DECIDED — no score. Layered ambient audio is the sonic identity of the film.
 - VO re-record: DECIDED AGAINST — do not re-record. VO is done.
 - Award to target: Best First Time Filmmaker (Fresh Coast gives this award any length — Marty qualifies)
-- Fairlight audio balance: LARGELY COMPLETE — full pass done, needs fresh-ears watch-through to finalize
-- Visual spacing fixes needed: (1) black space before "it's just 20 minutes" VO after Jeep/McCarty's; (2) black space before Dawn's intro scene
-- Press kit draft: saved as dip_video_press_draft.md in GitHub repo — Marty rewriting in her own voice
+- Press kit: PowerPoint → PDF, nearly complete. Has cover, tech specs (with contact info), logline/synopsis, director's statement, bio slide. Stills on every page.
+- Vimeo screener: Marty handling independently
 
 COMPANION DOCUMENT:
 - dip-film_project_state.md — full project state, creative decisions, shot log, open questions, voice/tone examples
@@ -277,8 +276,8 @@ SYSTEM / PROJECT SETUP (confirmed):
 - Audio/VO: Rode PodMic + Fifine gaming audio mixer → Windows Sound Recorder (Fairlight direct recording not yet explored)
 - Timeline resolution: 1920x1080 HD (confirmed)
 - Project frame rate: TBD
-- Export settings established: MP4 / H.264 / Variable Bitrate / 40,000 Kb/s / Audio AAC 48kHz 320kbps
-- Current film project phase: Fairlight audio balance (LARGELY COMPLETE — fresh-ears pass needed) → visual spacing fixes → color grade → export
+- Export settings established: MP4 / H.264 / Quality preset / Variable Bitrate / 40,000 Kb/s / Audio AAC 48kHz 320kbps
+- Current film project phase: EXPORTED — Vimeo upload → submit by May 31
 
 SESSION CLOSE RULE:
 When Marty says she's done for the session:
@@ -490,5 +489,5 @@ After retrieving both documents, begin with a brief status summary: what's in th
 
 ---
 
-*Last updated: May 12, 2026*
+*Last updated: May 18, 2026*
 *Claude updates project state docs and prompt_library.md directly via GitHub MCP at session close.*
