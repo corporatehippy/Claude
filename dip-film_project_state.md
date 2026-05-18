@@ -1,18 +1,19 @@
-# Dips with the Girl Gang - Project State
+# Join Us Tomorrow - Project State
 
-**Last Updated:** 2026-05-12
+**Last Updated:** 2026-05-18
 
 ---
 
 ## PROJECT OVERVIEW
 
-**Working Title:** Dips with the Girl Gang (or Daily Dips - TBD)
+**Title: Join Us Tomorrow** (LOCKED — Session 8)
+**Working title was:** Dips with the Girl Gang
 
-**Format:** Documentary short  
-**Runtime:** 8:03 + opening extension (picture lock adjusted — see Session 5 notes)  
+**Format:** Documentary short
+**Runtime: 8:29:12** (final, with credits — locked Session 8)
 **Aspect Ratio:** Mixed (vertical iPhone footage + horizontal GoPro + stills)
 
-**Logline:**  
+**Logline:**
 Two acquaintances meet at a Lake Superior beach for morning dips in September. As the water freezes and the stakes rise, their ritual becomes a lifeline—and attracts a third. A film about showing up, unexpected friendship, and finding light in the coldest season.
 
 **Core Themes:**
@@ -26,7 +27,7 @@ Two acquaintances meet at a Lake Superior beach for morning dips in September. A
 
 ## FESTIVAL TARGET
 
-**Primary Target:** Fresh Coast Film Festival, Marquette, MI  
+**Primary Target:** Fresh Coast Film Festival, Marquette, MI
 **Submission Source:** https://filmfreeway.com/FreshCoastFilmFestival
 
 **Key Dates:**
@@ -35,7 +36,7 @@ Two acquaintances meet at a Lake Superior beach for morning dips in September. A
 - **Notification Date: August 14, 2026**
 - **Event Dates: October 15–18, 2026**
 
-**Category:** Short Documentary (under 25 min)  
+**Category:** Short Documentary (under 25 min)
 **Award to target: Best First Time Filmmaker (any length)** — Marty qualifies. This is a real category to aim for explicitly.
 
 **Submission Requirements (confirmed):**
@@ -56,13 +57,17 @@ Two acquaintances meet at a Lake Superior beach for morning dips in September. A
 
 ## PRODUCTION STATUS
 
-### CURRENT PHASE: Audio Mix (LARGELY COMPLETE — fresh-ears pass needed) → Visual spacing fixes → Color Grade → Export
+### CURRENT PHASE: EXPORTED — Vimeo upload → Press kit finalize → Submit by May 31
 
 **What's Locked:**
-- **VIDEO EDIT: PICTURE LOCKED (with opening adjustment — see below).** Every remaining second carries weight.
+- **TITLE: "Join Us Tomorrow"** — locked Session 8. The inciting moment of the story. Right call.
+- **RUNTIME: 8:29:12** — final with credits
+- **VIDEO EDIT: PICTURE LOCKED.** Every remaining second carries weight.
+- **COLOR GRADE: SKIPPED** — deliberate decision. Mixed-source documentary footage with natural light variation reads as authentic, not sloppy. Non-issue for this film.
+- **EXPORT: COMPLETE** — rendered Session 8
 - Script structure and emotional arc
 - Opening hook: "this is the thing that brought me back"
-- Karesa/girl gang beat as Act 2.5
+- Keresa/girl gang beat as Act 2.5
 - Closing beat: "I love us" / "Me too"
 - Injury/depression section VO (final version — **do not re-record**):
   * "For three years, plantar fasciitis kept me off my feet. One foot, then the other. The pain was constant."
@@ -71,16 +76,24 @@ Two acquaintances meet at a Lake Superior beach for morning dips in September. A
   * "I wanted so badly to be who I was before I got injured. But I didn't know how."
   * "And I felt shame for that. Guilt for ignoring the paradise I live in."
 - **MUSIC DECISION: No score.** Layered ambient audio (wind, waves, laughter, conversation bleeding through) IS the score.
-- **ENDING: LOCKED.** GoPro ice-sheet dip audio (talk-laughing) carries through from "still find light" into screenshot/dynamic zoom → "I love us" / "Me too". Do not touch.
-- **SCREENING: DONE.** Dawn and Karesa watched on Jeep hood before a dip. Loved it. Were moved. Both gasped at the scrolling photo library scene — cumulative volume of days represented hit hard. A third friend arrived mid-screening, watched for seconds, whispered "this is beautiful" — cold-viewer validation, no context, no investment. Film works on strangers. Additional informal screenings since — positive feedback, non-specific.
+- **ENDING + CREDITS: LOCKED.**
+  - GoPro ice-sheet dip audio carries through "still find light" → "I love us" fades to black
+  - Title card: "Join Us Tomorrow" / "A Film by Marty Shue"
+  - Location card: "Filmed at Lake Superior in Marquette, Michigan / September 2025 - March 2026"
+  - Credits: "Created by: Marty Shue / Footage captured by: Marty Shue and Dawn Lundin / Featuring the Girl Gang: Marty Shue, Dawn Lundin, Keresa Erickson"
+  - All credits centered, GoPro clip audio underlaid, fades to black/silence
+- **SCREENING: DONE.** Dawn and Keresa watched on Jeep hood before a dip. Loved it. Were moved. Both gasped at the scrolling photo library scene. A third friend arrived mid-screening, watched for seconds, whispered "this is beautiful." Film works on strangers. Additional informal screenings since — positive feedback.
+
+**Spelling — CONFIRMED FINAL:**
+- **KERESA** (not Karesa, not Kerasa — Marty confirmed Session 8 this is the correct spelling)
+- **LUNDIN** — Dawn Lundin (confirm spelling before submission if not already verified)
 
 **Opening Scene (ADJUSTED — Session 5):**
 - Scene: Frozen cove in January. Three shots — frozen cove → entering water → shoulder-deep. Ambient chatter audible throughout.
-- **VO was starting ~4 seconds in. Extended all three shots to push VO start to ~10 seconds.** Gives audience time to settle before narration begins. Runtime increased slightly — correct tradeoff.
-- Pacing fix, not a content change. Correct call.
+- VO pushed to ~10 seconds in. Gives audience time to settle. Correct call.
 
 **VO Re-Record Decision (Session 5):**
-- **Decision: Do not re-record.** "Don't let perfect be the enemy of good." VO is done. Move on.
+- **Decision: Do not re-record.** "Don't let perfect be the enemy of good." VO is done.
 
 **What's Shot:**
 - Daily iPhone footage (Dawn's POV, portrait, phone-in-shoe tripod) - Sept 2025–present
@@ -97,7 +110,15 @@ Two acquaintances meet at a Lake Superior beach for morning dips in September. A
 - Nested timelines for complex composite scenes
 - VO on Track A4 (locked — reference level for audio mix)
 - 3 video tracks + 3 audio tracks for vertical footage compositing
-- Fairlight guide doc created (fairlight_audio_guide.docx) — covers 5-step workflow, DT770 caveat, triple-track summing issue, level targets
+- Fairlight guide doc created (fairlight_audio_guide.docx)
+
+**Export Settings (confirmed Session 8):**
+- Format: MP4 / Codec: H.264
+- Preset: Quality
+- Rate Control: Variable Bitrate
+- Bitrate: 40,000 Kb/s
+- Audio: AAC, 48kHz, 320kbps
+- Resolution: 1920x1080
 
 ---
 
@@ -109,30 +130,23 @@ Two acquaintances meet at a Lake Superior beach for morning dips in September. A
 - **A4:** Voiceover (VO) — ANCHOR. Do not touch this fader. Target peaks: −12 to −6 dBFS
 - **Still image sections:** Manually placed ambient audio — treat like A1
 
-**Key mixing challenge:** A1+A2+A3 sum in iPhone sections — will be louder than GoPro sections unless A2/A3 faders are pulled down to compensate. See Fairlight guide for full workflow.
-
-**Known audio issue (from TV screening — Session 5):** First third of the film has thin ambient — background sounds largely lost. Second 2/3 is well balanced and correct. Fairlight work needs to focus heavily on the first third: bring A1 up in those sections.
-
-**Headphone caveat:** DT770 Pros are bass-heavy — ambient will sound fuller than on other speakers. Don't over-correct low end based on headphone monitoring alone.
-
-**Fairlight orientation notes (Session 6):**
-- A4 VO levels confirmed correct — peaks around −10 to −9, body of track around −15. Do not touch A4 fader.
-- A1 in GoPro sections is too quiet — mostly −40 to −30 with occasional peaks around −20. Needs to come up to −20 to −15 range on active moments.
-- Mixer (lower right) is the right workspace. Upper-left sliders are not the tool.
-- Track fader in Mixer = whole track. Clip-by-clip adjustment = hover near top edge of clip in timeline → drag the volume overlay line.
-- Goal is not identical levels across all clips — goal is no jarring surprises. Fix the offenders; trust your ears. Meters are a sanity check, not the primary tool.
-
-**Audio mix status (Session 7):**
-- Full Fairlight balance pass completed. Tedious but thinks it landed well.
-- Did not do a complete watch-through — was fried and tired of hearing herself in the VO.
-- **Next step: fresh-ears full watch-through, adjust where needed.**
+**Audio mix: COMPLETE.** Full Fairlight balance pass done. Fresh-ears watch-through completed. Done.
 
 ---
 
-## VISUAL SPACING FIXES (noted Session 7 — fix on next editing pass)
+## PRESS KIT
 
-1. **Jeep drive → McCarty's → "it's just 20 minutes"** — needs black space before the VO so it has room to breathe
-2. **Dawn's intro** — scene cuts in too fast after the preceding scene; needs black space before it to let the tonal shift to Dawn's more somber story land properly
+- **Format:** PowerPoint → exported as PDF → uploaded to Google Drive for sharing
+- **Structure:**
+  1. Cover — full slide image, title overlaid, "A Film by Martha Shue" at bottom
+  2. Technical specs — title, language, director, runtime, etc. (contact info confirmed included)
+  3. Logline + synopsis (medium length)
+  4. Director's statement
+  5. Bio slide — simple info on all three subjects
+- **Stills:** Screenshots on every page ✓
+- **Contact info:** Confirmed included on tech specs slide ✓
+- **Status:** Nearly complete — Marty finishing in her own voice
+- **Reference draft:** `dip_video_press_draft.md` in GitHub repo (Claude-generated, for reference only)
 
 ---
 
@@ -154,8 +168,7 @@ Two acquaintances meet at a Lake Superior beach for morning dips in September. A
 ### ACT 3 - WINTER PROGRESSION
 - Season change montage
 - Layers added, extreme cold, ice shelves, "how normal it all felt"
-- Karesa joins in February — new to town, homesick, kept coming
-- "Making new friends in adulthood..." [FLAGGED FOR POSSIBLE CUT — see script notes]
+- Keresa joins in February — new to town, homesick, kept coming
 - Girl gang established
 
 ### ACT 4 - WRAP UP
@@ -165,131 +178,76 @@ Two acquaintances meet at a Lake Superior beach for morning dips in September. A
 - Someone meets me here every day
 - The point isn't the water
 - Grief next to joy / feel the darkness / still find light
-- GoPro ice shot → screenshot dynamic zoom → "I love us" / "Me too"
-
----
-
-## SCRIPT NOTES (v5 - flagged for tightening)
-
-- **"Making new friends in adulthood can be so hard"** — cut candidate. Tells what audience already feels. Let "and now there are three of us — a girl gang" land on its own.
-- **"We absolutely live in a postcard"** — cut "absolutely". Filler.
-- **"brought so much joy"** (end of twenty-minutes section) — slightly flat. Consider ending on action instead, or letting the fade to black do the work after "Go live a whole day."
-- **Karesa paragraph pacing** — "New place, new life" is more clipped than surrounding sentences. Check on re-listen.
-- **SPELLING CONFIRMED: Karesa** (not Kerasa — fix everywhere including future credits)
-
----
-
-## PRESS KIT
-
-- **Draft saved:** `dip_video_press_draft.md` in GitHub repo (generated Session 7 as reference)
-- Includes: logline, short synopsis (~120 words), long synopsis (~270 words), director's statement (~280 words)
-- **Marty intends to rewrite in her own voice** — draft is a reference/starting point only
-- Still needed: film stills (3–5 screenshots from best footage), director bio, technical specs page
+- GoPro ice shot → screenshot dynamic zoom → "I love us" / "Me too" → credits
 
 ---
 
 ## CURRENT CREATIVE CHALLENGES
 
-### ~~VOICE / TONE ISSUE~~ (RESOLVED - 2026-04-05)
-Resolved. Specificity and honesty > abstract poetic language. Natural voice IS the poetic voice.
+### ~~VOICE / TONE ISSUE~~ (RESOLVED)
+Specificity and honesty > abstract poetic language. Natural voice IS the poetic voice.
 
-### ~~MUSIC~~ (RESOLVED - 2026-04-11)
-No score. Ambient layered audio (wind, waves, laughter, voices) is the film's sonic identity.
+### ~~MUSIC~~ (RESOLVED)
+No score. Ambient layered audio is the film's sonic identity.
 
-### ~~RUNTIME~~ (RESOLVED - 2026-04-15)
-Picture locked at 8:03 + opening extension. Cold-viewer response confirmed film works at this length. Do not cut further.
+### ~~RUNTIME~~ (RESOLVED)
+Final runtime 8:29:12 with credits.
 
-### ~~VO RE-RECORD~~ (RESOLVED - 2026-05-09)
-Do not re-record. VO is done. Don't let perfect be the enemy of good.
+### ~~VO RE-RECORD~~ (RESOLVED)
+Do not re-record. VO is done.
 
-### MIXED ASPECT RATIO
-Decision still pending. Options: commit to one orientation / embrace mix as aesthetic / use ratio shifts to mark transitions.
+### ~~COLOR GRADE~~ (RESOLVED — SKIPPED)
+Deliberate decision. Mixed-source documentary footage reads as authentic. Non-issue.
+
+### ~~TITLE~~ (RESOLVED)
+"Join Us Tomorrow" — locked.
 
 ---
 
 ## OPEN QUESTIONS
 
-- [ ] Final handling of mixed aspect ratios
-- [ ] Title: "Dips with the Girl Gang" vs "Daily Dips" vs other
-- [ ] Credits: include Dawn and Karesa? archival footage attribution?
-- [ ] Color grade approach — naturalistic correction priority (match iPhone + GoPro)
-- [ ] Script cuts from v5 flagged section above
-- [ ] Press kit — Marty rewriting in her own voice; draft reference saved
-- [ ] Vimeo screener setup (upload, set password, enable download) before May 31 — Marty handling independently
+- [ ] Dawn's last name spelling — Lundin? Confirm before credits/press kit finalize
+- [ ] Vimeo screener setup — upload, password protect, enable download (Marty handling)
+- [ ] Press kit final PDF — nearly done
+- [ ] FilmFreeway submission form — have title, runtime, synopsis, screener link + password ready
 
 ---
 
 ## NEXT STEPS
 
-1. **Fresh-ears full watch-through** — assess audio balance, adjust where needed
-2. **Visual spacing fixes** — add black space before "it's just 20 minutes" VO section (after Jeep/McCarty's) and before Dawn's intro scene
-3. **Color grade** — naturalistic correction first. Goal: seamless cuts between iPhone and GoPro footage.
-4. **Picture + sound + color lock**
-5. **Set up Vimeo screener** — upload, password protect, enable download (Marty handling)
-6. **Submit to Fresh Coast** — deadline May 31, 2026
-7. **Press kit** — Marty rewriting from draft reference; add stills, bio, tech specs
-8. **Wait for notification** — August 14, 2026
+1. **Upload to Vimeo** — password protect, enable download
+2. **Finalize press kit PDF**
+3. **Submit to Fresh Coast via FilmFreeway** — deadline May 31, 2026
+4. **Viewing party** — have Dawn and Keresa over for a proper screening (after submission, not before)
+5. **Wait for notification** — August 14, 2026
 
 ---
 
 ## NOTES / CREATIVE LOG
 
-**2026-04-05 - Session 1:**
-- Established collaboration framework with Claude
-- Identified Fresh Coast as primary festival target
-- Acknowledged runtime at 8:30—longer than ideal but justified
-- Surfaced voice/tone tension: poetic vs authentic
-- Created project state doc and updated prompt library
+**2026-04-05 - Session 1:** Established collaboration framework. Identified Fresh Coast as primary target. Surfaced voice/tone tension.
 
-**2026-04-05 - Session 2:**
-- Major breakthrough on injury section VO: stopped trying to poeticize, used Marty's actual conversational language
-- Key insight: specificity and honesty > abstract poetic language
-- Added previously missing emotional details: shame and guilt for "ignoring paradise"
-- Changed "fresh air and exercise keep depression at bay" → "that's what kept me sane"
-- Included specific injury details: plantar fasciitis, one foot then the other, constant pain
-- Final version feels authentic and emotionally complete
-- Avoided word "joy" in injury section to preserve it for later Dawn/boys beach moment
-- Ready to re-record this section
+**2026-04-05 - Session 2:** Major breakthrough on injury section VO. Specificity and honesty > poetic abstraction. "That's what kept me sane."
 
-**2026-04-11 - Session 3:**
-- Reviewed v5 VO script — overall strong, flagged specific lines for tightening (see Script Notes)
-- Runtime tightened to ~8:15 through continued editing
-- Music decision made: no score. Layered ambient audio is the film's sonic identity.
-- Ending confirmed and locked: GoPro water-level shot → screenshot dynamic zoom → "I love us / Me too"
-- Confirmed: "The lake is a place where Tara could still reach her" is the best written line in the film
-- Spelling confirmed: Karesa (fix everywhere — credits especially)
-- Screening plan: show film to Dawn and Karesa next week, on Jeep hood before a dip
+**2026-04-11 - Session 3:** Music decision: no score. Ending locked. Spelling confirmed (at the time) as Karesa.
 
-**2026-04-15 - Session 4:**
-- **PICTURE LOCKED at 8:03.** Tightened from 8:15. Marty called video editing done — right call.
-- **Screening completed.** Dawn and Karesa watched on Jeep hood before a dip. Both moved. Both gasped at scrolling photo library scene — cumulative volume of days hit them viscerally. A third friend (cold viewer, no prior context) arrived mid-screening, watched seconds, whispered "this is beautiful." Strong external validation.
-- **Photo library scene confirmed as a standout moment** — worth noting in any director's statement or festival Q&A.
-- **Fresh Coast submission details confirmed** from FilmFreeway listing
-- **Fairlight audio guide created** (fairlight_audio_guide.docx) — 5-step workflow, level targets, DT770 bass-heavy caveat, triple-track summing issue, full setup notes
-- Next session: Fairlight audio balance
+**2026-04-15 - Session 4:** Picture locked at 8:03. Screening completed — film works on strangers. Fairlight audio guide created.
 
-**2026-05-09 - Session 5:**
-- No editing work since Session 4. Additional informal screenings — positive feedback, non-specific.
-- **TV screening observation:** Watched on a large TV with real sound system — first opportunity to hear and see at scale. Key finding: ambient audio in first third largely lost; second 2/3 well balanced and correct. Confirms Fairlight is the right next focus, with priority on the first third.
-- **Opening scene extended:** Frozen cove scene (January) — all three shots extended (frozen cove → entering → shoulder-deep). VO was starting ~4 seconds in; pushed to ~10 seconds. Gives audience time to settle. Slight runtime increase — correct tradeoff. Pacing fix, not a content change.
-- **VO re-record: DECIDED against.** "Don't let perfect be the enemy of good." VO is done. Locked.
-- **Fairlight session postponed** — needs 1-2 hours of focused time; Marty will tackle tonight.
+**2026-05-09 - Session 5:** TV screening revealed thin ambient in first third. Opening extended. VO re-record decided against.
 
-**2026-05-11 - Session 6:**
-- **Fairlight orientation session.** No prior Fairlight experience — this was the first real time in the interface.
-- **A4 VO levels confirmed correct:** peaks around −10 to −9, body around −15. Anchor is set. Do not touch A4 fader.
-- **A1 GoPro sections too quiet:** mostly −40 to −30, occasional peaks around −20. Needs to come up significantly.
-- **Key concepts locked in:**
-  - Mixer (lower right) is the workspace. Upper-left sliders are not the tool for this.
-  - Track fader = whole track. Clip-by-clip = hover near top edge of clip → drag volume overlay line.
-  - Goal is not identical clip levels — goal is no jarring surprises. Fix the offenders. Trust ears; use meters as sanity check.
-- Some progress made on clip adjustments; got briefly confused by starting with wrong sliders but self-corrected.
-- Ended session intentionally — coming back with fresh ears. Intimidation is gone. Orientation is solid.
+**2026-05-11 - Session 6:** Fairlight orientation. A4 VO confirmed correct. A1 GoPro sections identified as too quiet.
 
-**2026-05-12 - Session 7:**
-- **Fairlight audio balance: complete (rough pass).** Spent a couple of hours. Tedious. Thinks it landed well. Did not do a full watch-through — too fried, too tired of hearing herself in the VO. Will return with fresh ears next session.
-- **Visual spacing fixes identified** (to address on next editing pass):
-  1. Jeep drive → McCarty's → "it's just 20 minutes" — needs black space for VO to breathe
-  2. Dawn's intro — cuts in too fast; needs black space before it for tonal shift to land
-- **Press kit:** Claude drafted logline, short synopsis, long synopsis, and director's statement. Saved as `dip_video_press_draft.md` in GitHub repo. Marty intends to rewrite in her own voice; draft is a reference only.
-- **Vimeo setup:** Marty handling independently.
+**2026-05-12 - Session 7:** Fairlight audio balance complete (rough pass). Two visual spacing fixes identified. Press kit draft generated and saved to GitHub.
+
+**2026-05-18 - Session 8:**
+- **TITLE LOCKED: "Join Us Tomorrow"** — the inciting moment of the story. Right call.
+- **SPELLING CORRECTED: KERESA** (not Karesa — Marty confirmed this is the correct spelling)
+- **COLOR GRADE: SKIPPED** — deliberate decision. Mixed-source footage reads as authentic documentary. Non-issue.
+- **Credits sequence added and locked:**
+  - After "I love us" fades to black: title card "Join Us Tomorrow" / "A Film by Marty Shue"
+  - Location/date card: "Filmed at Lake Superior in Marquette, Michigan / September 2025 - March 2026"
+  - Credits: Marty Shue, Dawn Lundin, Keresa Erickson. GoPro audio underlaid throughout, fades to black/silence.
+- **Export settings confirmed:** MP4 / H.264 / Quality preset / Variable Bitrate / 40,000 Kb/s / AAC 48kHz 320kbps
+- **FILM EXPORTED. Final runtime: 8:29:12.**
+- **Press kit:** PowerPoint → PDF structure confirmed complete (cover, tech specs with contact info, logline/synopsis, director's statement, bio slide). Stills on every page. Nearly done.
+- **Remaining:** Vimeo upload → press kit PDF finalize → FilmFreeway submission by May 31.
