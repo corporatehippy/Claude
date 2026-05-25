@@ -4,7 +4,7 @@
 
 Registered Dietitian — Endurance Athlete Focus
 
-*Last updated: May 2026 | Living document — updated each session*
+*Last updated: May 2026 (Memorial Day) | Living document — updated each session*
 
 ---
 
@@ -26,6 +26,7 @@ This document is a living reference for ongoing work between client and dietitia
 - Cooking attitude: enjoys cooking but doesn't want to measure fussy ingredients; a 'measure with your heart' cook
 - Self-described 'ingredient household' not a 'recipe household' — thinks in components, not dishes
 - Cooks for two: herself and Nick. Nick is a more conservative eater, especially around salads (likes traditional greek, antipasto, would eat iceberg with thousand island happily). Salad planning needs to account for this — shared base, diverge on toppings, or build around common ground.
+- **Health context (added May 2026):** A1C is high, potentially pre-diabetic; concerned about insulin resistance. Approach: add better options before removing things — not a drastic overhaul. Three priority shifts: beans everywhere, never eat carbs naked, quinoa as default grain over rice.
 
 ### Kitchen Strengths (Already Working)
 
@@ -36,8 +37,9 @@ This document is a living reference for ongoing work between client and dietitia
 - Open to ingredient-level prep (not full meal prep) to reduce mid-week friction
 - Good instinct for immediate ingredient prep: pulls rotisserie chicken off the carcass as soon as she gets home — this is exactly right and should be the model for all 'landing' tasks when groceries arrive
 - Uses a vacuum sealer for freezer storage — proteins stored this way are reliable even long-term (confirmed: last summer's BBQ pulled pork still perfect)
-- Owns a 22" Weber kettle grill — accessible once snow clears from deck (spring/summer cooking option)
+- Owns a 22" Weber kettle grill — accessible spring/summer. Baby back ribs technique confirmed Memorial Day 2026 (see execution notes).
 - Owns a good wok — confirmed in use, excellent for fried rice
+- **Ordering macro-balanced lunches from a local meal prep nutrition service (added May 2026)** — low calorie, pre-portioned, removes midday decision fatigue entirely. Keep doing this.
 
 ### Current Friction Points
 
@@ -45,7 +47,7 @@ This document is a living reference for ongoing work between client and dietitia
 - Versatile proteins (ground beef, chicken breasts) go in the cart without a committed purpose → open-ended at cook time → decision paralysis when executive function is gone
 - Shopping trips stretching to 4 weeks → pantry gaps → more takeout at the end of cycles
 - Dinner often happens around 9:30–10pm after work + workout + evening projects/gaming — meals need to be finishable, not startable, at that hour
-- Lunches can fall apart during busy work weeks → entire weeks of ordering out
+- Lunches can fall apart during busy work weeks → currently solved with meal prep nutrition service
 
 ---
 
@@ -116,6 +118,8 @@ Protein chosen → short list of supporting ingredients auto-follows. Shopping d
 | Italian sausage | Skillet pasta | Jarred tomatoes or sauce, pasta, parmesan |
 | Italian sausage | White bean skillet | White beans, broth or white wine, greens, crusty bread |
 | Italian sausage | Sheet pan | Peppers, onions, crusty bread or grain |
+| Italian sausage | Gnocchi bake | Shelf-stable gnocchi, jarred sauce or vodka sauce, mozzarella, spinach |
+| Baby back ribs | Weber kettle | Apple or cherry wood chunks, aluminum foil, sauce of choice |
 
 ### Protein Planning for a 2–3 Week Cycle
 
@@ -134,11 +138,23 @@ Rather than planning specific meals, plan protein categories per trip.
 Highest-ROI things to do when you're already in the kitchen — not as a separate task:
 
 - Pull rotisserie chicken off the carcass immediately when you get home — non-negotiable, already doing this
-- Big batch of grains (rice, farro, barley) — 30-40 min hands-off, feeds the week
+- Big batch of grains (rice, farro, barley, quinoa) — 30-40 min hands-off, feeds the week
 - Hard-boiled eggs — do while water is boiling for something else
 - Foreman grill 2-3 chicken breasts on shopping day → slice → fridge → lunches for 4-5 days
 - Roasted garlic or caramelized onions — batch when oven is already on, keeps all week
 - Washed/dried greens — do this when unpacking groceries so friction disappears mid-week
+
+### Blood Sugar / A1C Management Framework (Added May 2026)
+
+Health context: A1C is high, potentially pre-diabetic; insulin resistance is a concern. Approach is **add before subtract** — behavioral and metabolic reasoning both support incremental improvement over drastic overhaul.
+
+**Three highest-leverage shifts — already compatible with current cooking system:**
+
+1. **Beans everywhere, always.** White beans in the sausage skillet, black beans in the beef skillet, chickpeas in grain bowls (see texture notes below). Fiber + protein combo is one of the best blood sugar stabilizers available. Already cooking toward this.
+2. **Never eat carbs naked.** Quinoa with protein and fat. Sweet potato with tahini or yogurt alongside. Gnocchi with sausage in it. The pairing moderates the glucose spike — not eliminating the carb.
+3. **Quinoa as default grain when it doesn't matter.** Higher protein, more fiber, lower GI than white rice. Make it the default, not the exception.
+
+**Chickpea texture note:** Skin is the issue. Towel-rub method (drain, dry, rub aggressively in clean dish towel) removes most skins — go harder and longer than feels necessary. For hummus specifically: cook from dry with baking soda in the water; skins fall off on their own, difference in texture is significant. For everything else: canned + towel rub is fine. Trader Joe's canned chickpeas are softer and less aggressively skinned than standard grocery store. If the texture still bothers you after a real attempt, just skip them — beans you'll eat beat chickpeas you won't.
 
 ---
 
@@ -197,7 +213,7 @@ Organized by effort tier. Living list — built out based on what she actually m
 - Pork and kimchi skillet — brown pork, add kimchi + sesame oil, over rice. Zero thinking required if you keep kimchi around.
 
 **Skillet meals — Italian sausage:**
-- White bean and sausage skillet — slice or crumble sausage, brown, add white beans + splash of broth or white wine + greens if you have them. Crusty bread.
+- White bean and sausage skillet — slice or crumble sausage, brown, remove from pan. Cook garlic in the fat, 30 sec. Add two cans white beans (drained) + splash of white wine or chicken broth (~1/2 cup). Simmer 8-10 min until creamy. Add sausage back, handful of spinach, let wilt. Salt, pepper, squeeze of lemon. Crusty bread. The beans get silky from the pan drippings — that's the whole trick.
 - Sausage, peppers, onions over polenta or grits
 - Pasta with Italian sausage — the only ground-meat pasta she actually likes
 
@@ -218,12 +234,12 @@ Organized by effort tier. Living list — built out based on what she actually m
 ### Tier 3 — Dump and Bake / Hands-Off
 
 - **Meatball pasta bake** (the classic) — frozen meatballs + jarred sauce + dry pasta + mozzarella. Gets 3 meals.
-- **Baked gnocchi** — gnocchi + marinara + mozzarella, 400°F, 25-30 min. Even faster than pasta bake. Pantry already stocked.
+- **Baked gnocchi with Italian sausage and spinach** — brown half a pound of sausage (crumbled or sliced) in oven-safe skillet or dutch oven. Add 3-4 cloves garlic, cook 1 min. Add big handful of spinach, wilt. Pour in one jar of vodka sauce, roasted red pepper sauce, or marinara + big splash of cream. Stir in one package shelf-stable gnocchi uncooked. Add 1/2 cup broth or water. Top with torn mozzarella + parm. Cover with foil, 400°F, 20 min. Uncover, 10 more min until bubbly. Spinach disappears — Nick won't notice. Add more for the fiber.
 - **White bean and sausage bake** — Italian sausage + 2 cans white beans + fire roasted tomatoes + broth + dried herbs + olive oil. Dutch oven or baking dish, 350°F, 45 min. Crusty bread. Pantry already stocked.
 - **Chili** — ground beef or turkey (browning optional), chili beans + fire roasted tomatoes + spices. Dutch oven, 45 min simmer. Feeds 4+ meals.
 - **Sheet pan sausage and potatoes** — Italian sausage sliced + potatoes cubed + olive oil + seasoning. 400°F, 35-40 min. Zero dishes.
 - **Shakshuka** — fire roasted tomatoes + eggs cracked in + spices. 20 min, one pan. Breakfast-for-dinner energy.
-- **Baby back ribs** — oven version: 275°F, 2.5-3 hours wrapped in foil, then 15 min uncovered with sauce. Weekend afternoon project, not a weeknight move. Weber kettle available once snow is off the deck (now accessible as of spring 2026).
+- **Baby back ribs — Weber kettle (confirmed Memorial Day 2026):** Two-zone indirect setup — all lit coals pushed to one side, ribs on the other, bone side down. Target 225–250°F at the grate. Add 2–3 chunks apple or cherry wood (lighter smoke, suits baby backs; hickory works but don't overdo it). Pull membrane off bone side before seasoning (butter knife to start, paper towel grip to pull). Season: salt, pepper, paprika, garlic powder, brown sugar optional for bark. 3 hrs unwrapped → wrap in foil with small splash apple juice or pats of butter, 1–1.5 hrs → unwrap, sauce, 30 min to set. Total ~5 hours. Done when toothpick slides between bones with zero resistance and rack bends dramatically when picked up in the middle with tongs. Vent management: bottom ~50% open, top ~75%; adjust to chase temp.
 - **Sheet pan chicken + sweet potato** — cube sweet potato 3/4 inch, season with olive oil + cumin + chili powder + garlic powder + salt, 425°F 10-12 min first. Add chicken breasts (whole or cubed), same seasoning, another 20-22 min. Squeeze lime at end. Serve with lemon tahini or any quick sauce. Nick-friendly. Confirmed May 2026.
 - Salsa chicken
 - Barbacoa
@@ -281,8 +297,8 @@ Build around a shared base, diverge on toppings. Chicken pre-cooked on the Forem
 *Captured during session; full audit is next priority. Items noted as approximate.*
 
 ### Proteins
-- Baby back ribs — 1 slab
-- Chicken breasts — used May 2026 (sheet pan with sweet potato)
+- Baby back ribs — **COOKED Memorial Day 2026** (any leftovers may remain)
+- Chicken breasts — restocked May 2026
 - Frozen hamburger patties
 - Bare breaded chicken — nuggets (spicy + regular), maybe tenders, maybe patties. Zero-effort backup protein.
 - Vacuum-sealed carnitas — portioned in 2-3 cup portions. **Use soon.**
@@ -305,14 +321,13 @@ Build around a shared base, diverge on toppings. Chicken pre-cooked on the Forem
 ### Immediate Priority — Next Session
 
 - **Full freezer + pantry audit** — still hasn't happened. Go through everything category by category. Toss what's past its prime. Build the actual staples baseline from what's real, not assumed.
-- **Shopping trip** — fridge cleaned out post-vacation. Restocking from near-zero. Build the list using if-then protein logic.
-- **Confirmed pantry staples to capture:** rice vinegar, chili garlic sauce, sriracha, soy sauce, gochujang, oyster sauce, fish sauce, tahini, greek yogurt, pesto (jarred) — confirmed stocked and in use.
+- **Training schedule and fueling specifics** — still not mapped; will inform meal timing and carb targets
+- **Carnitas** — flagged "use soon" for multiple sessions now. Make them happen.
 
 ### In Progress
 
 - Building out the full pantry/freezer baseline list — what should always be on hand so shopping is just 'filling in blanks'
 - Shopping list structure: how to make the per-trip decisions as simple as possible given the if-then protein logic
-- Training schedule and fueling specifics — not yet mapped; will inform meal timing and carb targets
 - **Add fish sauce to regular shopping list** — unlocks larb, ginger pork, thai soup. Cheap, lasts forever.
 - **Add kalamata olives to regular shopping list** — unlocks greek salad, grain bowls, antipasto
 
@@ -321,8 +336,9 @@ Build around a shared base, diverge on toppings. Chicken pre-cooked on the Forem
 - Whether to build a simple rotating weekly framework (e.g., 'dutch oven day,' 'assembly day,' etc.)
 - End-of-cycle strategy when pantry is low and fresh proteins are gone
 - Specific athlete fueling guidance around training blocks and race season
-- Lunch ideas beyond current rotation — good base exists, room to expand
+- Lunch ideas beyond current rotation — currently solved with meal prep nutrition service; may want to revisit when service changes
 - Curry yogurt sauce — interesting but flagged for a day with bandwidth to experiment
+- Chickpea texture — try towel method again more aggressively; Trader Joe's canned as alternative; cooking from dry with baking soda for hummus specifically
 
 ---
 
@@ -337,6 +353,8 @@ Build around a shared base, diverge on toppings. Chicken pre-cooked on the Forem
 - **Frozen pizza + ice cream at 10:30pm** — noted without judgment. Vacation hangover + gross fridge + barely-thawed chicken = not a character flaw. The system caught back up the next night.
 - **Fried rice — confirmed technique (wok, May 2026):** Canola oil in wok, heat up. Small-diced onion + lots of garlic, cook briefly. Add frozen mixed veg, cook until warmed and getting color. Add rice (brown, 2-3 cups), move around. Drizzle of sesame oil. Make a well, add bit of sesame oil, add 4 scrambled eggs — cook and fold into rice. Sauce: ~1/2 cup soy + chili garlic sauce + oyster sauce + red pepper flakes stirred together, splash of rice vinegar after tasting. Toss and serve. Nick loved it.
 - **Sheet pan chicken + sweet potato + lemon tahini (May 2026):** Sweet potato cubed 3/4 inch + olive oil + cumin + chili powder + garlic powder + salt → 425°F 10-12 min first. Add chicken breasts (whole), same seasoning, 20-22 more min. Lime squeezed at end. Lemon tahini alongside: 3 tbsp tahini + half lemon juice + garlic + salt + water to thin. Easy, Nick-friendly, reheats well.
+- **Baby back ribs on Weber kettle (Memorial Day 2026):** Two-zone indirect, 225–250°F, apple/cherry wood, ~5 hours total (3 unwrapped → 1-1.5 foil → 30 min sauced). Ribeye steaks on the hot side same session. Quinoa and sweet potatoes baked same day as component prep.
+- **Gnocchi bake + white bean sausage skillet planned (May 2026):** Italian sausage split between the two. Gnocchi bake: sausage + spinach + jarred sauce + gnocchi + mozz, 400°F. White bean skillet: sausage browned and removed, white beans simmered in pan drippings + broth until creamy, sausage back in, spinach + lemon at end.
 
 ---
 
