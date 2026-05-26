@@ -16,29 +16,37 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 ---
 
-## June 2026
-
----
-
 ## May 2026
 
 ### May 25 (Memorial Day — holiday week, no MQT meals available)
 
 **Breakfast**
 Breakfast burritos (made 4 total; Marty + Nick each ate one, 2 remaining in fridge)
-- 4 breakfast sausage patties, ~1/2 cup diced onion, 1 medium jalapeño, ~1/2 cup black beans, 3/4 cup Egg Beaters, 3 whole eggs, ~1/2 cup shredded sharp cheddar, ~1/2 cup Fairlife 2% milk, canola oil spritz, burrito-sized flour tortillas
-- Per burrito: sausage, egg/egg beater mix, black beans, cheddar, onion, jalapeño, Fairlife milk, tortilla
+- Per burrito: breakfast sausage patty, egg/egg beater mix (3/4 cup Egg Beaters + 3 whole eggs total across 4), ~1/2 cup black beans, ~1/2 cup sharp cheddar, diced onion, jalapeño, Fairlife 2% milk, flour tortilla, canola oil
+- ~10oz orange juice alongside
 
-*Notes: Protein + fat + fiber (beans) all present. Fairlife is higher protein than regular milk — good call. Not a naked carb situation.*
+*Notes: Solid protein + fat + fiber combo. OJ is the one naked carb — Marty aware, limiting to ~2x/week max. Prefers whole grapefruit as alternative going forward (lower GI than OJ, and grapefruit has modest insulin-sensitivity benefit).*
 
 **Lunch**
-—
+Skipped — 1hr eMTB ride (singletrack + paved) + outdoor chores
+
+**Pre-dinner**
+- 1 banana (mid-afternoon)
+- ~6 club crackers + sharp cheddar (post-margarita, late afternoon)
+
+*Notes: Long gap breakfast → crackers. Margarita on light stomach after exercise. Holiday context — not a template.*
 
 **Dinner**
-—
+- ~1/2 slab baby back ribs (small end) — Memorial Day Weber kettle cook
+- ~3/4 cup potato salad
+- Stovetop pit beans: pork n beans + black beans + red beans + butter beans, sautéed onion/jalapeño/garlic base, ~1/2 cup BBQ sauce, ~1T each molasses + brown sugar, mustard. No added meat. Ate ~1/4 cup while cooking + ~1/2–1 cup with dinner.
 
-**Snacks / Other**
-—
+*Notes: Strong dinner. Beans doing real work — four varieties, genuine fiber + protein. Potato salad alongside protein and fat = not naked. The bean situation here is legitimately good for blood sugar management despite the BBQ sweetness.*
+
+**Before bed**
+- Peanut butter + chocolate chips (~1–1.5 servings PB)
+
+*Notes: PB has protein and fat so not the worst nightcap. Flag if this becomes a consistent late-night pattern.*
 
 ---
 
