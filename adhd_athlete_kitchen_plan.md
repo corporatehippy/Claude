@@ -4,13 +4,16 @@
 
 Registered Dietitian — Endurance Athlete Focus
 
-*Last updated: May 2026 (Memorial Day) | Living document — updated each session*
+*Last updated: May 2026 | Living document — updated each session*
 
 ---
 
 ## How to Use This Document
 
-This document is a living reference for ongoing work between client and dietitian. At the start of each new session, Claude retrieves this file directly from GitHub (corporatehippy/Claude) via MCP — no need to attach it manually.
+This document is one of two companion files Claude retrieves at the start of each 1A session. The second is `food_log.md` — an ongoing food log for pattern tracking (not calorie counting). Both live in the corporatehippy/Claude GitHub repo and are retrieved via MCP before responding.
+
+- **adhd_athlete_kitchen_plan.md** (this file) — kitchen system, frameworks, meal ideas, client profile, execution notes. Updated at session close.
+- **food_log.md** — running log of what Marty eats, updated in-session as meals are reported. Claude commits food entries during the session, not only at close.
 
 *Sections are updated progressively as new ground is covered. Notes at the end of each section indicate open questions and next steps.*
 
@@ -39,7 +42,7 @@ This document is a living reference for ongoing work between client and dietitia
 - Uses a vacuum sealer for freezer storage — proteins stored this way are reliable even long-term (confirmed: last summer's BBQ pulled pork still perfect)
 - Owns a 22" Weber kettle grill — accessible spring/summer. Baby back ribs technique confirmed Memorial Day 2026 (see execution notes).
 - Owns a good wok — confirmed in use, excellent for fried rice
-- **Ordering macro-balanced lunches from a local meal prep nutrition service (added May 2026)** — low calorie, pre-portioned, removes midday decision fatigue entirely. Keep doing this.
+- **Ordering macro-balanced lunches from a local meal prep nutrition service (MQT Nutrition, added May 2026)** — low calorie, pre-portioned, removes midday decision fatigue entirely. Not always available (holidays, etc.). Keep doing this when available.
 
 ### Current Friction Points
 
@@ -48,6 +51,7 @@ This document is a living reference for ongoing work between client and dietitia
 - Shopping trips stretching to 4 weeks → pantry gaps → more takeout at the end of cycles
 - Dinner often happens around 9:30–10pm after work + workout + evening projects/gaming — meals need to be finishable, not startable, at that hour
 - Lunches can fall apart during busy work weeks → currently solved with meal prep nutrition service
+- **Post-long-effort recovery gap (confirmed May 2026):** Appetite suppressed after long rides/runs → skips real food → blood sugar drops → chaos by late afternoon or evening. Fix: recovery snack within 30-45 min of finishing (Greek yogurt, chocolate milk, Fairlife shake, PB on tortilla + banana, leftover breakfast burrito). Protein + fast carbs, before showering.
 
 ---
 
@@ -156,6 +160,8 @@ Health context: A1C is high, potentially pre-diabetic; insulin resistance is a c
 
 **Chickpea texture note:** Skin is the issue. Towel-rub method (drain, dry, rub aggressively in clean dish towel) removes most skins — go harder and longer than feels necessary. For hummus specifically: cook from dry with baking soda in the water; skins fall off on their own, difference in texture is significant. For everything else: canned + towel rub is fine. Trader Joe's canned chickpeas are softer and less aggressively skinned than standard grocery store. If the texture still bothers you after a real attempt, just skip them — beans you'll eat beat chickpeas you won't.
 
+**Fruit preferences:** Prefers grapefruit over OJ (lower GI, more fiber, modest insulin sensitivity benefit). OJ limited to ~2x/week max. Raspberries are a high-fiber, low-sugar fruit — good default. Whole fruit always better than juice.
+
 ---
 
 ## 3. The Dutch Oven as Weekly Anchor
@@ -180,8 +186,9 @@ On high-output training days: goal is assembly, not cooking. Decision fatigue is
 - Use the stocked-category system to assemble without deciding — protein + grain + vegetable + sauce
 - Post-training meals should be carbohydrate-forward — pre-cooked grain makes this automatic
 - Aim for a real meal in under 5 minutes using what's already prepped
+- **Post-long-effort recovery snack (confirmed May 2026):** Appetite suppressed after exercise → skips lunch → blood sugar chaos → poor dinner choices. Fix is a recovery snack within 30-45 min of finishing, before showering. Options: Greek yogurt + granola, chocolate milk, Fairlife shake, PB on tortilla + banana, leftover breakfast burrito. Goal: 15-25g protein + fast carbs. Buys 2-3 hours without ruining dinner appetite.
 
-*This area is still being developed — more detail to come as training schedule and fueling needs are mapped.*
+*Training schedule and fueling specifics still not mapped — more detail to come.*
 
 ---
 
@@ -281,6 +288,7 @@ No-cook sauces that work over roasted things, grain bowls, and sheet pan meals.
 - **Mango + chicken + avocado + red onion + cilantro + lime** — deconstructed mango salsa over greens. Add jalapeño.
 - **Fig + prosciutto + arugula + shaved parmesan + honey + balsamic** — no chicken, no cooking, feels fancy. Late summer.
 - **Greek + chicken** — romaine + tomato + cucumber + red onion + kalamata + feta + oregano + red wine vinegar + olive oil. Already mostly stocked.
+- **Chipotle bag salad + black beans + Foreman chicken** — confirmed May 2026. Quick, high protein, fiber from beans, Nick-friendly. Half dressing packet when splitting with Nick.
 
 ### Nick-Friendly Salads (More Conservative)
 
@@ -330,6 +338,7 @@ Build around a shared base, diverge on toppings. Chicken pre-cooked on the Forem
 - Shopping list structure: how to make the per-trip decisions as simple as possible given the if-then protein logic
 - **Add fish sauce to regular shopping list** — unlocks larb, ginger pork, thai soup. Cheap, lasts forever.
 - **Add kalamata olives to regular shopping list** — unlocks greek salad, grain bowls, antipasto
+- Food log — ongoing; patterns will surface over time
 
 ### Parking Lot (Good Ideas, Not Yet Developed)
 
@@ -355,7 +364,8 @@ Build around a shared base, diverge on toppings. Chicken pre-cooked on the Forem
 - **Sheet pan chicken + sweet potato + lemon tahini (May 2026):** Sweet potato cubed 3/4 inch + olive oil + cumin + chili powder + garlic powder + salt → 425°F 10-12 min first. Add chicken breasts (whole), same seasoning, 20-22 more min. Lime squeezed at end. Lemon tahini alongside: 3 tbsp tahini + half lemon juice + garlic + salt + water to thin. Easy, Nick-friendly, reheats well.
 - **Baby back ribs on Weber kettle (Memorial Day 2026):** Two-zone indirect, 225–250°F, apple/cherry wood, ~5 hours total (3 unwrapped → 1-1.5 foil → 30 min sauced). Ribeye steaks on the hot side same session. Quinoa and sweet potatoes baked same day as component prep.
 - **Gnocchi bake + white bean sausage skillet planned (May 2026):** Italian sausage split between the two. Gnocchi bake: sausage + spinach + jarred sauce + gnocchi + mozz, 400°F. White bean skillet: sausage browned and removed, white beans simmered in pan drippings + broth until creamy, sausage back in, spinach + lemon at end.
+- **Chipotle bag salad + black beans + chicken (May 26, 2026):** Fresh Express Chipotle Chopped salad kit + ~1 cup black beans added + 2 Foreman chicken breasts. Split with Nick. Half dressing packet each. High protein, fiber from beans, quick. Good MQT-free lunch template.
 
 ---
 
-*This is a private working document. Claude retrieves it directly from GitHub (corporatehippy/Claude) via MCP at the start of each session.*
+*This is a private working document. Claude retrieves it directly from GitHub (corporatehippy/Claude) via MCP at the start of each session. Companion file: food_log.md (also retrieved each session).*
