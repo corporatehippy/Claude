@@ -18,7 +18,7 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 ## May 2026
 
-### May 27 (Wednesday)
+### May 28 (Thursday)
 
 **Breakfast**
 —
@@ -28,6 +28,43 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 **Dinner**
 —
+
+---
+
+### May 27 (Wednesday — no MQT available, holiday week)
+
+**Breakfast**
+- Leftover breakfast burrito from the weekend (sausage, egg/egg beater mix, black beans, cheddar, onion, jalapeño, Fairlife milk, flour tortilla)
+
+*Notes: Zero friction, good protein + fiber to start the day. This is the system working — made it on Sunday, ate it Wednesday with no effort.*
+
+**Lunch**
+- 1/2 large sweet potato (baked)
+- Black beans — more than 1/2 cup
+- ~6oz grilled chicken breast
+- Lite sour cream — ~2-3 tbsp
+- Quick pickled red onion, cilantro, jalapeño, green onion, hot sauce
+
+*Notes: One of the better lunches in the log. Sweet potato + beans + chicken = fiber, protein, complex carbs. Acid from pickled onion is a nice metabolic touch. Sour cream is minimal. "Never eat carbs naked" working perfectly without overthinking it.*
+
+**Afternoon**
+- Cold brew coffee with lightly sweetened oat milk
+
+*Notes: Recurring afternoon pattern — fine.*
+
+**Dinner**
+- Stovetop gnocchi with cudighi sausage: ~1lb loose cudighi browned and removed, onion + garlic cooked in fat, deglazed with 1 cup chicken stock (reduced), 1 jar Rao's marinara, gnocchi cooked in sauce ~5 min, sausage back in, large amount of spinach wilted in, ~1/2 cup (or less) grated parm, <1/4 cup mozzarella on top
+- Served split between two — just over half eaten, just under half saved for another meal (earmarked for post-long-run this weekend)
+- Portion for Marty: roughly 1/4 of total batch
+
+*Notes: Solid dinner. Rao's is a clean jarred sauce (low sugar). Spinach doing fiber work. Good protein from sausage. Smart move saving the leftovers for post-long-run recovery meal — that's exactly the right instinct. Cudighi = UP-specific Italian sausage, spiced with cinnamon/clove/allspice.*
+
+**Before bed**
+- Peanut butter + chocolate chips (~1–1.5 servings PB)
+
+*Notes: **PATTERN FLAG — second appearance (also May 25).** PB + chocolate chips after dinner is becoming a consistent before-bed habit. PB has protein and fat so it's not a disaster, but worth watching frequency. Not addressing yet — just tracking.*
+
+**Day summary:** Strong day overall. Breakfast was effortless (system working). Lunch was genuinely excellent. Dinner solid with good leftovers planning. PB nightcap is the one thing to watch as it establishes itself as a pattern.
 
 ---
 
@@ -64,7 +101,7 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 - Caramel sauce — 1-2 tbsp
 - Hershey's chocolate sauce — 1-2 tsp
 
-*Notes: The splurge at the end of a genuinely good eating day. Not a pattern concern yet — flag if it becomes nightly.*
+*Notes: Splurge at the end of a genuinely good eating day. Not a pattern concern yet — flag if it becomes nightly.*
 
 **Day summary:** One of the better days in the log. Protein well distributed, fiber showing up at every meal, no real gaps, vegetables at dinner. The ice cream is fine — the context of the whole day earns it.
 
@@ -98,7 +135,7 @@ Skipped — 1hr eMTB ride (singletrack + paved) + outdoor chores
 **Before bed**
 - Peanut butter + chocolate chips (~1–1.5 servings PB)
 
-*Notes: PB has protein and fat so not the worst nightcap. Flag if this becomes a consistent late-night pattern.*
+*Notes: First appearance of the PB + chocolate chips before-bed pattern. See May 27 for pattern flag.*
 
 ---
 
