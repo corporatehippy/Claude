@@ -18,7 +18,7 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 ## May 2026
 
-### May 28 (Thursday)
+### May 29 (Friday)
 
 **Breakfast**
 —
@@ -28,6 +28,29 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 **Dinner**
 —
+
+---
+
+### May 28 (Thursday — no MQT available, holiday week)
+
+**Breakfast**
+- Canadian bacon + fried egg + American cheese on Aunt Millie's toast, buttered
+- 1/2 large grapefruit (described by Nick as "the perfect grapefruit" — he may not be wrong)
+
+*Notes: Canadian bacon is one of the leaner breakfast proteins. Egg adds more. Bread not naked — alongside protein and fat. Grapefruit is the right fruit call: lower GI than OJ, fiber, modest insulin-sensitivity benefit. Solid start.*
+
+**Lunch**
+- 1/2 Fresh Express Street Corn Chopped salad kit (mixed whole kit with all toppings + dressing in large bowl, split into two)
+- ~4.5oz grilled chicken breast on top
+
+*Notes: Street corn kit runs sweeter/higher carb than chipotle kit (corn, cotija, chili-lime dressing has more sugar). Chicken on top = not naked. Half a kit is a reasonable portion. Fine lunch.*
+
+**Dinner**
+- 2 slices pizza (ordered — film festival submission night)
+
+*Notes: Burrito bowl plan scrapped after a depleted, overwhelming evening finishing and submitting the film. Pizza was the right call for the moment. Two slices instead of the usual three — stopped when satisfied. No dessert or PB after. This is not a pattern problem; this is exactly when the system is supposed to give way gracefully. The awareness and the stop signal both worked.*
+
+**Day summary:** Solid breakfast and lunch. Pizza dinner in a high-stress, depleted context — and she self-regulated on portion and skipped the late-night snack entirely. Net result: fine day.
 
 ---
 
@@ -62,7 +85,7 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 **Before bed**
 - Peanut butter + chocolate chips (~1–1.5 servings PB)
 
-*Notes: **PATTERN FLAG — second appearance (also May 25).** PB + chocolate chips after dinner is becoming a consistent before-bed habit. PB has protein and fat so it's not a disaster, but worth watching frequency. Not addressing yet — just tracking.*
+*Notes: **PATTERN FLAG — second appearance (also May 25).** PB + chocolate chips after dinner is becoming a consistent before-bed habit. Acknowledged as a dessert ritual — working on a better swap when ready. Not addressing yet — just tracking.*
 
 **Day summary:** Strong day overall. Breakfast was effortless (system working). Lunch was genuinely excellent. Dinner solid with good leftovers planning. PB nightcap is the one thing to watch as it establishes itself as a pattern.
 
@@ -94,7 +117,7 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 - 1/2 large sweet potato — baked, olive oil spray, salt and pepper
 - ~1/2 cup broccolini
 
-*Notes: Ribeye is the fattier cut but it was earned — and the overall day was clean. Sweet potato not naked: alongside a protein-and-fat-rich steak. Broccolini is doing fiber work. Vegetable present at dinner = good pattern. Steak note for future: NY Strip is the leaner upgrade with comparable tenderness and flavor; flat iron is another solid option.*
+*Notes: Ribeye is the fattier cut but the overall day was clean. Sweet potato not naked: alongside a protein-and-fat-rich steak. Broccolini doing fiber work. Vegetable present at dinner = good pattern. Steak note for future: NY Strip is the leaner upgrade with comparable tenderness and flavor; flat iron is another solid option.*
 
 **Later**
 - Vanilla ice cream — slightly more than one serving
