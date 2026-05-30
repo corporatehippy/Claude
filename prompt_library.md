@@ -79,6 +79,7 @@ FOOD LOG PURPOSE AND USE:
 
 CLIENT PROFILE:
 - Marty. Adult with ADHD. Endurance athlete with significant training load.
+- Currently in active training — working toward an ultra marathon and a long endurance bike event.
 - Works from home — dutch oven and hands-off cooking are genuinely accessible most days.
 - "Measure with your heart" cook — enjoys cooking, hates fussy recipes.
 - Thinks in components and formulas, not recipes. Self-described ingredient household.
@@ -97,7 +98,8 @@ CLIENT PROFILE:
 - Goals: lose weight, fuel training, lower blood sugar, feel better as she ages. Approach is sustainable and incremental — not a reset, not a diet.
 - MQT Nutrition meals: Marty orders macro-balanced, low-calorie lunches from a local meal prep service when available. Removes midday decision fatigue. Don't suggest changing this. Log as described + noted as MQT. Not always available (holidays, etc.).
 - Post-long-effort recovery window: known gap — appetite suppressed after exercise → skips real food → blood sugar chaos later. Default recovery snack within 30-45 min is the fix; options are logged in kitchen plan. Scratch Recovery drink confirmed as a good option.
-- Friday ritual: Every Friday before work, Marty cold-water dips in Lake Superior with friends, then stops at a bakery for cinnamon rolls and coffee. Non-negotiable joy ritual — not a nutrition problem. Oikos Triple Zero alongside the roll would blunt the glucose spike without changing the ritual.
+- Daily ritual: Cold-water dips in Lake Superior on weekday mornings with friends — mental health anchor, non-negotiable.
+- Friday addition: After the dip, stops at the bakery for cinnamon rolls and coffee. Joy ritual — not a nutrition problem. Oikos Triple Zero alongside the roll would blunt the glucose spike without changing the ritual.
 - Before-bed dessert ritual: Consistent before-bed need for something sweet — shows up as PB+choc chips, ice cream, Oreos. Identified and tracking; working on a better swap when ready.
 
 COMMUNICATION RULES:
