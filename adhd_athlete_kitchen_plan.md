@@ -4,7 +4,7 @@
 
 Registered Dietitian — Endurance Athlete Focus
 
-*Last updated: May 2026 | Living document — updated each session*
+*Last updated: May 30, 2026 | Living document — updated each session*
 
 ---
 
@@ -43,6 +43,7 @@ This document is one of two companion files Claude retrieves at the start of eac
 - Owns a 22" Weber kettle grill — accessible spring/summer. Baby back ribs technique confirmed Memorial Day 2026 (see execution notes).
 - Owns a good wok — confirmed in use, excellent for fried rice
 - **Ordering macro-balanced lunches from a local meal prep nutrition service (MQT Nutrition, added May 2026)** — low calorie, pre-portioned, removes midday decision fatigue entirely. Not always available (holidays, etc.). Keep doing this when available.
+- **Friday ritual (confirmed May 2026):** Every Friday morning before work, Marty jumps in Lake Superior with friends (cold water dipping — started Sept 2025 as part of mental health recovery). Stops at the bakery on the way home for cinnamon rolls and coffee. This is a non-negotiable joy ritual, not a nutrition problem to solve. Yogurt alongside the cinnamon roll would blunt the glucose spike without touching the ritual — worth trying.
 
 ### Current Friction Points
 
@@ -52,6 +53,7 @@ This document is one of two companion files Claude retrieves at the start of eac
 - Dinner often happens around 9:30–10pm after work + workout + evening projects/gaming — meals need to be finishable, not startable, at that hour
 - Lunches can fall apart during busy work weeks → currently solved with meal prep nutrition service
 - **Post-long-effort recovery gap (confirmed May 2026):** Appetite suppressed after long rides/runs → skips real food → blood sugar drops → chaos by late afternoon or evening. Fix: recovery snack within 30-45 min of finishing (Greek yogurt, chocolate milk, Fairlife shake, PB on tortilla + banana, leftover breakfast burrito). Protein + fast carbs, before showering.
+- **Before-bed dessert ritual (emerging pattern, May 2026):** Consistent need for something sweet before bed — shows up as PB+chocolate chips, ice cream, mini Oreos. Vehicle varies; ritual is constant. Not addressed yet — tracking first, then work on a better swap when ready.
 
 ---
 
@@ -186,9 +188,12 @@ On high-output training days: goal is assembly, not cooking. Decision fatigue is
 - Use the stocked-category system to assemble without deciding — protein + grain + vegetable + sauce
 - Post-training meals should be carbohydrate-forward — pre-cooked grain makes this automatic
 - Aim for a real meal in under 5 minutes using what's already prepped
+- **Pre-run carb loading:** On long effort days, intentionally bumping up carbs at breakfast is appropriate — the fuel is doing a job. Granola portion, banana, etc. are not a problem in this context.
 - **Post-long-effort recovery snack (confirmed May 2026):** Appetite suppressed after exercise → skips lunch → blood sugar chaos → poor dinner choices. Fix is a recovery snack within 30-45 min of finishing, before showering. Options: Greek yogurt + granola, chocolate milk, Fairlife shake, PB on tortilla + banana, leftover breakfast burrito. Goal: 15-25g protein + fast carbs. Buys 2-3 hours without ruining dinner appetite.
+- **Scratch Recovery drink (confirmed May 2026):** Good option for the immediate post-effort window, especially when mixed ahead and kept in a cooler. Hits the recovery window even when the timing is slightly loose. Worth keeping stocked.
+- **Leftovers as planned recovery meals:** Saving a portion of dinner specifically for post-long-run is excellent instinct — carb-forward, protein present, zero effort at the moment of highest need. Do this intentionally.
 
-*Training schedule and fueling specifics still not mapped — more detail to come.*
+*Training schedule and fueling specifics still not formally mapped — more detail to come.*
 
 ---
 
@@ -230,7 +235,7 @@ Organized by effort tier. Living list — built out based on what she actually m
 - Thai coconut soup — chicken broth (Better than Bullion) + coconut milk + curry paste + rice noodles + spinach + lime. 25 min. Pantry already stocked.
 
 **Salmon:**
-- Glazed salmon over rice — brush with chili garlic sauce + soy + honey + rice vinegar. 400°F, 12-14 min. Sheet pan. Done. Works when miso isn't on hand; chili garlic sauce is a solid alternative glaze.
+- Glazed salmon over rice — brush with chili garlic sauce + soy + honey + rice vinegar. 400°F, 12-14 min. Sheet pan. Done.
 
 **Other quick cooks:**
 - Fried rice: leftover rice + fridge scraps + egg + soy sauce
@@ -241,34 +246,25 @@ Organized by effort tier. Living list — built out based on what she actually m
 ### Tier 3 — Dump and Bake / Hands-Off
 
 - **Meatball pasta bake** (the classic) — frozen meatballs + jarred sauce + dry pasta + mozzarella. Gets 3 meals.
-- **Baked gnocchi with Italian sausage and spinach** — brown half a pound of sausage (crumbled or sliced) in oven-safe skillet or dutch oven. Add 3-4 cloves garlic, cook 1 min. Add big handful of spinach, wilt. Pour in one jar of vodka sauce, roasted red pepper sauce, or marinara + big splash of cream. Stir in one package shelf-stable gnocchi uncooked. Add 1/2 cup broth or water. Top with torn mozzarella + parm. Cover with foil, 400°F, 20 min. Uncover, 10 more min until bubbly. Spinach disappears — Nick won't notice. Add more for the fiber.
-- **White bean and sausage bake** — Italian sausage + 2 cans white beans + fire roasted tomatoes + broth + dried herbs + olive oil. Dutch oven or baking dish, 350°F, 45 min. Crusty bread. Pantry already stocked.
-- **Chili** — ground beef or turkey (browning optional), chili beans + fire roasted tomatoes + spices. Dutch oven, 45 min simmer. Feeds 4+ meals.
+- **Stovetop gnocchi with Italian sausage (confirmed May 2026):** Brown sausage (crumbled or sliced), remove. Cook garlic in fat 30 sec. Add jarred sauce + splash of broth to loosen. Drop gnocchi in uncooked, stir to coat, cover, cook 5-6 min until tender. Add sausage back, spinach, wilt. Parm on top. 20 min, one pan. Gnocchi absorbs the sauce — no boiling water, no separate pot. Stovetop is faster and arguably better than baked version; more control over sauce consistency. Confirmed with cudighi sausage + Rao's marinara + lots of spinach.
+- **Baked gnocchi with Italian sausage and spinach** — same ingredients as above but: top with torn mozzarella + parm, cover with foil, 400°F, 20 min, uncover, 10 more min until bubbly.
+- **White bean and sausage bake** — Italian sausage + 2 cans white beans + fire roasted tomatoes + broth + dried herbs + olive oil. Dutch oven or baking dish, 350°F, 45 min. Crusty bread.
+- **Chili** — ground beef or turkey, chili beans + fire roasted tomatoes + spices. Dutch oven, 45 min simmer. Feeds 4+ meals.
 - **Sheet pan sausage and potatoes** — Italian sausage sliced + potatoes cubed + olive oil + seasoning. 400°F, 35-40 min. Zero dishes.
-- **Shakshuka** — fire roasted tomatoes + eggs cracked in + spices. 20 min, one pan. Breakfast-for-dinner energy.
-- **Baby back ribs — Weber kettle (confirmed Memorial Day 2026):** Two-zone indirect setup — all lit coals pushed to one side, ribs on the other, bone side down. Target 225–250°F at the grate. Add 2–3 chunks apple or cherry wood (lighter smoke, suits baby backs; hickory works but don't overdo it). Pull membrane off bone side before seasoning (butter knife to start, paper towel grip to pull). Season: salt, pepper, paprika, garlic powder, brown sugar optional for bark. 3 hrs unwrapped → wrap in foil with small splash apple juice or pats of butter, 1–1.5 hrs → unwrap, sauce, 30 min to set. Total ~5 hours. Done when toothpick slides between bones with zero resistance and rack bends dramatically when picked up in the middle with tongs. Vent management: bottom ~50% open, top ~75%; adjust to chase temp.
-- **Sheet pan chicken + sweet potato** — cube sweet potato 3/4 inch, season with olive oil + cumin + chili powder + garlic powder + salt, 425°F 10-12 min first. Add chicken breasts (whole or cubed), same seasoning, another 20-22 min. Squeeze lime at end. Serve with lemon tahini or any quick sauce. Nick-friendly. Confirmed May 2026.
-- Salsa chicken
-- Barbacoa
-- Carnitas
-- Italian beef
-- Chicken thighs braised in tomatoes and olives
-- Lemon chicken with potatoes (dutch oven or sheet pan)
-- Braised short ribs or chuck roast
-- Baked salmon with sheet pan vegetables
-- Italian pulled pork
+- **Shakshuka** — fire roasted tomatoes + eggs cracked in + spices. 20 min, one pan.
+- **Baby back ribs — Weber kettle (confirmed Memorial Day 2026):** Two-zone indirect, 225–250°F, apple/cherry wood, ~5 hours total (3 unwrapped → 1-1.5 foil → 30 min sauced). Toothpick test between bones; rack bends dramatically when done.
+- **Sheet pan chicken + sweet potato** — cube sweet potato 3/4 inch, 425°F 10-12 min first. Add chicken breasts, same seasoning, 20-22 more min. Lime at end. Lemon tahini alongside. Nick-friendly.
+- Salsa chicken / Barbacoa / Carnitas / Italian beef / Chicken thighs braised in tomatoes and olives / Lemon chicken with potatoes / Braised short ribs or chuck roast / Baked salmon with sheet pan vegetables / Italian pulled pork
 
 ---
 
 ## 6. Quick Sauces (2 Minutes or Less)
 
-No-cook sauces that work over roasted things, grain bowls, and sheet pan meals.
-
-- **Lemon tahini** — 3 tbsp tahini + juice of half a lemon + 1 small garlic clove grated (or pinch of garlic powder) + pinch of salt + water 1 tbsp at a time until pourable. Taste and adjust. Keeps in fridge all week. Especially good on sweet potato. Confirmed May 2026.
-- **Smoky yogurt** — greek yogurt + lemon + smoked paprika or smoky hot sauce + salt + garlic powder. Cool against hot roasted things. Dollop, don't drizzle.
-- **Pesto** — straight from the jar. Unironically great over roasted chicken and sweet potato. Lowest friction option.
-- **Curry yogurt** — greek yogurt + spoonful of red curry paste + squeeze of lemon. *Flagged as future experiment — save for a day with bandwidth to be curious. No experience with it yet; can't predict the outcome.*
-- **Fried rice sauce** — ~1/2 cup soy sauce + chili garlic sauce + oyster sauce + red pepper flakes, stir together, splash of rice vinegar after tasting. Toss over finished rice in the wok. Confirmed ratio May 2026.
+- **Lemon tahini** — 3 tbsp tahini + juice of half a lemon + garlic + pinch of salt + water to thin. Keeps in fridge all week.
+- **Smoky yogurt** — greek yogurt + lemon + smoked paprika or smoky hot sauce + salt + garlic powder.
+- **Pesto** — straight from the jar. Unironically great over roasted chicken and sweet potato.
+- **Curry yogurt** — greek yogurt + spoonful of red curry paste + squeeze of lemon. *Flagged as future experiment.*
+- **Fried rice sauce** — ~1/2 cup soy sauce + chili garlic sauce + oyster sauce + red pepper flakes + splash of rice vinegar after tasting. Confirmed ratio May 2026.
 
 ---
 
@@ -276,95 +272,89 @@ No-cook sauces that work over roasted things, grain bowls, and sheet pan meals.
 
 ### Marty's Established Salads
 
-- **Fattoush with feta and chicken** — her absolute favorite. Zing of the dressing is the point.
-- **Chicken, bacon, blue cheese** — red onion, cucumber, tomato, balsamic vinaigrette, croutons if available
-- **Chicken, dried cranberries, blue cheese or feta, walnuts or slivered almonds, vinaigrette** — can sub or add apples, pears, or strawberries. Very seasonal-flexible.
+- **Fattoush with feta and chicken** — her absolute favorite.
+- **Chicken, bacon, blue cheese** — red onion, cucumber, tomato, balsamic vinaigrette, croutons
+- **Chicken, dried cranberries, blue cheese or feta, walnuts or slivered almonds, vinaigrette** — very seasonal-flexible.
+- **Chipotle bag salad + black beans + Foreman chicken** — confirmed May 2026. Quick, high protein, fiber from beans, Nick-friendly. Half dressing packet when splitting.
 
 ### New Summer Additions (Marty)
 
-- **Grilled peach + chicken + arugula + goat cheese + candied pecans + balsamic** — peaches on the Foreman 3 min. Fattoush-adjacent energy, summery.
-- **Watermelon + feta + cucumber + mint + red onion + lime vinaigrette** — lighter, no chicken needed. Add prosciutto for protein.
-- **BLT salad** — romaine + bacon + tomato + avocado + croutons + blue cheese or caesar or ranch. Peak August tomato moment.
-- **Mango + chicken + avocado + red onion + cilantro + lime** — deconstructed mango salsa over greens. Add jalapeño.
-- **Fig + prosciutto + arugula + shaved parmesan + honey + balsamic** — no chicken, no cooking, feels fancy. Late summer.
-- **Greek + chicken** — romaine + tomato + cucumber + red onion + kalamata + feta + oregano + red wine vinegar + olive oil. Already mostly stocked.
-- **Chipotle bag salad + black beans + Foreman chicken** — confirmed May 2026. Quick, high protein, fiber from beans, Nick-friendly. Half dressing packet when splitting with Nick.
+- **Grilled peach + chicken + arugula + goat cheese + candied pecans + balsamic**
+- **Watermelon + feta + cucumber + mint + red onion + lime vinaigrette** — add prosciutto for protein
+- **BLT salad** — romaine + bacon + tomato + avocado + croutons + blue cheese or caesar. Peak August tomato moment.
+- **Mango + chicken + avocado + red onion + cilantro + lime** — deconstructed mango salsa over greens
+- **Fig + prosciutto + arugula + shaved parmesan + honey + balsamic** — no chicken, no cooking
+- **Greek + chicken** — romaine + tomato + cucumber + red onion + kalamata + feta + oregano + red wine vinegar + olive oil
 
-### Nick-Friendly Salads (More Conservative)
+### Nick-Friendly Salads
 
-- **Traditional Greek** — as above, without the chicken if he prefers
-- **Antipasto** — salami/pepperoni + provolone + pepperoncini + roasted red peppers + artichoke hearts + olives + Italian dressing. Over greens or not. Basically a charcuterie board over lettuce — highly Nick-compatible.
+- **Traditional Greek**
+- **Antipasto** — salami/pepperoni + provolone + pepperoncini + roasted red peppers + artichoke hearts + olives + Italian dressing. Basically a charcuterie board over lettuce — highly Nick-compatible.
 
 ### Salad Strategy for Two
-Build around a shared base, diverge on toppings. Chicken pre-cooked on the Foreman goes in both bowls. The split is just what lands on top. Antipasto is a good gateway for Nick — meat and cheese over lettuce.
+Build around a shared base, diverge on toppings. Chicken pre-cooked on the Foreman goes in both bowls.
 
 ---
 
 ## 8. Freezer Inventory (Partial — Audit In Progress)
 
-*Captured during session; full audit is next priority. Items noted as approximate.*
-
 ### Proteins
-- Baby back ribs — **COOKED Memorial Day 2026** (any leftovers may remain)
+- Baby back ribs — COOKED Memorial Day 2026 (any leftovers may remain)
 - Chicken breasts — restocked May 2026
 - Frozen hamburger patties
-- Bare breaded chicken — nuggets (spicy + regular), maybe tenders, maybe patties. Zero-effort backup protein.
-- Vacuum-sealed carnitas — portioned in 2-3 cup portions. **Use soon.**
-- Vacuum-sealed pulled pork — from last summer BBQ. Confirmed still excellent quality. Ready to use.
-- Kevin's Paleo sous vide chicken pouches — confirmed winner. Keep stocked.
-- Frozen salmon fillets — in use; glazed version worked well
+- Bare breaded chicken — nuggets (spicy + regular), maybe tenders, maybe patties
+- Vacuum-sealed carnitas — **Use soon. Still flagged.**
+- Vacuum-sealed pulled pork — from last summer BBQ. Confirmed still excellent.
+- Kevin's Paleo sous vide chicken pouches — keep stocked
+- Frozen salmon fillets
 
 ### Vegetables
-- Frozen green beans — large bag
-- Frozen corn
-- Frozen peppers
-- Maybe various mixed veg
+- Frozen green beans, corn, peppers, maybe mixed veg
 
-*Full freezer + pantry audit still pending. Goal: know exactly what's there, toss anything questionable, and build the real staples baseline.*
+*Full freezer + pantry audit still pending.*
 
 ---
 
 ## 9. Open Questions & Next Steps
 
-### Immediate Priority — Next Session
+### Immediate Priority
 
-- **Full freezer + pantry audit** — still hasn't happened. Go through everything category by category. Toss what's past its prime. Build the actual staples baseline from what's real, not assumed.
-- **Training schedule and fueling specifics** — still not mapped; will inform meal timing and carb targets
-- **Carnitas** — flagged "use soon" for multiple sessions now. Make them happen.
+- **Full freezer + pantry audit** — still hasn't happened. Go through everything, toss what's past its prime.
+- **Training schedule and fueling specifics** — still not mapped
+- **Carnitas** — USE THEM. This has been in the doc for months.
 
 ### In Progress
 
-- Building out the full pantry/freezer baseline list — what should always be on hand so shopping is just 'filling in blanks'
-- Shopping list structure: how to make the per-trip decisions as simple as possible given the if-then protein logic
-- **Add fish sauce to regular shopping list** — unlocks larb, ginger pork, thai soup. Cheap, lasts forever.
-- **Add kalamata olives to regular shopping list** — unlocks greek salad, grain bowls, antipasto
-- Food log — ongoing; patterns will surface over time
+- Food log — one full week in. Patterns emerging (see food_log.md pattern summary).
+- Shopping list structure: how to make per-trip decisions as simple as possible
+- **Add fish sauce to regular shopping list** — unlocks larb, ginger pork, thai soup
+- **Add kalamata olives to regular shopping list**
 
-### Parking Lot (Good Ideas, Not Yet Developed)
+### Parking Lot
 
-- Whether to build a simple rotating weekly framework (e.g., 'dutch oven day,' 'assembly day,' etc.)
-- End-of-cycle strategy when pantry is low and fresh proteins are gone
+- Before-bed dessert ritual — consistent need for something sweet. Vehicle varies (PB+choc chips, ice cream, Oreos). Worth finding a better swap eventually. Not forcing it yet.
+- Friday cinnamon roll — Oikos Triple Zero alongside would blunt the spike without changing the ritual. Try it.
+- Simple rotating weekly framework (dutch oven day, assembly day, etc.)
+- End-of-cycle strategy when pantry is low
 - Specific athlete fueling guidance around training blocks and race season
-- Lunch ideas beyond current rotation — currently solved with meal prep nutrition service; may want to revisit when service changes
-- Curry yogurt sauce — interesting but flagged for a day with bandwidth to experiment
-- Chickpea texture — try towel method again more aggressively; Trader Joe's canned as alternative; cooking from dry with baking soda for hummus specifically
+- Curry yogurt sauce experiment
+- Chickpea texture — try towel method more aggressively; Trader Joe's as alternative
 
 ---
 
 ## 10. Real-Life Execution Notes
 
-*Running log of how the system performs in actual use — what works, what breaks down, what gets adapted.*
-
-- **Kevin's Paleo sous vide chicken over rice** — came through when shopping didn't happen and friends were unexpectedly in town. Quick, no decision required, satisfying. Exactly what the freezer backup tier is for. Keep these stocked.
-- **Glazed salmon over leftover rice (post-trainer ride)** — chili garlic sauce + soy + honey + rice vinegar, 400°F 12-14 min. No miso needed. Thawed during trainer ride, oven on immediately after, dinner ready post-cooldown. Clean execution of the 'finishable not startable' principle.
-- **Vacuum sealer is a real asset** — pulled pork from last summer BBQ still excellent. Carnitas a few weeks old, perfect. This is the end-of-cycle safety net working exactly as intended.
-- **Post-vacation fridge reset (May 2026)** — 8 days away → spoiled fridge → cleaned out on garbage night. First real meal back was salmon + rice (Monday). Second night: fried rice — meatless, pantry-only, 10 min, actually good. Key reminder: the pantry sauce situation is strong enough to carry a meal when the fridge is bare. Fried rice is now an explicit no-protein-needed fallback.
-- **Frozen pizza + ice cream at 10:30pm** — noted without judgment. Vacation hangover + gross fridge + barely-thawed chicken = not a character flaw. The system caught back up the next night.
-- **Fried rice — confirmed technique (wok, May 2026):** Canola oil in wok, heat up. Small-diced onion + lots of garlic, cook briefly. Add frozen mixed veg, cook until warmed and getting color. Add rice (brown, 2-3 cups), move around. Drizzle of sesame oil. Make a well, add bit of sesame oil, add 4 scrambled eggs — cook and fold into rice. Sauce: ~1/2 cup soy + chili garlic sauce + oyster sauce + red pepper flakes stirred together, splash of rice vinegar after tasting. Toss and serve. Nick loved it.
-- **Sheet pan chicken + sweet potato + lemon tahini (May 2026):** Sweet potato cubed 3/4 inch + olive oil + cumin + chili powder + garlic powder + salt → 425°F 10-12 min first. Add chicken breasts (whole), same seasoning, 20-22 more min. Lime squeezed at end. Lemon tahini alongside: 3 tbsp tahini + half lemon juice + garlic + salt + water to thin. Easy, Nick-friendly, reheats well.
-- **Baby back ribs on Weber kettle (Memorial Day 2026):** Two-zone indirect, 225–250°F, apple/cherry wood, ~5 hours total (3 unwrapped → 1-1.5 foil → 30 min sauced). Ribeye steaks on the hot side same session. Quinoa and sweet potatoes baked same day as component prep.
-- **Gnocchi bake + white bean sausage skillet planned (May 2026):** Italian sausage split between the two. Gnocchi bake: sausage + spinach + jarred sauce + gnocchi + mozz, 400°F. White bean skillet: sausage browned and removed, white beans simmered in pan drippings + broth until creamy, sausage back in, spinach + lemon at end.
-- **Chipotle bag salad + black beans + chicken (May 26, 2026):** Fresh Express Chipotle Chopped salad kit + ~1 cup black beans added + 2 Foreman chicken breasts. Split with Nick. Half dressing packet each. High protein, fiber from beans, quick. Good MQT-free lunch template.
+- **Kevin's Paleo sous vide chicken over rice** — came through for unexpected guests. Keep stocked.
+- **Glazed salmon over leftover rice (post-trainer ride)** — chili garlic sauce + soy + honey + rice vinegar, 400°F 12-14 min. Finishable-not-startable principle working.
+- **Post-vacation fridge reset (May 2026)** — cleaned out, came back online with salmon + rice then fried rice. Pantry sauce situation strong enough to carry a meal when fridge is bare.
+- **Fried rice — confirmed technique (wok, May 2026):** Canola oil, onion + garlic, frozen veg, brown rice, sesame oil, 4 scrambled eggs folded in, fried rice sauce. Nick loved it.
+- **Sheet pan chicken + sweet potato + lemon tahini (May 2026):** 425°F, sweet potato first then chicken, lime at end. Easy, Nick-friendly, reheats well.
+- **Baby back ribs on Weber kettle (Memorial Day 2026):** Two-zone indirect, 225–250°F, ~5 hours total. Ribeyes on the hot side same session.
+- **Stovetop gnocchi with cudighi sausage (May 27, 2026):** Brown and remove sausage. Onion + garlic in fat. Deglaze with 1 cup chicken stock, reduce. Add 1 jar Rao's marinara. Gnocchi in uncooked, cover, 5-6 min. Sausage back, lots of spinach, parm + mozzarella on top. **Leftovers saved intentionally for post-long-run Saturday — perfect recovery meal with zero effort.** This is the prep-ahead instinct working exactly as intended.
+- **Burrito bowl with leftover ribeye + charred corn (May 29, 2026):** Slice steak thin, reheat in hot skillet. Add small can of corn to the same pan, char alongside. ~1 cup brown rice, guac made ahead, cherry tomatoes, lite sour cream. Brown rice over white = quiet A1C win. Guac prepped earlier = no-friction assembly. Charring corn with the steak = smart, high-flavor move.
+- **Chipotle bag salad + black beans + chicken (May 26, 2026):** Good MQT-free lunch template. Mix whole kit, split with Nick, half dressing packet each, chicken on top.
+- **Film submission pizza night (May 28, 2026):** Two slices instead of usual three. No dessert. Self-regulation worked in a depleted context. Not a pattern problem.
+- **First week of food logging complete (May 25–30, 2026):** Beans showing up consistently and naturally. Naked carb awareness working without effort. Post-long-effort recovery still a gap but improving (Scratch drinks in cooler May 30). Dessert ritual identified — tracking before addressing.
 
 ---
 
