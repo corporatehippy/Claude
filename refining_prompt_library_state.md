@@ -6,6 +6,47 @@
 
 ## Session Log
 
+### May 30, 2026 — Session 3
+
+**Scope:** 1A persona evolution — capturing the shift from ADHD life-hacks / kitchen management toward a fuller nutrition coaching + food logging frame. Also addressed a food log commit timing gap.
+
+**Changes made:**
+
+1. **Food log commit behavior tightened** — Changed from "commit in-session when entries are ready" to "Claude commits each food entry to food_log.md immediately after it is logged — not batched, not at session close. Every meal reported = one commit." Root cause: Claude was batching at end of day; reorientation mid-session couldn't pick up same-day entries that hadn't been written yet.
+
+2. **1A persona rewrite** — Replaced the "performance life coach" framing with a fuller three-paragraph persona:
+   - Paragraph 1 (Marty's edit): Performance nutrition coach for recreational endurance athletes trying to build a life. Named her actual activities: ultra marathons, endurance bike rides, backpacking, bikepacking, gaming, filming and editing video, weekday morning lake dips.
+   - Paragraph 2: Holds two tracks simultaneously — athletic performance (fueling, recovery, energy) and long-game health (blood sugar, weight, aging well). Incremental and sustainable; Marty has 26 years of experience knowing what overhauls do.
+   - Paragraph 3: Not a clinical dietitian, not a meal prep evangelist. Non-obvious strategies for real-life ADHD brains. Culinary depth is genuine.
+
+3. **Goals explicitly named in CLIENT PROFILE** — Added: "Goals: lose weight, fuel training, lower blood sugar, feel better as she ages. Approach is sustainable and incremental — not a reset, not a diet."
+
+4. **Ritual clarified — split into two bullets:**
+   - Daily ritual: Cold-water dips in Lake Superior on weekday mornings — mental health anchor, non-negotiable.
+   - Friday addition: After the dip, stops at the bakery for cinnamon rolls and coffee. Joy ritual — not a nutrition problem. Oikos Triple Zero alongside would blunt the glucose spike without touching the ritual.
+   - Previous version incorrectly described the dip as a Friday-only event.
+
+5. **Active training context added to CLIENT PROFILE** — "Currently in active training — working toward an ultra marathon and a long endurance bike event."
+
+**New principles established:**
+
+- **Food log commit = immediate, not batched.** Reorientation only works if the file is already current. The commit instruction must be unambiguous — "when entries are ready" is not strong enough.
+- **Persona frame captures the whole person, not just the use case.** The 1A persona now names what Marty's life actually looks like (the training, the gaming, the filming, the dips) so Claude understands the context she's navigating, not just the kitchen problem she's solving.
+
+**Open work list (updated):**
+- [ ] Create streamdeck_project_state.md (3A companion doc doesn't exist yet)
+- [ ] Confirm GoPro capture resolution for Hero12 and Hero11 Mini (TBD in 2B)
+- [ ] Confirm project frame rate (TBD in 2B)
+- [ ] Clarify "one additional Mac (TBD)" in 4A USER PROFILE
+- [ ] Consider a YouTube/content creation prompt (5B or 6A) as Marty's channel grows
+- [ ] Update 2A PROJECT STATUS — film was due May 31; confirm submission status
+- [ ] Consider developing full personas for 2A, 2B, 3A, 4A following the 1A model
+- [ ] Consider trimming WHAT WE'VE BUILT in 1A — now 11 bullets, getting long again
+
+---
+
+## Session Log
+
 ### May 6, 2026 — Session 2
 
 **Scope:** COMMUNICATION RULES cross-pollination across all prompts; 1A persona development; learning style and expertise nuances added to all profiles.
@@ -128,7 +169,7 @@ All prompts now share this common rule set, with domain-specific additions on to
 Used in 2B and 5A to set session scope before companion doc locations. Available pattern for any future prompt that needs strong scope-setting before the detail begins.
 
 **Persona development principle (established May 6):**
-A full persona opening (not just a job title) gives Claude a character to inhabit, which improves consistency of voice and emotional calibration. 1A is the first prompt to have this. Others may benefit in future sessions.
+A full persona opening (not just a job title) gives Claude a character to inhabit, which improves consistency of voice and emotional calibration. 1A is the model. Others may benefit in future sessions.
 
 **Draft-first principle (established May 6):**
 Technical or structural changes → execute directly. Creative or voice decisions (personas, tone framing, narration, significant rewrites) → show a draft first, get approval, then push. Applies in 2A and 5A; likely applies in any prompt where voice/tone is part of the output.
@@ -140,17 +181,11 @@ Learning style and prior knowledge are domain-specific, not uniform:
 - DaVinci Resolve: Genuine beginner. Same as above.
 - General: Learns best through hands-on experience and direct conversation, not passive consumption.
 
----
+**Food log commit principle (established May 30):**
+"Commit when entries are ready" is not strong enough — Claude batches. The instruction must be explicit: commit immediately after every meal is reported, no batching, no end-of-session delays. Reorientation only works if the file is already current.
 
-## Open Work
-
-- [ ] Create streamdeck_project_state.md (3A companion doc doesn't exist yet — will be created at close of first 3A session)
-- [ ] Confirm GoPro capture resolution for Hero12 and Hero11 Mini (TBD in 2B SYSTEM SETUP)
-- [ ] Confirm project frame rate (TBD in 2B SYSTEM SETUP)
-- [ ] Clarify "one additional Mac (TBD)" in 4A USER PROFILE
-- [ ] Consider a YouTube/content creation prompt (5B or 6A) as Marty's channel grows
-- [ ] Review 2A PROJECT STATUS as the film moves through final post-production toward the May 31 deadline
-- [ ] Consider developing full personas for 2A, 2B, 3A, 4A following the 1A model
+**Persona captures the whole person (established May 30):**
+The 1A persona now names Marty's actual life context — not just the problem domain. This gives Claude the frame to understand what she's balancing, not just what she's asking for help with.
 
 ---
 
@@ -165,3 +200,4 @@ Learning style and prior knowledge are domain-specific, not uniform:
 - On 1A persona: wants non-obvious strategies for real life, not TikTok meal prep content. Specifically called out the gap between generic advice and what actually works for an ADHD brain at 9:30pm.
 - On learning style: domain matters. Food = veteran, don't explain basics. Film/Resolve = genuine beginner who learns by doing, not by watching tutorials.
 - Draft-first on creative/voice decisions; execute directly on technical/structural ones.
+- Reorientation phrase matters: "Re-read the docs and reorient" triggers MCP retrieval. Conversational openers do not. Worth reinforcing this as a habit.
