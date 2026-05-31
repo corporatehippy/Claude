@@ -27,7 +27,15 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 - Velveeta cheese slice
 - 1/2 grapefruit alongside
 
-*Notes: Solid Sunday breakfast. Protein from egg + ham, fat from butter + cheese, multigrain bread over white. Grapefruit alongside = good fiber, not naked. The bakery bread is a nice upgrade from standard sandwich bread — multigrain roma has more going on nutritionally and texturally.*
+*Notes: Solid Sunday breakfast. Protein from egg + ham, fat from butter + cheese, multigrain bread over white. Grapefruit alongside = good fiber, not naked.*
+
+**Lunch (early afternoon — after light beach hike with dogs)**
+- Leftover guac (finished) with tortilla chips (~1–2 servings chips)
+- ~10oz tub hummus, mostly finished between two people (~5oz Marty's share)
+- Pita chips (~2 servings)
+- Sliced cucumber and sliced red pepper — generous amount
+
+*Notes: Fridge-clearing lunch that worked. Hummus has enough protein and fat to anchor the chips — not naked despite the chip situation. Avocado fat in the guac, chickpea protein in the hummus, real fiber from the veg. The cucumber and pepper volume is worth noting positively — that's a lot of vegetable. Light effort day context (beach walk with dogs) makes this a reasonable caloric load.*
 
 ---
 
@@ -54,46 +62,42 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 **Post-run meal (late lunch)**
 - Leftover stovetop gnocchi with cudighi sausage — "smashed it, so good"
 
-*Notes: Planned Wednesday, saved intentionally for post-long-run. Carb-forward, protein from sausage, spinach still in there. Perfect recovery meal with zero effort at the moment of highest need. This is the prep-ahead instinct paying off exactly as intended.*
+*Notes: Planned Wednesday, saved intentionally for post-long-run. Carb-forward, protein from sausage, spinach still in there. Perfect recovery meal with zero effort at the moment of highest need.*
 
 **Evening — delivery (stayed in)**
 - Double cheeseburger, smashburger style — Big Burger Grille
 - Fries — ate approximately half the order
 - Bourbon and coke (Nick made it)
 
-*Notes: Did not go to brewery — stayed in and ordered delivery. Burger after a long run day is fine; the protein load is appropriate. Half the fries = decent self-regulation. Bourbon and coke adds sugar on top of a long day but it's Saturday after a long run. Context matters.*
+*Notes: Burger after a long run day is fine. Half the fries = decent self-regulation.*
 
 **Before bed**
 - Handful of mini chewy Sweet Tarts (leftover trail snacks from the run)
 - Peanut butter + chocolate chips (~1–1.5 servings PB)
 
-*Notes: Two sweet things back to back before bed — new wrinkle. Usually one or the other. Sweet Tarts were likely just sitting out and easy to grab as trail leftovers; PB+choc chips followed as the ritual. Worth watching — if trail snacks are left out, they become a second dessert. Fifth appearance of PB+choc chips (May 25, 27, 30) and dessert ritual in general (May 25, 26, 27, 29, 30 — five consecutive logged evenings).*
+*Notes: Two sweet things back to back — trail snacks were left out and easy to grab. PB+choc chips followed as the ritual. Fifth consecutive evening with dessert.*
 
 ---
 
 ### May 29 (Friday)
 
 **Breakfast**
-- Cinnamon roll + coffee — bakery stop on the way home from Friday morning lake jump with friends
+- Cinnamon roll + coffee — bakery stop after Friday lake jump
 
-*Notes: Weekly ritual — Friday lake jump → bakery → cinnamon roll. Life needs joy; this is the right use of a cinnamon roll. Naked carbs on their own, but it's one meal per week in a known context. Instinct to add Oikos Triple Zero alongside was correct — would have blunted the glucose spike without changing the ritual. Try it next Friday.*
+*Notes: Weekly ritual. Try Oikos Triple Zero alongside next Friday.*
 
 **Lunch**
-- Large Greek salad with gyro meat and feta — delivery, first time trying the place
+- Large Greek salad with gyro meat and feta — delivery
 
-*Notes: Decent nutritional choice (protein from gyro, fiber from veg) but left Marty full and unsatisfied. Assessment: too many competing sharp/tangy/acidic flavors hitting simultaneously with a sweet dressing. Fattoush works better — brightness from herbs and lemon rather than everything pickled and brined at once. Won't reorder the Greek salad.*
+*Notes: Nutritionally fine but experientially unsatisfying — too many competing sharp/tangy flavors. Won't reorder.*
 
 **Dinner**
-- Burrito bowl: ~1 cup brown rice, less than half the leftover ribeye (sliced, reheated in hot skillet with small can of corn charred alongside), ~1/4 cup homemade guac, cherry tomatoes, lite sour cream
+- Burrito bowl: ~1 cup brown rice, leftover ribeye reheated in hot skillet with charred corn, ~1/4 cup homemade guac, cherry tomatoes, lite sour cream
 
-*Notes: Excellent. Charring corn with the steak in the same hot pan = smart, high-flavor move. Brown rice over white = quiet A1C win. Guac prepped earlier = no-friction assembly. Steak finally used. This is the prep-before-hungry instinct working perfectly.*
+*Notes: Excellent. Prep-ahead instinct (guac earlier, steak used) working perfectly.*
 
 **Before bed**
 - Small snack pack of mini Oreos
-
-*Notes: PB pattern broken but dessert ritual continues — different vehicle, same need. The ritual itself (something sweet before bed) is consistent regardless of what's available. Worth addressing eventually with a better swap.*
-
-**Day summary:** Cinnamon roll is a known weekly event, not a problem. Lunch was a miss experientially but nutritionally fine. Dinner was genuinely good — prep instinct paid off. Dessert ritual showing up again in a different form.
 
 ---
 
@@ -101,48 +105,36 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 **Breakfast**
 - Canadian bacon + fried egg + American cheese on Aunt Millie's toast, buttered
-- 1/2 large grapefruit (Nick: "the perfect grapefruit" — he may not be wrong)
-
-*Notes: Canadian bacon is one of the leaner breakfast proteins. Bread not naked — alongside protein and fat. Grapefruit: lower GI than OJ, fiber, modest insulin-sensitivity benefit.*
+- 1/2 large grapefruit
 
 **Lunch**
-- 1/2 Fresh Express Street Corn Chopped salad kit (whole kit mixed, split into two) + ~4.5oz grilled chicken breast
-
-*Notes: Street corn kit runs sweeter/higher carb than chipotle kit. Chicken on top = not naked. Half a kit is a reasonable portion.*
+- 1/2 Fresh Express Street Corn Chopped salad kit + ~4.5oz grilled chicken breast
 
 **Dinner**
 - 2 slices pizza (ordered — film festival submission night)
 
-*Notes: Depleted evening after submitting the film. Pizza was the right call. Two slices instead of usual three — stopped when satisfied. No dessert after. Self-regulation worked. Pizza night in a depleted context is not a pattern problem.*
-
-**Day summary:** Solid breakfast and lunch. Pizza dinner in high-stress context with good self-regulation. Net result: fine day.
+*Notes: Depleted evening. Two slices instead of usual three. No dessert. Self-regulation worked.*
 
 ---
 
 ### May 27 (Wednesday — no MQT available, holiday week)
 
 **Breakfast**
-- Leftover breakfast burrito from Sunday (sausage, egg/egg beater mix, black beans, cheddar, onion, jalapeño, Fairlife milk, flour tortilla)
-
-*Notes: Zero friction, good protein + fiber. Made Sunday, ate Wednesday with no effort. System working.*
+- Leftover breakfast burrito from Sunday
 
 **Lunch**
-- 1/2 large sweet potato (baked) + black beans (more than 1/2 cup) + ~6oz grilled chicken + lite sour cream (2-3 tbsp) + quick pickled red onion, cilantro, jalapeño, green onion, hot sauce
+- 1/2 large sweet potato (baked) + black beans (>1/2 cup) + ~6oz grilled chicken + lite sour cream + quick pickled red onion, cilantro, jalapeño, green onion, hot sauce
 
-*Notes: One of the better lunches in the log. Fiber, protein, complex carbs. Acid from pickled onion. "Never eat carbs naked" working perfectly without overthinking.*
+*Notes: One of the better lunches in the log.*
 
 **Afternoon**
-- Cold brew coffee with lightly sweetened oat milk
+- Cold brew with lightly sweetened oat milk
 
 **Dinner**
-- Stovetop gnocchi with cudighi sausage: ~1lb cudighi browned/removed, onion + garlic in fat, deglaze with 1 cup chicken stock, 1 jar Rao's marinara, gnocchi cooked in sauce, sausage back in, large amount of spinach, ~1/2 cup parm, <1/4 cup mozzarella. Just over half eaten, just under half saved for post-long-run Saturday.
-
-*Notes: Rao's is clean (low sugar). Spinach doing fiber work. Saving leftovers for post-run = correct instinct. Cudighi = UP-specific Italian sausage.*
+- Stovetop gnocchi with cudighi sausage: ~1lb cudighi, onion + garlic, chicken stock, Rao's marinara, gnocchi cooked in sauce, spinach, parm + mozzarella. Just over half eaten; rest saved for post-run Saturday.
 
 **Before bed**
 - Peanut butter + chocolate chips (~1–1.5 servings PB)
-
-*Notes: PATTERN FLAG — second appearance (also May 25). Dessert ritual acknowledged.*
 
 ---
 
@@ -151,63 +143,47 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 **Breakfast**
 - ~170g Oikos Triple Zero vanilla + 60g granola + ~30g raspberries + 1/2 banana
 
-*Notes: Strong breakfast. Triple Zero high protein, no added sugar. Raspberries high fiber. 60g granola is generous — note if daily habit.*
-
 **Lunch**
-- Fresh Express Chipotle bag salad (all toppings) + ~1/2 cup black beans + ~6.5oz Foreman chicken. Split with Nick; half dressing packet each.
-
-*Notes: Excellent. High protein, fiber from beans. Good MQT-free template.*
+- Fresh Express Chipotle bag salad + ~1/2 cup black beans + ~6.5oz Foreman chicken. Split with Nick; half dressing packet.
 
 **Afternoon**
 - Cold brew with lightly sweetened oat milk
 
 **Dinner**
-- Ribeye on Blackstone + 1/2 large sweet potato (baked, olive oil, s+p) + ~1/2 cup broccolini
-
-*Notes: Ribeye fatty but day was clean. Sweet potato not naked. Broccolini doing fiber work. NY Strip or flat iron are leaner future options.*
+- Ribeye on Blackstone + 1/2 large sweet potato + ~1/2 cup broccolini
 
 **Later**
-- Vanilla ice cream (slightly more than a serving) + caramel sauce (1-2 tbsp) + Hershey's chocolate sauce (1-2 tsp)
-
-*Notes: Splurge at end of a genuinely good day. Not a pattern concern yet.*
+- Vanilla ice cream (slightly more than a serving) + caramel sauce + Hershey's chocolate sauce
 
 ---
 
 ### May 25 (Sunday — Memorial Day — no MQT available)
 
 **Breakfast**
-- Breakfast burritos (4 total, Marty + Nick each ate one, 2 in fridge). Per burrito: sausage patty, egg/egg beater mix, ~1/2 cup black beans, ~1/2 cup sharp cheddar, onion, jalapeño, Fairlife 2% milk, flour tortilla, canola oil. ~10oz OJ alongside.
-
-*Notes: Solid protein + fat + fiber. OJ is the one naked carb — limiting to ~2x/week. Prefers grapefruit.*
+- Breakfast burritos (made 4, ate 1 each, 2 in fridge): sausage patty, egg/egg beater mix, ~1/2 cup black beans, cheddar, onion, jalapeño, Fairlife milk, flour tortilla. ~10oz OJ alongside.
 
 **Lunch**
-Skipped — 1hr eMTB ride + outdoor chores
+- Skipped — 1hr eMTB ride + outdoor chores
 
 **Pre-dinner**
-- 1 banana + ~6 club crackers + sharp cheddar (post-margarita)
-
-*Notes: Long gap. Holiday context. Classic post-effort appetite suppression. Recovery snack within 30-45 min of finishing would have prevented this.*
+- 1 banana + ~6 club crackers + sharp cheddar (post-margarita, long gap)
 
 **Dinner**
-- ~1/2 slab baby back ribs + ~3/4 cup potato salad + stovetop pit beans (4 varieties, onion/jalapeño/garlic, BBQ sauce, molasses, brown sugar, mustard). ~1/2–1 cup beans with dinner.
-
-*Notes: Strong dinner. Beans doing real work. Potato salad alongside protein = not naked.*
+- ~1/2 slab baby back ribs + ~3/4 cup potato salad + stovetop pit beans (~1/2–1 cup)
 
 **Before bed**
 - Peanut butter + chocolate chips (~1–1.5 servings PB)
-
-*Notes: First appearance of the before-bed dessert ritual.*
 
 ---
 
 ## Emerging Patterns (End of Week 1 / Into Week 2)
 
-- **Dessert ritual:** Five consecutive logged evenings (May 25–30). Vehicles: PB+choc chips (May 25, 27, 30), ice cream (May 26), mini Oreos (May 29), Sweet Tarts + PB+choc chips (May 30). The ritual is rock solid. Two-dessert evening on May 30 (trail snacks left out + PB after) = new data point. Marty notes it may be seasonal — more prevalent in winter, may ease in summer. Tracking, not addressing yet.
-- **Beans are landing:** Black beans showing up at breakfast (burritos), lunch (salads, sweet potato bowl), and dinner (pit beans, skillet). The "beans everywhere" shift is happening naturally.
-- **Naked carb awareness is working:** Most meals are properly paired — the instinct is there without it being effortful.
-- **Post-long-effort recovery:** Improving. Scratch in the cooler on May 30 = right move. Cold brew only before the run = not ideal. Keep building the habit.
-- **Friday cinnamon roll:** Known weekly event, not a problem. Yogurt alongside = try it next Friday.
-- **MQT absence felt:** Holiday week without MQT = more decision-making at lunch, more reliance on leftovers and salad kits. System held reasonably well.
+- **Dessert ritual:** Five consecutive logged evenings (May 25–30). Vehicles vary; ritual is constant. Marty notes it may be seasonal — more prevalent in winter. Tracking, not addressing yet.
+- **Beans are landing:** Showing up naturally at breakfast, lunch, and dinner across the week.
+- **Naked carb awareness is working:** Most meals properly paired without effort.
+- **Post-long-effort recovery:** Improving. Scratch in the cooler on May 30 = right move. Pre-run solid food still a gap.
+- **Friday cinnamon roll:** Known weekly event. Oikos Triple Zero alongside = try it this Friday.
+- **MQT absence felt:** Holiday week held reasonably well on leftovers and salad kits.
 
 ---
 
