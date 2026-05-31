@@ -6,6 +6,56 @@
 
 ## Session Log
 
+### May 31, 2026 — Session 4
+
+**Scope:** 1A deep restructure — companion doc reorganization, prompt cleanup, and food log framing evolution.
+
+**Changes made:**
+
+1. **adhd_athlete_kitchen_plan.md — full restructure** — Doc was growing organically and had become messy, repetitive, and contained a full client profile duplicate that created drift risk with the prompt. Rebuilt with a clear information architecture designed for two use cases: planning (before shopping/cooking) and quick reference (mid-cook lookups).
+   - New structure: (1) Kitchen & Training Context, (2) The Planning System, (3) Quick Reference, (4) Meal Ideas, (5) Food Log Patterns, (6) Open Questions & Parking Lot
+   - "Who You Are" section cut entirely — prompt owns the profile
+   - Kitchen Strengths and Current Friction Points kept and expanded — these are living operational knowledge, not static profile data
+   - Training Context added as its own subsection
+   - Frameworks consolidated in Section 2 (formulas, protein defaults, if-then shopping, stocking categories, ingredient prep, blood sugar framework)
+   - Sauce ratios and confirmed techniques moved to Quick Reference — scannable, no narrative
+   - Meal ideas reorganized by protein to match shopping logic
+   - Food Log Patterns (Section 5) established as the home for long-term pattern observations across sessions
+   - Freezer inventory cut — too static, goes stale. Specific items called out in Open Questions instead.
+   - Execution notes folded into Quick Reference next to relevant techniques; no separate section
+   - Old header ("Registered Dietitian — Endurance Athlete Focus") fixed
+
+2. **1A prompt — WHAT WE'VE BUILT removed** — Section was growing back (11 bullets) and becoming noise. The companion doc now has everything organized and findable; the inline summary was redundant and created sync risk. Removed entirely.
+
+3. **1A prompt — FOOD LOG PURPOSE AND USE rewritten** — Previous version was mechanics-only (how to commit, what to track). Rewritten in two passes this session:
+   - First pass: reframed as a coaching tool — accountability layer, pattern mirror, grounded observations vs. assumptions
+   - Second pass: added long-term habit change framing explicitly. The log serves two time horizons: day-to-day accountability + meal feedback, AND long-term evidence base for what's working, what habits are shifting, where the next small change should go. Goal is slow, permanent shift away from fast/convenient eating toward whole foods and proper fueling — incremental so it sticks, nothing should feel like an overhaul.
+   - Added pointer to companion doc Section 5 as home for cross-session pattern observations
+
+4. **1A prompt — companion doc description updated** — Removed stale "client profile" reference; now accurately describes the restructured doc.
+
+5. **1A prompt — SESSION CLOSE RULE simplified** — Removed "update WHAT WE'VE BUILT" since that section no longer exists.
+
+**New principles established:**
+
+- **Companion doc owns reference and memory; prompt owns the profile.** When these overlap, they drift. Cut the duplication at the source.
+- **Structure for dual use.** A companion doc used by both Claude and the human needs to be organized by *what you're looking for*, not by *when it was added*. Planning layer up front, quick reference accessible, open questions pruned to genuinely open items.
+- **Food log has two time horizons.** Day-to-day accountability is valuable and should be preserved. But the longer-term lens — what's actually shifting, where to nudge next — is equally important and needs to be explicitly named so Claude holds both.
+- **Food Log Patterns (Section 5) is the long-term signal layer.** It should be kept current across sessions, not just the log entries themselves.
+
+**Open work list (updated):**
+- [ ] Create streamdeck_project_state.md (3A companion doc doesn't exist yet)
+- [ ] Confirm GoPro capture resolution for Hero12 and Hero11 Mini (TBD in 2B)
+- [ ] Confirm project frame rate (TBD in 2B)
+- [ ] Clarify "one additional Mac (TBD)" in 4A USER PROFILE
+- [ ] Consider a YouTube/content creation prompt (5B or 6A) as Marty's channel grows
+- [ ] Update 2A PROJECT STATUS — film was due May 31; confirm submission status
+- [ ] Consider developing full personas for 2A, 2B, 3A, 4A following the 1A model
+
+---
+
+## Session Log
+
 ### May 30, 2026 — Session 3
 
 **Scope:** 1A persona evolution — capturing the shift from ADHD life-hacks / kitchen management toward a fuller nutrition coaching + food logging frame. Also addressed a food log commit timing gap.
@@ -32,16 +82,6 @@
 
 - **Food log commit = immediate, not batched.** Reorientation only works if the file is already current. The commit instruction must be unambiguous — "when entries are ready" is not strong enough.
 - **Persona frame captures the whole person, not just the use case.** The 1A persona now names what Marty's life actually looks like (the training, the gaming, the filming, the dips) so Claude understands the context she's navigating, not just the kitchen problem she's solving.
-
-**Open work list (updated):**
-- [ ] Create streamdeck_project_state.md (3A companion doc doesn't exist yet)
-- [ ] Confirm GoPro capture resolution for Hero12 and Hero11 Mini (TBD in 2B)
-- [ ] Confirm project frame rate (TBD in 2B)
-- [ ] Clarify "one additional Mac (TBD)" in 4A USER PROFILE
-- [ ] Consider a YouTube/content creation prompt (5B or 6A) as Marty's channel grows
-- [ ] Update 2A PROJECT STATUS — film was due May 31; confirm submission status
-- [ ] Consider developing full personas for 2A, 2B, 3A, 4A following the 1A model
-- [ ] Consider trimming WHAT WE'VE BUILT in 1A — now 11 bullets, getting long again
 
 ---
 
@@ -152,6 +192,15 @@ Every prompt updates its companion doc + the relevant section of prompt_library.
 **Profile richness standard:**
 All profiles carry the same core personality/communication traits. Domain-specific items stay in their home prompt only.
 
+**Companion doc owns reference and memory; prompt owns the profile (established May 31):**
+When these overlap, they drift. Client profile duplication between prompt and companion doc was cut at the source. Companion doc holds operational knowledge (kitchen strengths, friction points, techniques, patterns); prompt holds identity and coaching context.
+
+**Companion doc structure principle (established May 31):**
+Organize by what you're looking for, not when it was added. Planning layer up front, quick reference accessible, open questions pruned to genuinely open items. A doc used by both Claude and the human needs to serve both use cases.
+
+**Food log dual time horizons (established May 31):**
+The log serves day-to-day accountability AND long-term evidence. Both must be explicitly named so Claude holds both simultaneously. Food Log Patterns (companion doc Section 5) is the designated home for cross-session observations.
+
 **COMMUNICATION RULES standard (as of May 6, 2026):**
 All prompts now share this common rule set, with domain-specific additions on top:
 - Lead with the answer
@@ -201,3 +250,5 @@ The 1A persona now names Marty's actual life context — not just the problem do
 - On learning style: domain matters. Food = veteran, don't explain basics. Film/Resolve = genuine beginner who learns by doing, not by watching tutorials.
 - Draft-first on creative/voice decisions; execute directly on technical/structural ones.
 - Reorientation phrase matters: "Re-read the docs and reorient" triggers MCP retrieval. Conversational openers do not. Worth reinforcing this as a habit.
+- On companion docs: wants them useful for her own reference, not just for Claude. Structure matters for human readability too.
+- On the food log: day-to-day accountability is valuable and should be preserved, but the longer-term lens is equally important. Both need to be held simultaneously.
