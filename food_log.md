@@ -43,8 +43,18 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 *Notes: Planned Wednesday, saved intentionally for post-long-run. Carb-forward, protein from sausage, spinach still in there. Perfect recovery meal with zero effort at the moment of highest need. This is the prep-ahead instinct paying off exactly as intended.*
 
-**Evening**
-- Brewery / food truck — TBD, not yet reported
+**Evening — delivery (stayed in)**
+- Double cheeseburger, smashburger style — Big Burger Grille
+- Fries — ate approximately half the order
+- Bourbon and coke (Nick made it)
+
+*Notes: Did not go to brewery — stayed in and ordered delivery. Burger after a long run day is fine; the protein load is appropriate. Half the fries = decent self-regulation. Bourbon and coke adds sugar on top of a long day but it's Saturday after a long run. Context matters.*
+
+**Before bed**
+- Handful of mini chewy Sweet Tarts (leftover trail snacks from the run)
+- Peanut butter + chocolate chips (~1–1.5 servings PB)
+
+*Notes: Two sweet things back to back before bed — new wrinkle. Usually one or the other. Sweet Tarts were likely just sitting out and easy to grab as trail leftovers; PB+choc chips followed as the ritual. Worth watching — if trail snacks are left out, they become a second dessert. Fifth appearance of PB+choc chips (May 25, 27, 30) and dessert ritual in general (May 25, 26, 27, 29, 30 — five consecutive logged evenings).*
 
 ---
 
@@ -177,13 +187,13 @@ Skipped — 1hr eMTB ride + outdoor chores
 
 ---
 
-## Emerging Patterns (End of Week 1)
+## Emerging Patterns (End of Week 1 / Into Week 2)
 
-- **Dessert ritual:** Consistent before-bed need for something sweet — shows up as PB+choc chips (May 25, 27), ice cream (May 26), mini Oreos (May 29). Vehicle varies; the ritual is constant. Worth finding a better swap eventually.
+- **Dessert ritual:** Five consecutive logged evenings (May 25–30). Vehicles: PB+choc chips (May 25, 27, 30), ice cream (May 26), mini Oreos (May 29), Sweet Tarts + PB+choc chips (May 30). The ritual is rock solid. Two-dessert evening on May 30 (trail snacks left out + PB after) = new data point. Worth a conversation when ready.
 - **Beans are landing:** Black beans showing up at breakfast (burritos), lunch (salads, sweet potato bowl), and dinner (pit beans, skillet). The "beans everywhere" shift is happening naturally.
 - **Naked carb awareness is working:** Most meals are properly paired — the instinct is there without it being effortful.
-- **Post-long-effort recovery:** Still a gap. Scratch drinks on May 30 = right move. Cold brew only before the run = not ideal. Improvement in progress.
-- **Friday cinnamon roll:** Known weekly event, not a problem. Yogurt alongside would be a meaningful improvement without disrupting the ritual.
+- **Post-long-effort recovery:** Improving. Scratch in the cooler on May 30 = right move. Cold brew only before the run = not ideal. Keep building the habit.
+- **Friday cinnamon roll:** Known weekly event, not a problem. Yogurt alongside = try it next Friday.
 - **MQT absence felt:** Holiday week without MQT = more decision-making at lunch, more reliance on leftovers and salad kits. System held reasonably well.
 
 ---
