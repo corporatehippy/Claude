@@ -18,6 +18,19 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 ## May 2026
 
+### May 31 (Sunday)
+
+**Breakfast**
+- Toasted multigrain roma (bakery bread) with butter
+- 1/2 serving thin deli ham
+- Over medium egg
+- Velveeta cheese slice
+- 1/2 grapefruit alongside
+
+*Notes: Solid Sunday breakfast. Protein from egg + ham, fat from butter + cheese, multigrain bread over white. Grapefruit alongside = good fiber, not naked. The bakery bread is a nice upgrade from standard sandwich bread — multigrain roma has more going on nutritionally and texturally.*
+
+---
+
 ### May 30 (Saturday — long run day)
 
 **Breakfast**
@@ -189,7 +202,7 @@ Skipped — 1hr eMTB ride + outdoor chores
 
 ## Emerging Patterns (End of Week 1 / Into Week 2)
 
-- **Dessert ritual:** Five consecutive logged evenings (May 25–30). Vehicles: PB+choc chips (May 25, 27, 30), ice cream (May 26), mini Oreos (May 29), Sweet Tarts + PB+choc chips (May 30). The ritual is rock solid. Two-dessert evening on May 30 (trail snacks left out + PB after) = new data point. Worth a conversation when ready.
+- **Dessert ritual:** Five consecutive logged evenings (May 25–30). Vehicles: PB+choc chips (May 25, 27, 30), ice cream (May 26), mini Oreos (May 29), Sweet Tarts + PB+choc chips (May 30). The ritual is rock solid. Two-dessert evening on May 30 (trail snacks left out + PB after) = new data point. Marty notes it may be seasonal — more prevalent in winter, may ease in summer. Tracking, not addressing yet.
 - **Beans are landing:** Black beans showing up at breakfast (burritos), lunch (salads, sweet potato bowl), and dinner (pit beans, skillet). The "beans everywhere" shift is happening naturally.
 - **Naked carb awareness is working:** Most meals are properly paired — the instinct is there without it being effortful.
 - **Post-long-effort recovery:** Improving. Scratch in the cooler on May 30 = right move. Cold brew only before the run = not ideal. Keep building the habit.
