@@ -1,7 +1,7 @@
 # Marty's Kitchen & Nutrition System
 
 *Companion document for 1A sessions — retrieved via GitHub MCP*
-*Last updated: May 31, 2026 | Living document — updated each session*
+*Last updated: June 1, 2026 | Living document — updated each session*
 
 Companion files:
 - **adhd_athlete_kitchen_plan.md** (this file) — kitchen system, frameworks, meal ideas, execution notes
@@ -176,6 +176,9 @@ Brush with chili garlic sauce + soy + honey + rice vinegar. 400°F, 12–14 min.
 **Burrito bowl with leftover steak** *(confirmed May 2026)*
 Slice steak thin, reheat in hot skillet. Add small can corn to same pan, char alongside. Brown rice, guac made ahead, cherry tomatoes, lite sour cream. Charring corn with the steak in the same hot pan = smart high-flavor move.
 
+**Upgraded instant ramen** *(confirmed June 2026 — lunch or quick dinner)*
+2 packs Shin-Black bone broth ramen for two. While ramen cooks: sauté onion + garlic + frozen mixed veg + large handful spinach in sesame oil, soy sauce, oyster sauce, chili garlic sauce. Add chopped cooked chicken (or any leftover protein) to the veg skillet. Add cooked noodles to skillet, let meld briefly, split into bowls, pour broth over. 15 min, one pan + pot. The noodles are just the base — the veg and protein do the real work. Ridiculously satisfying. Works equally well for lunch or a quick dinner.
+
 ---
 
 ## 4. Meal Ideas
@@ -226,6 +229,7 @@ Organized by protein — matches how you shop and plan.
 - Leftover anything + fried egg on top
 - Kevin's Paleo sous vide chicken pouches over rice — zero-friction freezer staple
 - **Fried rice** — see Quick Reference
+- **Upgraded instant ramen** — see Quick Reference
 
 ### Dutch Oven Mains
 
@@ -283,6 +287,7 @@ Organized by protein — matches how you shop and plan.
 - Naked carb awareness working without effort
 - Prep-before-hungry instinct paying off (guac ahead, leftover gnocchi saved for post-run)
 - MQT removing midday decision fatigue when available
+- Spinach sneak — wilted under egg while cheese melts. Zero friction, didn't register taste-wise.
 
 ---
 
@@ -303,7 +308,7 @@ Organized by protein — matches how you shop and plan.
 ### Parking Lot
 
 - Before-bed dessert ritual — tracking first, better swap when ready
-- Friday cinnamon roll + Oikos Triple Zero — try it
+- Friday cinnamon roll + Oikos Triple Zero — try it June 6
 - Simple rotating weekly framework (dutch oven day, assembly day, etc.)
 - End-of-cycle strategy when pantry is low
 - Specific athlete fueling guidance around training blocks and race season
