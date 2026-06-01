@@ -28,10 +28,15 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 - Velveeta cheese slice
 - 1/2 grapefruit alongside
 
-*Notes: Same sandwich as May 31 with one quiet upgrade — spinach wilted under the lid, didn't register taste-wise, added a bit of fiber and greens. Zero-friction modification. Good instinct to test it; worth adding more when excess spinach is around. Using up bakery bread before it turns = right call.*
+*Notes: Same sandwich as May 31 with one quiet upgrade — spinach wilted under the lid, didn't register taste-wise. Zero-friction modification. Worth adding more when excess spinach is around.*
 
 **Lunch**
-- TBD — chicken salad sandwich on multigrain roma, or bag salad + leftover chicken. Will report back.
+- 2 packs Shin-Black bone broth ramen, split with Nick (~1 pack each)
+- Sautéed in sesame oil: onion, garlic, frozen mixed veg, large amount of spinach, soy sauce, oyster sauce, chili garlic sauce
+- ~1/2 cooked chicken breast, chopped and added to the veggie skillet
+- Noodles added to veggie skillet to meld, then split into bowls with broth poured over
+
+*Notes: Upgraded instant ramen — noodles are just the starchy base, everything else is doing real work. Spinach, mixed veg, chicken, sesame/soy/oyster/chili garlic = solid flavor and nutrition. Bone broth in Shin-Black adds protein. Splitting two packs keeps sodium reasonable. Carb-forward but not naked — chicken and veg volume handle that. Ridiculously satisfying by report. Good template to keep: leftover cooked chicken + frozen veg + instant ramen + umami sauce = fast, substantial, better than it looks on paper.*
 
 ---
 
@@ -59,18 +64,16 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 **Post-ride snack (after 1+ hr recovery eMTB ride)**
 - Package of Ritz PB crackers
 
-*Notes: Decent post-ride timing — fat and protein right after a recovery effort. Not ideal but functional.*
+*Notes: Decent post-ride timing — fat and protein right after a recovery effort.*
 
 **Afternoon/Evening — out in Marquette**
 - Beer on the rooftop deck at the brewery
 - Ice cream at Frosty Treats
 
-*Notes: Classic Marquette spring evening.*
-
 **Dinner (~9:30pm)**
 - PB&J sandwich (both Marty and Nick)
 
-*Notes: Light dinner after a social evening — carb-forward and low protein, but breakfast and lunch were solid and it was a low-intensity day overall. No dessert after — first evening in the log without a before-bed sweet. Ice cream at Frosty Treats likely served that role earlier.*
+*Notes: Light dinner after a social evening. No dessert after — first evening in the log without a before-bed sweet. Ice cream at Frosty Treats likely served that role earlier.*
 
 ---
 
@@ -83,7 +86,7 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 - 1/2 banana
 
 **Pre-run**
-- Cold brew with sweetened oat milk (at farmer's market on the way to trails)
+- Cold brew with sweetened oat milk
 
 *Notes: Not ideal pre-run fueling — no solid food.*
 
@@ -207,13 +210,14 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 ## Emerging Patterns (End of Week 1 / Into Week 2)
 
-- **Dessert ritual:** Five consecutive logged evenings (May 25–30), then absent May 31 — ice cream at Frosty Treats earlier in the evening likely served that role. Marty notes it may be seasonal. Tracking, not addressing yet.
-- **Beans are landing:** Showing up naturally at breakfast, lunch, and dinner across the week.
-- **Naked carb awareness is working:** Most meals properly paired without effort.
-- **Spinach sneak:** First appearance June 1 — wilted under egg while cheese melts. Zero friction, didn't register taste-wise. Good template for using excess spinach going forward.
+- **Dessert ritual:** Five consecutive logged evenings (May 25–30), then absent May 31. Marty notes it may be seasonal. Tracking, not addressing yet.
+- **Beans are landing:** Showing up naturally across the week without effort.
+- **Naked carb awareness is working:** Most meals properly paired.
+- **Spinach sneak:** Wilted under egg while cheese melts — zero friction, didn't register taste-wise. Good ongoing template.
+- **Upgraded instant ramen template confirmed (June 1):** Leftover chicken + frozen veg + Shin-Black + umami sauce = fast, substantial, satisfying. Keep in rotation.
 - **Post-long-effort recovery:** Improving. Scratch in the cooler on May 30 = right move. Pre-run solid food still a gap.
-- **Friday cinnamon roll:** Known weekly event. Oikos Triple Zero alongside = try it this Friday (June 6).
-- **MQT back this week** — ordering today. Should restore midday decision stability.
+- **Friday cinnamon roll:** Known weekly event. Oikos Triple Zero alongside = try it June 6.
+- **MQT back this week** — ordering today.
 
 ---
 
