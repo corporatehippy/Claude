@@ -30,12 +30,30 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 *Notes: Solid Sunday breakfast. Protein from egg + ham, fat from butter + cheese, multigrain bread over white. Grapefruit alongside = good fiber, not naked.*
 
 **Lunch (early afternoon — after light beach hike with dogs)**
-- Leftover guac (finished) with tortilla chips (~1–2 servings chips)
-- ~10oz tub hummus, mostly finished between two people (~5oz Marty's share)
+- Leftover guac (finished) with tortilla chips (~1–2 servings)
+- ~5oz hummus (half a 10oz tub, split with Nick)
 - Pita chips (~2 servings)
 - Sliced cucumber and sliced red pepper — generous amount
 
-*Notes: Fridge-clearing lunch that worked. Hummus has enough protein and fat to anchor the chips — not naked despite the chip situation. Avocado fat in the guac, chickpea protein in the hummus, real fiber from the veg. The cucumber and pepper volume is worth noting positively — that's a lot of vegetable. Light effort day context (beach walk with dogs) makes this a reasonable caloric load.*
+*Notes: Fridge-clearing lunch that worked. Hummus anchored the chips — not naked. Real fiber from the veg volume.*
+
+**Post-ride snack (after 1+ hr recovery eMTB ride)**
+- Package of Ritz PB crackers
+
+*Notes: Decent post-ride timing — fat and protein right after a recovery effort. Not ideal but functional.*
+
+**Afternoon/Evening — out in Marquette**
+- Beer on the rooftop deck at the brewery
+- Ice cream at Frosty Treats (PB&J flavor noted as context — beautiful spring Sunday in Marquette)
+
+*Notes: Classic Marquette spring evening. Life is good.*
+
+**Dinner (~9:30pm)**
+- PB&J sandwich (both Marty and Nick)
+
+*Notes: Light dinner after a social evening — carb-forward and low protein, but breakfast and lunch were solid and it was a low-intensity day overall. PB adds some fat and protein. No dessert after — first evening in the log without a before-bed sweet. Worth noting.*
+
+**Day summary:** Full, active Sunday. Two training efforts (beach hike + recovery ride). Food was informal and social — appropriate for the day. The no-dessert-before-bed is a data point; may just be that the ice cream at Frosty Treats served that role earlier in the evening.
 
 ---
 
@@ -47,35 +65,31 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 - ~30g raspberries
 - 1/2 banana
 
-*Notes: Same bowl as Tuesday. Granola portion intentional here — pre-run fueling context changes the calculus. Carbs before a long effort are doing a job.*
-
 **Pre-run**
 - Cold brew with sweetened oat milk (at farmer's market on the way to trails)
 
-*Notes: Not ideal pre-run fueling — no solid food — but oat milk has some carbs and caffeine helped. Not the move to repeat before long efforts.*
+*Notes: Not ideal pre-run fueling — no solid food.*
 
 **Post-run**
-- Scratch Recovery drink (mixed ahead, kept in cooler, consumed immediately after run)
+- Scratch Recovery drink (mixed ahead, kept in cooler)
 
-*Notes: Right instinct. Scratch in the cooler = recovery window hit even if timing was slightly loose. This is the system working.*
+*Notes: Right instinct. Recovery window hit.*
 
 **Post-run meal (late lunch)**
-- Leftover stovetop gnocchi with cudighi sausage — "smashed it, so good"
+- Leftover stovetop gnocchi with cudighi sausage
 
-*Notes: Planned Wednesday, saved intentionally for post-long-run. Carb-forward, protein from sausage, spinach still in there. Perfect recovery meal with zero effort at the moment of highest need.*
+*Notes: Saved intentionally for post-run. Perfect execution.*
 
 **Evening — delivery (stayed in)**
 - Double cheeseburger, smashburger style — Big Burger Grille
-- Fries — ate approximately half the order
-- Bourbon and coke (Nick made it)
-
-*Notes: Burger after a long run day is fine. Half the fries = decent self-regulation.*
+- Fries — approximately half the order
+- Bourbon and coke
 
 **Before bed**
-- Handful of mini chewy Sweet Tarts (leftover trail snacks from the run)
+- Handful of mini chewy Sweet Tarts (trail snack leftovers left out)
 - Peanut butter + chocolate chips (~1–1.5 servings PB)
 
-*Notes: Two sweet things back to back — trail snacks were left out and easy to grab. PB+choc chips followed as the ritual. Fifth consecutive evening with dessert.*
+*Notes: Fifth consecutive evening with dessert. Two-sweet-things pattern from trail snacks being left out.*
 
 ---
 
@@ -89,12 +103,12 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 **Lunch**
 - Large Greek salad with gyro meat and feta — delivery
 
-*Notes: Nutritionally fine but experientially unsatisfying — too many competing sharp/tangy flavors. Won't reorder.*
+*Notes: Nutritionally fine but experientially unsatisfying. Won't reorder.*
 
 **Dinner**
-- Burrito bowl: ~1 cup brown rice, leftover ribeye reheated in hot skillet with charred corn, ~1/4 cup homemade guac, cherry tomatoes, lite sour cream
+- Burrito bowl: ~1 cup brown rice, leftover ribeye reheated with charred corn, ~1/4 cup homemade guac, cherry tomatoes, lite sour cream
 
-*Notes: Excellent. Prep-ahead instinct (guac earlier, steak used) working perfectly.*
+*Notes: Excellent. Prep-ahead instinct working perfectly.*
 
 **Before bed**
 - Small snack pack of mini Oreos
@@ -124,8 +138,6 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 **Lunch**
 - 1/2 large sweet potato (baked) + black beans (>1/2 cup) + ~6oz grilled chicken + lite sour cream + quick pickled red onion, cilantro, jalapeño, green onion, hot sauce
-
-*Notes: One of the better lunches in the log.*
 
 **Afternoon**
 - Cold brew with lightly sweetened oat milk
@@ -178,7 +190,7 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 ## Emerging Patterns (End of Week 1 / Into Week 2)
 
-- **Dessert ritual:** Five consecutive logged evenings (May 25–30). Vehicles vary; ritual is constant. Marty notes it may be seasonal — more prevalent in winter. Tracking, not addressing yet.
+- **Dessert ritual:** Five consecutive logged evenings (May 25–30), then absent May 31 — ice cream at Frosty Treats earlier in the evening may have served that role. Marty notes it may be seasonal. Tracking, not addressing yet.
 - **Beans are landing:** Showing up naturally at breakfast, lunch, and dinner across the week.
 - **Naked carb awareness is working:** Most meals properly paired without effort.
 - **Post-long-effort recovery:** Improving. Scratch in the cooler on May 30 = right move. Pre-run solid food still a gap.
