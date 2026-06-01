@@ -16,6 +16,25 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 ---
 
+## June 2026
+
+### June 1 (Monday)
+
+**Breakfast (post-beach)**
+- Toasted multigrain roma (bakery bread) with butter
+- 1/2 serving thin deli ham
+- Over medium egg
+- Few leaves spinach (wilted in pan under the egg while cheese melted with lid on)
+- Velveeta cheese slice
+- 1/2 grapefruit alongside
+
+*Notes: Same sandwich as May 31 with one quiet upgrade — spinach wilted under the lid, didn't register taste-wise, added a bit of fiber and greens. Zero-friction modification. Good instinct to test it; worth adding more when excess spinach is around. Using up bakery bread before it turns = right call.*
+
+**Lunch**
+- TBD — chicken salad sandwich on multigrain roma, or bag salad + leftover chicken. Will report back.
+
+---
+
 ## May 2026
 
 ### May 31 (Sunday)
@@ -44,16 +63,14 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 **Afternoon/Evening — out in Marquette**
 - Beer on the rooftop deck at the brewery
-- Ice cream at Frosty Treats (PB&J flavor noted as context — beautiful spring Sunday in Marquette)
+- Ice cream at Frosty Treats
 
-*Notes: Classic Marquette spring evening. Life is good.*
+*Notes: Classic Marquette spring evening.*
 
 **Dinner (~9:30pm)**
 - PB&J sandwich (both Marty and Nick)
 
-*Notes: Light dinner after a social evening — carb-forward and low protein, but breakfast and lunch were solid and it was a low-intensity day overall. PB adds some fat and protein. No dessert after — first evening in the log without a before-bed sweet. Worth noting.*
-
-**Day summary:** Full, active Sunday. Two training efforts (beach hike + recovery ride). Food was informal and social — appropriate for the day. The no-dessert-before-bed is a data point; may just be that the ice cream at Frosty Treats served that role earlier in the evening.
+*Notes: Light dinner after a social evening — carb-forward and low protein, but breakfast and lunch were solid and it was a low-intensity day overall. No dessert after — first evening in the log without a before-bed sweet. Ice cream at Frosty Treats likely served that role earlier.*
 
 ---
 
@@ -89,7 +106,7 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 - Handful of mini chewy Sweet Tarts (trail snack leftovers left out)
 - Peanut butter + chocolate chips (~1–1.5 servings PB)
 
-*Notes: Fifth consecutive evening with dessert. Two-sweet-things pattern from trail snacks being left out.*
+*Notes: Fifth consecutive evening with dessert. Two-sweet-things from trail snacks being left out.*
 
 ---
 
@@ -190,12 +207,13 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 ## Emerging Patterns (End of Week 1 / Into Week 2)
 
-- **Dessert ritual:** Five consecutive logged evenings (May 25–30), then absent May 31 — ice cream at Frosty Treats earlier in the evening may have served that role. Marty notes it may be seasonal. Tracking, not addressing yet.
+- **Dessert ritual:** Five consecutive logged evenings (May 25–30), then absent May 31 — ice cream at Frosty Treats earlier in the evening likely served that role. Marty notes it may be seasonal. Tracking, not addressing yet.
 - **Beans are landing:** Showing up naturally at breakfast, lunch, and dinner across the week.
 - **Naked carb awareness is working:** Most meals properly paired without effort.
+- **Spinach sneak:** First appearance June 1 — wilted under egg while cheese melts. Zero friction, didn't register taste-wise. Good template for using excess spinach going forward.
 - **Post-long-effort recovery:** Improving. Scratch in the cooler on May 30 = right move. Pre-run solid food still a gap.
-- **Friday cinnamon roll:** Known weekly event. Oikos Triple Zero alongside = try it this Friday.
-- **MQT absence felt:** Holiday week held reasonably well on leftovers and salad kits.
+- **Friday cinnamon roll:** Known weekly event. Oikos Triple Zero alongside = try it this Friday (June 6).
+- **MQT back this week** — ordering today. Should restore midday decision stability.
 
 ---
 
