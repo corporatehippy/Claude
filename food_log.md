@@ -18,6 +18,15 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 ## June 2026
 
+### June 2 (Tuesday)
+
+**Breakfast — Third Street Bagel (post-lake-dip errand run)**
+- Cinnamon raisin bagel with cream cheese and bacon
+
+*Notes: Grabbed on the way back from picking up MQT lunches. Carb-forward but cream cheese and bacon add fat and protein — not completely naked. Cinnamon raisin is the sweetest bagel option but it's one meal. Functionally similar to the Friday cinnamon roll situation — high-carb morning treat with some protein alongside. An Oikos Triple Zero alongside would have been the same play as the planned Friday experiment.*
+
+---
+
 ### June 1 (Monday)
 
 **Breakfast (post-beach)**
@@ -231,6 +240,7 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 - **Friday cinnamon roll:** Known weekly event. Oikos Triple Zero alongside = try it June 6.
 - **MQT back this week** — ordered June 1.
 - **1am couch-wake eating (June 1):** Light dinner → fell asleep on couch → woke at 1am → grabbed chips. Different mechanism from dessert ritual — gap-driven rather than habitual. Watch for recurrence.
+- **High-carb bakery breakfast pattern (June 2):** Cinnamon raisin bagel + cream cheese + bacon — same structure as Friday cinnamon roll. Bacon and cream cheese provide some protein/fat buffer. Oikos Triple Zero alongside would be the same play as the planned Friday experiment.
 
 ---
 
