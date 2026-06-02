@@ -36,7 +36,19 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 - ~1/2 cooked chicken breast, chopped and added to the veggie skillet
 - Noodles added to veggie skillet to meld, then split into bowls with broth poured over
 
-*Notes: Upgraded instant ramen — noodles are just the starchy base, everything else is doing real work. Spinach, mixed veg, chicken, sesame/soy/oyster/chili garlic = solid flavor and nutrition. Bone broth in Shin-Black adds protein. Splitting two packs keeps sodium reasonable. Carb-forward but not naked — chicken and veg volume handle that. Ridiculously satisfying by report. Good template to keep: leftover cooked chicken + frozen veg + instant ramen + umami sauce = fast, substantial, better than it looks on paper.*
+*Notes: Upgraded instant ramen — noodles are just the starchy base, everything else is doing real work. Ridiculously satisfying. Good template confirmed.*
+
+**Dinner**
+- Frozen burger patty cooked on Blackstone with cheese slice, on hamburger bun (1 burger)
+- Store-bought potato salad alongside
+
+**After dinner**
+- Split a cowboy cookie with Nick
+
+**1am (woke up on couch)**
+- Handful of tortilla chips
+
+*Notes: Dinner was on the lighter side for protein — one burger patty doesn't carry far. The 1am couch-wake + chip grab is a new pattern worth watching: light dinner → fall asleep on couch → wake up at 1am hungry → grab nearest thing. Classic gap-driven late eating. Not the dessert ritual — a different mechanism. If dinner had more protein/substance this probably doesn't happen.*
 
 ---
 
@@ -217,7 +229,8 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 - **Upgraded instant ramen template confirmed (June 1):** Leftover chicken + frozen veg + Shin-Black + umami sauce = fast, substantial, satisfying. Keep in rotation.
 - **Post-long-effort recovery:** Improving. Scratch in the cooler on May 30 = right move. Pre-run solid food still a gap.
 - **Friday cinnamon roll:** Known weekly event. Oikos Triple Zero alongside = try it June 6.
-- **MQT back this week** — ordering today.
+- **MQT back this week** — ordered June 1.
+- **1am couch-wake eating (June 1):** Light dinner → fell asleep on couch → woke at 1am → grabbed chips. Different mechanism from dessert ritual — gap-driven rather than habitual. Watch for recurrence.
 
 ---
 
