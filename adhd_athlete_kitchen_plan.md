@@ -1,7 +1,7 @@
 # Marty's Kitchen & Nutrition System
 
 *Companion document for 1A sessions — retrieved via GitHub MCP*
-*Last updated: June 1, 2026 | Living document — updated each session*
+*Last updated: June 2, 2026 | Living document — updated each session*
 
 Companion files:
 - **adhd_athlete_kitchen_plan.md** (this file) — kitchen system, frameworks, meal ideas, execution notes
@@ -32,6 +32,7 @@ Companion files:
 - Dinner often happens around 9:30–10pm — meals need to be *finishable*, not startable, at that hour
 - Post-long-effort recovery gap: appetite suppressed after long rides/runs → skips real food → blood sugar drops → chaos by late afternoon/evening
 - Before-bed dessert ritual: consistent need for something sweet before bed — PB+choc chips, ice cream, Oreos. Vehicle varies; ritual is constant. Tracking before addressing.
+- **End-of-cycle crash (flagged June 2026):** When pantry is low and kitchen is a mess, no systems exist to sustain good eating. This is a known gap that needs its own framework — conversation tabled for a dedicated session.
 
 ### Training Context
 
@@ -281,6 +282,7 @@ Organized by protein — matches how you shop and plan.
 - **Dessert ritual** — consistent before-bed need for something sweet. PB+choc chips, ice cream, mini Oreos. Vehicle varies; ritual is constant. Tracking before addressing.
 - **Post-long-effort recovery** — still a gap but improving. Scratch drinks in cooler (May 30) = right move. Cold brew only pre-run = not ideal. Keep building the habit.
 - **Friday cinnamon roll** — weekly ritual, known event, not a problem. Oikos Triple Zero alongside = meaningful improvement without disrupting the ritual. Try it.
+- **1am couch-wake eating** — first appearance June 1. Light dinner → fell asleep on couch → woke at 1am hungry → grabbed chips. Gap-driven, not ritual-driven. Watch for recurrence.
 
 **What's working:**
 - Beans showing up consistently and naturally
@@ -307,10 +309,10 @@ Organized by protein — matches how you shop and plan.
 
 ### Parking Lot
 
+- **End-of-cycle systems conversation (priority — flagged June 2, 2026):** When pantry is low and kitchen is a mess, no systems exist to sustain good eating. Marty wants to build something here. Dedicated conversation needed — what does survival mode actually look like, and what are the minimum viable anchors to keep food from going fully off the rails?
 - Before-bed dessert ritual — tracking first, better swap when ready
 - Friday cinnamon roll + Oikos Triple Zero — try it June 6
 - Simple rotating weekly framework (dutch oven day, assembly day, etc.)
-- End-of-cycle strategy when pantry is low
 - Specific athlete fueling guidance around training blocks and race season
 - Curry yogurt sauce experiment
 - Chickpea texture — try towel method more aggressively; Trader Joe's as alternative
