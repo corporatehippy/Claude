@@ -26,8 +26,9 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 - Over medium egg
 - Spinach — more than previous days, wilted under the egg (spinach now depleted)
 - Velveeta cheese slice
+- Small glass OJ (used up what was in fridge; out of grapefruit)
 
-*Notes: Fourth consecutive bakery bread breakfast sandwich, each one incrementally better. Spinach volume increasing by design — Marty is deliberately pushing the amount until she finds the limit. Good instinct. Bread fully used up = genuine win. Spinach now out; add to shopping list.*
+*Notes: Fourth consecutive bakery bread breakfast sandwich, each one incrementally better. Spinach volume increasing by design. Bread fully used up = genuine win. OJ was the use-it-up choice — grapefruit is the preferred citrus and should go back on the shopping list. Spinach also depleted; both on the list.*
 
 ---
 
@@ -36,7 +37,7 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 **Breakfast — Third Street Bagel (post-lake-dip errand run)**
 - Cinnamon raisin bagel with cream cheese and bacon
 
-*Notes: Grabbed on the way back from picking up MQT lunches. Carb-forward but cream cheese and bacon add fat and protein. Next time: savory bagel if adding egg; leave cinnamon raisin as the occasional flavor treat it is.*
+*Notes: Carb-forward but cream cheese and bacon add fat and protein. Next time: savory bagel if adding egg; leave cinnamon raisin as the occasional flavor treat it is.*
 
 **Lunch — MQT Nutrition**
 - Blackened shrimp with coconut rice and mango salsa
@@ -47,39 +48,27 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 - Frozen pizza (one pizza, solo)
 - No bedtime snack
 
-*Notes: Kitchen fully reset after two cleaning sessions. Frozen pizza at 10pm was the right call — depleted evening with legitimate reason. One pizza, nothing after. No dessert — second evening without bedtime sweet.*
+*Notes: Kitchen fully reset after two cleaning sessions. Frozen pizza at 10pm was the right call — depleted evening, correct usage. No dessert — second evening without bedtime sweet.*
 
 ---
 
 ### June 1 (Monday)
 
 **Breakfast (post-beach)**
-- Toasted multigrain roma (bakery bread) with butter
-- 1/2 serving thin deli ham
-- Over medium egg
-- Few leaves spinach (wilted under egg while cheese melted)
-- Velveeta cheese slice
-- 1/2 grapefruit alongside
+- Toasted multigrain roma with butter, 1/2 serving thin deli ham, over medium egg, few leaves spinach wilted under egg, Velveeta cheese slice, 1/2 grapefruit alongside
 
 **Lunch**
-- 2 packs Shin-Black bone broth ramen, split with Nick
-- Sautéed in sesame oil: onion, garlic, frozen mixed veg, large amount of spinach, soy sauce, oyster sauce, chili garlic sauce
-- ~1/2 cooked chicken breast, chopped
-- Noodles melded in skillet, split into bowls with broth poured over
+- 2 packs Shin-Black bone broth ramen, split with Nick; sautéed onion, garlic, frozen mixed veg, spinach, sesame oil, soy/oyster/chili garlic sauce; ~1/2 cooked chicken breast; noodles melded in skillet, broth poured over
 
 *Notes: Upgraded instant ramen — ridiculously satisfying. Good template confirmed.*
 
 **Dinner**
-- Frozen burger patty on Blackstone with cheese, hamburger bun
-- Store-bought potato salad
+- Frozen burger patty on Blackstone with cheese, hamburger bun; store-bought potato salad; split cowboy cookie with Nick
 
-**After dinner**
-- Split a cowboy cookie with Nick
+**1am**
+- Handful of tortilla chips (woke up on couch)
 
-**1am (woke up on couch)**
-- Handful of tortilla chips
-
-*Notes: Light dinner → fell asleep on couch → woke at 1am hungry → grabbed nearest thing. Gap-driven, not ritual-driven.*
+*Notes: Light dinner → couch nap → woke hungry → grabbed nearest thing. Gap-driven.*
 
 ---
 
@@ -87,51 +76,29 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 ### May 31 (Sunday)
 
-**Breakfast**
-- Toasted multigrain roma with butter, 1/2 serving thin deli ham, over medium egg, Velveeta cheese slice, 1/2 grapefruit
-
-**Lunch**
-- Leftover guac + tortilla chips, ~5oz hummus, pita chips, sliced cucumber and red pepper
-
-**Post-ride snack**
-- Package of Ritz PB crackers
-
-**Evening**
-- Beer at brewery rooftop, ice cream at Frosty Treats
-
-**Dinner (~9:30pm)**
-- PB&J sandwich
-
-*Notes: No dessert after — first evening without bedtime sweet. Ice cream earlier likely served that role.*
+**Breakfast** — Toasted multigrain roma with butter, ham, egg, Velveeta, 1/2 grapefruit
+**Lunch** — Leftover guac + tortilla chips, ~5oz hummus, pita chips, cucumber, red pepper
+**Post-ride snack** — Ritz PB crackers
+**Evening** — Beer at brewery rooftop, ice cream at Frosty Treats
+**Dinner** — PB&J sandwich *(no dessert after — first evening without bedtime sweet)*
 
 ---
 
 ### May 30 (Saturday — long run day)
 
-**Breakfast**
-- ~170g Oikos Triple Zero vanilla, 60g granola, ~30g raspberries, 1/2 banana
-
-**Pre-run**
-- Cold brew with sweetened oat milk
-
-**Post-run**
-- Scratch Recovery drink (mixed ahead, kept in cooler) ✓
-
-**Post-run meal**
-- Leftover stovetop gnocchi with cudighi sausage ✓
-
-**Evening**
-- Double cheeseburger smashburger style (Big Burger Grille), ~half order fries, bourbon and coke
-
-**Before bed**
-- Mini chewy Sweet Tarts (trail leftovers left out) + PB + chocolate chips
+**Breakfast** — Oikos Triple Zero, 60g granola, raspberries, banana
+**Pre-run** — Cold brew with oat milk
+**Post-run** — Scratch Recovery drink (in cooler) ✓
+**Post-run meal** — Leftover gnocchi with cudighi ✓
+**Evening** — Smashburger delivery, ~half fries, bourbon and coke
+**Before bed** — Sweet Tarts (trail leftovers left out) + PB + choc chips
 
 ---
 
 ### May 29 (Friday)
 
 **Breakfast** — Cinnamon roll + coffee, bakery post-lake-jump
-**Lunch** — Greek salad with gyro meat + feta (delivery; won't reorder)
+**Lunch** — Greek salad with gyro + feta (delivery; won't reorder)
 **Dinner** — Burrito bowl: brown rice, leftover ribeye + charred corn, guac, tomatoes, lite sour cream
 **Before bed** — Mini Oreos
 
@@ -149,8 +116,8 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 **Breakfast** — Leftover breakfast burrito
 **Lunch** — 1/2 baked sweet potato + black beans + ~6oz grilled chicken + lite sour cream + pickled red onion, cilantro, jalapeño, hot sauce
-**Dinner** — Stovetop gnocchi with cudighi, Rao's marinara, spinach, parm + mozz (half saved for post-run)
-**Before bed** — PB + chocolate chips
+**Dinner** — Stovetop gnocchi with cudighi, Rao's, spinach, parm + mozz (half saved for post-run)
+**Before bed** — PB + choc chips
 
 ---
 
@@ -169,14 +136,15 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 **Lunch** — Skipped (eMTB ride + chores)
 **Pre-dinner** — Banana + crackers + cheddar
 **Dinner** — ~1/2 slab baby back ribs + potato salad + pit beans
-**Before bed** — PB + chocolate chips
+**Before bed** — PB + choc chips
 
 ---
 
 ## Emerging Patterns (End of Week 1 / Into Week 2)
 
 - **Dessert ritual:** Five consecutive evenings (May 25–30), absent May 31 and June 2. Seasonal hypothesis still live. Tracking, not addressing.
-- **Spinach sneak in egg sandwiches:** Volume increasing by design — pushing the limit until it registers. Spinach now depleted; restock.
+- **Spinach sneak in egg sandwiches:** Volume increasing by design. Spinach now depleted — restock.
+- **Citrus preference:** Grapefruit is the default; OJ is the use-it-up backup. Grapefruit back on shopping list.
 - **Beans landing naturally** across the week without effort.
 - **Naked carb awareness working** — most meals properly paired.
 - **Upgraded instant ramen confirmed (June 1):** Fast, substantial, great template.
