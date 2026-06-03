@@ -23,7 +23,20 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 **Breakfast — Third Street Bagel (post-lake-dip errand run)**
 - Cinnamon raisin bagel with cream cheese and bacon
 
-*Notes: Grabbed on the way back from picking up MQT lunches. Carb-forward but cream cheese and bacon add fat and protein — not completely naked. Cinnamon raisin is the sweetest bagel option but it's one meal. Functionally similar to the Friday cinnamon roll situation — high-carb morning treat with some protein alongside. An Oikos Triple Zero alongside would have been the same play as the planned Friday experiment.*
+*Notes: Grabbed on the way back from picking up MQT lunches. Carb-forward but cream cheese and bacon add fat and protein — not completely naked. Cinnamon raisin is the sweetest bagel option but it's one meal. Functionally similar to the Friday cinnamon roll situation. An Oikos Triple Zero alongside would have been the same play as the planned Friday experiment. Next time: savory bagel if adding egg; leave cinnamon raisin as the occasional flavor treat it is.*
+
+**Lunch — MQT Nutrition**
+- Blackened shrimp with coconut rice and mango salsa
+
+*Notes: MQT doing its job — solid macro-balanced meal, zero decision fatigue. Shrimp is lean protein, coconut rice is calorie-denser but it's a meal service portion.*
+
+**Dinner (~10pm)**
+- Frozen pizza (one pizza, solo)
+- No bedtime snack
+
+*Notes: Dinner followed two rounds of kitchen cleaning — dishwasher twice, all hand-washed dishes put away, counters wiped, cutting boards clean. Kitchen fully reset. At 10pm after that effort, frozen pizza was the only viable move and it was the right call. One pizza, nothing after = good self-regulation under real exhaustion. This is exactly what frozen pizza is for. No dessert — second evening without bedtime sweet (after May 31). Context matters: depleted evening with legitimate reason.*
+
+**Day summary:** Kitchen is fully clean and reset — that's the real story of June 2. Food was fine given the context. MQT handled lunch; pizza handled dinner. No bedtime snack two nights running now.
 
 ---
 
@@ -57,7 +70,7 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 **1am (woke up on couch)**
 - Handful of tortilla chips
 
-*Notes: Dinner was on the lighter side for protein — one burger patty doesn't carry far. The 1am couch-wake + chip grab is a new pattern worth watching: light dinner → fall asleep on couch → wake up at 1am hungry → grab nearest thing. Classic gap-driven late eating. Not the dessert ritual — a different mechanism. If dinner had more protein/substance this probably doesn't happen.*
+*Notes: Dinner was on the lighter side for protein — one burger patty doesn't carry far. The 1am couch-wake + chip grab is a new pattern worth watching: light dinner → fall asleep on couch → wake up at 1am hungry → grab nearest thing.*
 
 ---
 
@@ -72,20 +85,14 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 - Velveeta cheese slice
 - 1/2 grapefruit alongside
 
-*Notes: Solid Sunday breakfast. Protein from egg + ham, fat from butter + cheese, multigrain bread over white. Grapefruit alongside = good fiber, not naked.*
-
 **Lunch (early afternoon — after light beach hike with dogs)**
 - Leftover guac (finished) with tortilla chips (~1–2 servings)
 - ~5oz hummus (half a 10oz tub, split with Nick)
 - Pita chips (~2 servings)
 - Sliced cucumber and sliced red pepper — generous amount
 
-*Notes: Fridge-clearing lunch that worked. Hummus anchored the chips — not naked. Real fiber from the veg volume.*
-
 **Post-ride snack (after 1+ hr recovery eMTB ride)**
 - Package of Ritz PB crackers
-
-*Notes: Decent post-ride timing — fat and protein right after a recovery effort.*
 
 **Afternoon/Evening — out in Marquette**
 - Beer on the rooftop deck at the brewery
@@ -94,7 +101,7 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 **Dinner (~9:30pm)**
 - PB&J sandwich (both Marty and Nick)
 
-*Notes: Light dinner after a social evening. No dessert after — first evening in the log without a before-bed sweet. Ice cream at Frosty Treats likely served that role earlier.*
+*Notes: No dessert after — first evening without bedtime sweet.*
 
 ---
 
@@ -108,8 +115,6 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 **Pre-run**
 - Cold brew with sweetened oat milk
-
-*Notes: Not ideal pre-run fueling — no solid food.*
 
 **Post-run**
 - Scratch Recovery drink (mixed ahead, kept in cooler)
@@ -130,16 +135,12 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 - Handful of mini chewy Sweet Tarts (trail snack leftovers left out)
 - Peanut butter + chocolate chips (~1–1.5 servings PB)
 
-*Notes: Fifth consecutive evening with dessert. Two-sweet-things from trail snacks being left out.*
-
 ---
 
 ### May 29 (Friday)
 
 **Breakfast**
 - Cinnamon roll + coffee — bakery stop after Friday lake jump
-
-*Notes: Weekly ritual. Try Oikos Triple Zero alongside next Friday.*
 
 **Lunch**
 - Large Greek salad with gyro meat and feta — delivery
@@ -231,7 +232,7 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 ## Emerging Patterns (End of Week 1 / Into Week 2)
 
-- **Dessert ritual:** Five consecutive logged evenings (May 25–30), then absent May 31. Marty notes it may be seasonal. Tracking, not addressing yet.
+- **Dessert ritual:** Five consecutive logged evenings (May 25–30), then absent May 31 and June 2. Marty notes it may be seasonal. Tracking, not addressing yet.
 - **Beans are landing:** Showing up naturally across the week without effort.
 - **Naked carb awareness is working:** Most meals properly paired.
 - **Spinach sneak:** Wilted under egg while cheese melts — zero friction, didn't register taste-wise. Good ongoing template.
@@ -239,8 +240,9 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 - **Post-long-effort recovery:** Improving. Scratch in the cooler on May 30 = right move. Pre-run solid food still a gap.
 - **Friday cinnamon roll:** Known weekly event. Oikos Triple Zero alongside = try it June 6.
 - **MQT back this week** — ordered June 1.
-- **1am couch-wake eating (June 1):** Light dinner → fell asleep on couch → woke at 1am → grabbed chips. Different mechanism from dessert ritual — gap-driven rather than habitual. Watch for recurrence.
-- **High-carb bakery breakfast pattern (June 2):** Cinnamon raisin bagel + cream cheese + bacon — same structure as Friday cinnamon roll. Bacon and cream cheese provide some protein/fat buffer. Oikos Triple Zero alongside would be the same play as the planned Friday experiment.
+- **1am couch-wake eating (June 1):** Light dinner → fell asleep on couch → woke at 1am → grabbed chips. Gap-driven, not ritual-driven. Watch for recurrence.
+- **Frozen pizza as legitimate tool:** Confirmed June 2 — depleted evening after significant kitchen effort. One pizza, nothing after. This is correct usage.
+- **Kitchen reset complete (June 2):** Fully cleaned after two sessions. Environment is now set up for better food choices going forward.
 
 ---
 
