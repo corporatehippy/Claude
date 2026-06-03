@@ -30,6 +30,15 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 *Notes: Fourth consecutive bakery bread breakfast sandwich, each one incrementally better. Spinach volume increasing by design. Bread fully used up = genuine win. OJ was the use-it-up choice — grapefruit is the preferred citrus and should go back on the shopping list. Spinach also depleted; both on the list.*
 
+**Lunch — MQT Nutrition**
+- BBQ Chicken Mac & Cheez (vegan) with broccoli
+- Macros: 461 cal, 53g carbs, 37g protein, 10g fat
+
+*Notes: 37g protein at lunch is excellent — that's real work done for the day. Broccoli adding fiber. Mac is higher carb but the protein load justifies it and it's a controlled meal service portion. Vegan cheese via nutritional yeast + Daiya. Going out to dinner with friends tonight.*
+
+**Dinner**
+- TBD — out with friends
+
 ---
 
 ### June 2 (Tuesday)
