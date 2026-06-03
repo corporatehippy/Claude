@@ -18,25 +18,36 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 ## June 2026
 
+### June 3 (Wednesday)
+
+**Breakfast (post-beach)**
+- Toasted multigrain roma (bakery bread, last of it) with butter
+- 1/2 serving thin deli ham
+- Over medium egg
+- Spinach — more than previous days, wilted under the egg (spinach now depleted)
+- Velveeta cheese slice
+
+*Notes: Fourth consecutive bakery bread breakfast sandwich, each one incrementally better. Spinach volume increasing by design — Marty is deliberately pushing the amount until she finds the limit. Good instinct. Bread fully used up = genuine win. Spinach now out; add to shopping list.*
+
+---
+
 ### June 2 (Tuesday)
 
 **Breakfast — Third Street Bagel (post-lake-dip errand run)**
 - Cinnamon raisin bagel with cream cheese and bacon
 
-*Notes: Grabbed on the way back from picking up MQT lunches. Carb-forward but cream cheese and bacon add fat and protein — not completely naked. Cinnamon raisin is the sweetest bagel option but it's one meal. Functionally similar to the Friday cinnamon roll situation. An Oikos Triple Zero alongside would have been the same play as the planned Friday experiment. Next time: savory bagel if adding egg; leave cinnamon raisin as the occasional flavor treat it is.*
+*Notes: Grabbed on the way back from picking up MQT lunches. Carb-forward but cream cheese and bacon add fat and protein. Next time: savory bagel if adding egg; leave cinnamon raisin as the occasional flavor treat it is.*
 
 **Lunch — MQT Nutrition**
 - Blackened shrimp with coconut rice and mango salsa
 
-*Notes: MQT doing its job — solid macro-balanced meal, zero decision fatigue. Shrimp is lean protein, coconut rice is calorie-denser but it's a meal service portion.*
+*Notes: MQT doing its job — solid macro-balanced meal, zero decision fatigue.*
 
 **Dinner (~10pm)**
 - Frozen pizza (one pizza, solo)
 - No bedtime snack
 
-*Notes: Dinner followed two rounds of kitchen cleaning — dishwasher twice, all hand-washed dishes put away, counters wiped, cutting boards clean. Kitchen fully reset. At 10pm after that effort, frozen pizza was the only viable move and it was the right call. One pizza, nothing after = good self-regulation under real exhaustion. This is exactly what frozen pizza is for. No dessert — second evening without bedtime sweet (after May 31). Context matters: depleted evening with legitimate reason.*
-
-**Day summary:** Kitchen is fully clean and reset — that's the real story of June 2. Food was fine given the context. MQT handled lunch; pizza handled dinner. No bedtime snack two nights running now.
+*Notes: Kitchen fully reset after two cleaning sessions. Frozen pizza at 10pm was the right call — depleted evening with legitimate reason. One pizza, nothing after. No dessert — second evening without bedtime sweet.*
 
 ---
 
@@ -46,23 +57,21 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 - Toasted multigrain roma (bakery bread) with butter
 - 1/2 serving thin deli ham
 - Over medium egg
-- Few leaves spinach (wilted in pan under the egg while cheese melted with lid on)
+- Few leaves spinach (wilted under egg while cheese melted)
 - Velveeta cheese slice
 - 1/2 grapefruit alongside
 
-*Notes: Same sandwich as May 31 with one quiet upgrade — spinach wilted under the lid, didn't register taste-wise. Zero-friction modification. Worth adding more when excess spinach is around.*
-
 **Lunch**
-- 2 packs Shin-Black bone broth ramen, split with Nick (~1 pack each)
+- 2 packs Shin-Black bone broth ramen, split with Nick
 - Sautéed in sesame oil: onion, garlic, frozen mixed veg, large amount of spinach, soy sauce, oyster sauce, chili garlic sauce
-- ~1/2 cooked chicken breast, chopped and added to the veggie skillet
-- Noodles added to veggie skillet to meld, then split into bowls with broth poured over
+- ~1/2 cooked chicken breast, chopped
+- Noodles melded in skillet, split into bowls with broth poured over
 
-*Notes: Upgraded instant ramen — noodles are just the starchy base, everything else is doing real work. Ridiculously satisfying. Good template confirmed.*
+*Notes: Upgraded instant ramen — ridiculously satisfying. Good template confirmed.*
 
 **Dinner**
-- Frozen burger patty cooked on Blackstone with cheese slice, on hamburger bun (1 burger)
-- Store-bought potato salad alongside
+- Frozen burger patty on Blackstone with cheese, hamburger bun
+- Store-bought potato salad
 
 **After dinner**
 - Split a cowboy cookie with Nick
@@ -70,7 +79,7 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 **1am (woke up on couch)**
 - Handful of tortilla chips
 
-*Notes: Dinner was on the lighter side for protein — one burger patty doesn't carry far. The 1am couch-wake + chip grab is a new pattern worth watching: light dinner → fall asleep on couch → wake up at 1am hungry → grab nearest thing.*
+*Notes: Light dinner → fell asleep on couch → woke at 1am hungry → grabbed nearest thing. Gap-driven, not ritual-driven.*
 
 ---
 
@@ -79,170 +88,104 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 ### May 31 (Sunday)
 
 **Breakfast**
-- Toasted multigrain roma (bakery bread) with butter
-- 1/2 serving thin deli ham
-- Over medium egg
-- Velveeta cheese slice
-- 1/2 grapefruit alongside
+- Toasted multigrain roma with butter, 1/2 serving thin deli ham, over medium egg, Velveeta cheese slice, 1/2 grapefruit
 
-**Lunch (early afternoon — after light beach hike with dogs)**
-- Leftover guac (finished) with tortilla chips (~1–2 servings)
-- ~5oz hummus (half a 10oz tub, split with Nick)
-- Pita chips (~2 servings)
-- Sliced cucumber and sliced red pepper — generous amount
+**Lunch**
+- Leftover guac + tortilla chips, ~5oz hummus, pita chips, sliced cucumber and red pepper
 
-**Post-ride snack (after 1+ hr recovery eMTB ride)**
+**Post-ride snack**
 - Package of Ritz PB crackers
 
-**Afternoon/Evening — out in Marquette**
-- Beer on the rooftop deck at the brewery
-- Ice cream at Frosty Treats
+**Evening**
+- Beer at brewery rooftop, ice cream at Frosty Treats
 
 **Dinner (~9:30pm)**
-- PB&J sandwich (both Marty and Nick)
+- PB&J sandwich
 
-*Notes: No dessert after — first evening without bedtime sweet.*
+*Notes: No dessert after — first evening without bedtime sweet. Ice cream earlier likely served that role.*
 
 ---
 
 ### May 30 (Saturday — long run day)
 
 **Breakfast**
-- ~170g Oikos Triple Zero vanilla greek yogurt
-- 60g granola (intentional — pre-run carb loading)
-- ~30g raspberries
-- 1/2 banana
+- ~170g Oikos Triple Zero vanilla, 60g granola, ~30g raspberries, 1/2 banana
 
 **Pre-run**
 - Cold brew with sweetened oat milk
 
 **Post-run**
-- Scratch Recovery drink (mixed ahead, kept in cooler)
+- Scratch Recovery drink (mixed ahead, kept in cooler) ✓
 
-*Notes: Right instinct. Recovery window hit.*
+**Post-run meal**
+- Leftover stovetop gnocchi with cudighi sausage ✓
 
-**Post-run meal (late lunch)**
-- Leftover stovetop gnocchi with cudighi sausage
-
-*Notes: Saved intentionally for post-run. Perfect execution.*
-
-**Evening — delivery (stayed in)**
-- Double cheeseburger, smashburger style — Big Burger Grille
-- Fries — approximately half the order
-- Bourbon and coke
+**Evening**
+- Double cheeseburger smashburger style (Big Burger Grille), ~half order fries, bourbon and coke
 
 **Before bed**
-- Handful of mini chewy Sweet Tarts (trail snack leftovers left out)
-- Peanut butter + chocolate chips (~1–1.5 servings PB)
+- Mini chewy Sweet Tarts (trail leftovers left out) + PB + chocolate chips
 
 ---
 
 ### May 29 (Friday)
 
-**Breakfast**
-- Cinnamon roll + coffee — bakery stop after Friday lake jump
-
-**Lunch**
-- Large Greek salad with gyro meat and feta — delivery
-
-*Notes: Nutritionally fine but experientially unsatisfying. Won't reorder.*
-
-**Dinner**
-- Burrito bowl: ~1 cup brown rice, leftover ribeye reheated with charred corn, ~1/4 cup homemade guac, cherry tomatoes, lite sour cream
-
-*Notes: Excellent. Prep-ahead instinct working perfectly.*
-
-**Before bed**
-- Small snack pack of mini Oreos
+**Breakfast** — Cinnamon roll + coffee, bakery post-lake-jump
+**Lunch** — Greek salad with gyro meat + feta (delivery; won't reorder)
+**Dinner** — Burrito bowl: brown rice, leftover ribeye + charred corn, guac, tomatoes, lite sour cream
+**Before bed** — Mini Oreos
 
 ---
 
-### May 28 (Thursday — no MQT available, holiday week)
+### May 28 (Thursday — no MQT)
 
-**Breakfast**
-- Canadian bacon + fried egg + American cheese on Aunt Millie's toast, buttered
-- 1/2 large grapefruit
-
-**Lunch**
-- 1/2 Fresh Express Street Corn Chopped salad kit + ~4.5oz grilled chicken breast
-
-**Dinner**
-- 2 slices pizza (ordered — film festival submission night)
-
-*Notes: Depleted evening. Two slices instead of usual three. No dessert. Self-regulation worked.*
+**Breakfast** — Canadian bacon + fried egg + American cheese on buttered toast, 1/2 grapefruit
+**Lunch** — 1/2 Street Corn bag salad + ~4.5oz grilled chicken
+**Dinner** — 2 slices pizza (film festival submission night; no dessert)
 
 ---
 
-### May 27 (Wednesday — no MQT available, holiday week)
+### May 27 (Wednesday — no MQT)
 
-**Breakfast**
-- Leftover breakfast burrito from Sunday
-
-**Lunch**
-- 1/2 large sweet potato (baked) + black beans (>1/2 cup) + ~6oz grilled chicken + lite sour cream + quick pickled red onion, cilantro, jalapeño, green onion, hot sauce
-
-**Afternoon**
-- Cold brew with lightly sweetened oat milk
-
-**Dinner**
-- Stovetop gnocchi with cudighi sausage: ~1lb cudighi, onion + garlic, chicken stock, Rao's marinara, gnocchi cooked in sauce, spinach, parm + mozzarella. Just over half eaten; rest saved for post-run Saturday.
-
-**Before bed**
-- Peanut butter + chocolate chips (~1–1.5 servings PB)
+**Breakfast** — Leftover breakfast burrito
+**Lunch** — 1/2 baked sweet potato + black beans + ~6oz grilled chicken + lite sour cream + pickled red onion, cilantro, jalapeño, hot sauce
+**Dinner** — Stovetop gnocchi with cudighi, Rao's marinara, spinach, parm + mozz (half saved for post-run)
+**Before bed** — PB + chocolate chips
 
 ---
 
-### May 26 (Tuesday — no MQT available, holiday week)
+### May 26 (Tuesday — no MQT)
 
-**Breakfast**
-- ~170g Oikos Triple Zero vanilla + 60g granola + ~30g raspberries + 1/2 banana
-
-**Lunch**
-- Fresh Express Chipotle bag salad + ~1/2 cup black beans + ~6.5oz Foreman chicken. Split with Nick; half dressing packet.
-
-**Afternoon**
-- Cold brew with lightly sweetened oat milk
-
-**Dinner**
-- Ribeye on Blackstone + 1/2 large sweet potato + ~1/2 cup broccolini
-
-**Later**
-- Vanilla ice cream (slightly more than a serving) + caramel sauce + Hershey's chocolate sauce
+**Breakfast** — Oikos Triple Zero + granola + raspberries + banana
+**Lunch** — Chipotle bag salad + black beans + Foreman chicken
+**Dinner** — Ribeye + 1/2 sweet potato + broccolini
+**Later** — Vanilla ice cream + caramel + chocolate sauce
 
 ---
 
-### May 25 (Sunday — Memorial Day — no MQT available)
+### May 25 (Sunday — Memorial Day, no MQT)
 
-**Breakfast**
-- Breakfast burritos (made 4, ate 1 each, 2 in fridge): sausage patty, egg/egg beater mix, ~1/2 cup black beans, cheddar, onion, jalapeño, Fairlife milk, flour tortilla. ~10oz OJ alongside.
-
-**Lunch**
-- Skipped — 1hr eMTB ride + outdoor chores
-
-**Pre-dinner**
-- 1 banana + ~6 club crackers + sharp cheddar (post-margarita, long gap)
-
-**Dinner**
-- ~1/2 slab baby back ribs + ~3/4 cup potato salad + stovetop pit beans (~1/2–1 cup)
-
-**Before bed**
-- Peanut butter + chocolate chips (~1–1.5 servings PB)
+**Breakfast** — Breakfast burritos (sausage, egg/egg beaters, black beans, cheddar, jalapeño, onion; OJ alongside)
+**Lunch** — Skipped (eMTB ride + chores)
+**Pre-dinner** — Banana + crackers + cheddar
+**Dinner** — ~1/2 slab baby back ribs + potato salad + pit beans
+**Before bed** — PB + chocolate chips
 
 ---
 
 ## Emerging Patterns (End of Week 1 / Into Week 2)
 
-- **Dessert ritual:** Five consecutive logged evenings (May 25–30), then absent May 31 and June 2. Marty notes it may be seasonal. Tracking, not addressing yet.
-- **Beans are landing:** Showing up naturally across the week without effort.
-- **Naked carb awareness is working:** Most meals properly paired.
-- **Spinach sneak:** Wilted under egg while cheese melts — zero friction, didn't register taste-wise. Good ongoing template.
-- **Upgraded instant ramen template confirmed (June 1):** Leftover chicken + frozen veg + Shin-Black + umami sauce = fast, substantial, satisfying. Keep in rotation.
-- **Post-long-effort recovery:** Improving. Scratch in the cooler on May 30 = right move. Pre-run solid food still a gap.
-- **Friday cinnamon roll:** Known weekly event. Oikos Triple Zero alongside = try it June 6.
-- **MQT back this week** — ordered June 1.
-- **1am couch-wake eating (June 1):** Light dinner → fell asleep on couch → woke at 1am → grabbed chips. Gap-driven, not ritual-driven. Watch for recurrence.
-- **Frozen pizza as legitimate tool:** Confirmed June 2 — depleted evening after significant kitchen effort. One pizza, nothing after. This is correct usage.
-- **Kitchen reset complete (June 2):** Fully cleaned after two sessions. Environment is now set up for better food choices going forward.
+- **Dessert ritual:** Five consecutive evenings (May 25–30), absent May 31 and June 2. Seasonal hypothesis still live. Tracking, not addressing.
+- **Spinach sneak in egg sandwiches:** Volume increasing by design — pushing the limit until it registers. Spinach now depleted; restock.
+- **Beans landing naturally** across the week without effort.
+- **Naked carb awareness working** — most meals properly paired.
+- **Upgraded instant ramen confirmed (June 1):** Fast, substantial, great template.
+- **Post-long-effort recovery improving:** Scratch in cooler May 30 = right move. Pre-run solid food still a gap.
+- **Friday cinnamon roll:** Try Oikos Triple Zero alongside June 6.
+- **1am couch-wake eating (June 1):** Light dinner → couch nap → chips. Gap-driven. Watch for recurrence.
+- **Frozen pizza as legitimate tool:** June 2 — depleted evening, correct usage.
+- **Kitchen reset complete (June 2):** Environment now set up for better choices.
+- **Bakery bread run (May 31–June 3):** Four breakfast sandwiches, incrementally better each time. Fully used up.
 
 ---
 
