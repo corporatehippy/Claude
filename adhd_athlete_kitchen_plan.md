@@ -21,8 +21,9 @@ Companion files:
 - Vacuum sealer for freezer storage — proteins stored this way are reliable even long-term (last summer's BBQ pulled pork still excellent)
 - Owns a 22" Weber kettle grill — accessible spring/summer; baby back ribs technique confirmed
 - Owns a good wok — confirmed in active use; fried rice technique confirmed
+- **Camp kitchen:** Coleman 2-burner camp stove + large carbon steel skillet + pot. Well-stocked camp kitchen situation. Confirmed go-to camp meals: taco bowls, shepherd's pie skillet, thin-cut pork chops + instant mashed + bag salad.
 - MQT Nutrition: orders macro-balanced, low-calorie lunches from a local meal prep service when available — removes midday decision fatigue entirely. Not always available (holidays, etc.)
-- Shopping rhythm: aims for every 2–3 weeks, Saturday or Sunday evenings preferred
+- Shopping rhythm: aims for every 2–3 weeks, Saturday or Sunday evenings preferred. **Known pattern: trips stretching to 4 weeks, causing end-of-cycle crashes.**
 
 ### Current Friction Points
 
@@ -32,7 +33,8 @@ Companion files:
 - Dinner often happens around 9:30–10pm — meals need to be *finishable*, not startable, at that hour
 - Post-long-effort recovery gap: appetite suppressed after long rides/runs → skips real food → blood sugar drops → chaos by late afternoon/evening
 - Before-bed dessert ritual: consistent need for something sweet before bed — PB+choc chips, ice cream, Oreos. Vehicle varies; ritual is constant. Tracking before addressing.
-- **End-of-cycle crash (flagged June 2026):** When pantry is low and kitchen is a mess, no systems exist to sustain good eating. This is a known gap that needs its own framework — conversation tabled for a dedicated session.
+- **End-of-cycle crash (flagged June 2026):** When pantry is low and kitchen is a mess, no systems exist to sustain good eating. Known gap, needs its own framework — dedicated session still needed.
+- **Trip planning spiral (identified June 4, 2026):** When a trip is coming up, Marty unconsciously ignores the days before departure and shops only for the trip — leaving the bridge days stranded. Fix: treat as two separate problems with two separate lists (see Two-Trip Framework below).
 
 ### Training Context
 
@@ -42,6 +44,7 @@ Companion files:
 - Post-long-effort recovery window (30–45 min after finishing, before showering): Greek yogurt + granola, chocolate milk, Fairlife shake, PB on tortilla + banana, leftover breakfast burrito, Scratch Recovery drink. Goal: 15–25g protein + fast carbs.
 - Scratch Recovery drink: confirmed good option — especially when mixed ahead and kept in a cooler
 - Saving dinner leftovers intentionally for post-long-run = excellent instinct. Do this deliberately.
+- **Upcoming: 27k trail race Saturday June 7.** ~6 hours to finish. Sunday will be a write-off. Saturday morning shopping (4 items) + frozen pizza Sunday = the plan.
 
 ---
 
@@ -59,6 +62,25 @@ Each formula is a template — the flavor profile rotates, the process doesn't. 
 | Grain Bowl | Cooked grain + protein + acid + fat + greens (optional) | Rice + dutch oven meat + lemon + avocado |
 | Quick Skillet | Fat + aromatics + protein + sauce → serve over grain | Sausage + onion + jarred tomatoes over pasta |
 | Dump and Bake | Everything in the vessel + oven + time | Meatball pasta bake, gnocchi, white bean bake |
+
+### Two-Trip Shopping Framework *(established June 4, 2026)*
+
+**The pattern:** When a trip is coming up, Marty shops only for the trip and abandons the days before departure. This leaves bridge days stranded and sets up end-of-cycle crashes.
+
+**The fix:** Two separate lists. Two separate trips. They don't touch each other.
+
+**Trip 1 — Survival bridge (shop the morning before a race or the day before departure)**
+- Small list, low bar, 15 minutes max
+- Goal: don't starve between now and when the trip starts
+- Default contents: spinach, grapefruit, one easy protein (Italian sausage or rotisserie chicken), frozen pizzas for the wrecked day
+- Frozen pizza on the post-race/post-effort day is not a failure — it's the plan
+
+**Trip 2 — Trip/cabin/event food (shop Wednesday evening or Thursday morning)**
+- Completely separate list built around the specific trip context
+- For cabin trips: protein for 2 dinners + lunch components + car snacks. That's it.
+
+**Camp kitchen pantry (always stocked, don't re-buy):**
+Olive oil, canola spray, s&p, garlic powder, cajun seasoning, seasoned salt, onion powder, paprika
 
 ### Protein Defaults
 
@@ -178,7 +200,10 @@ Brush with chili garlic sauce + soy + honey + rice vinegar. 400°F, 12–14 min.
 Slice steak thin, reheat in hot skillet. Add small can corn to same pan, char alongside. Brown rice, guac made ahead, cherry tomatoes, lite sour cream. Charring corn with the steak in the same hot pan = smart high-flavor move.
 
 **Upgraded instant ramen** *(confirmed June 2026 — lunch or quick dinner)*
-2 packs Shin-Black bone broth ramen for two. While ramen cooks: sauté onion + garlic + frozen mixed veg + large handful spinach in sesame oil, soy sauce, oyster sauce, chili garlic sauce. Add chopped cooked chicken (or any leftover protein) to the veg skillet. Add cooked noodles to skillet, let meld briefly, split into bowls, pour broth over. 15 min, one pan + pot. The noodles are just the base — the veg and protein do the real work. Ridiculously satisfying. Works equally well for lunch or a quick dinner.
+2 packs Shin-Black bone broth ramen for two. While ramen cooks: sauté onion + garlic + frozen mixed veg + large handful spinach in sesame oil, soy sauce, oyster sauce, chili garlic sauce. Add chopped cooked chicken (or any leftover protein) to the veg skillet. Add cooked noodles to skillet, let meld briefly, split into bowls, pour broth over. 15 min, one pan + pot. The noodles are just the base — the veg and protein do the real work. Ridiculously satisfying.
+
+**Carnitas bowl** *(confirmed June 2026 — great end-of-pantry meal)*
+Thaw frozen carnitas. Warm in skillet. Serve over leftover rice with tomatoes, cilantro, lime, red onion. Add sour cream, cheese, salsa if available. Zero cooking beyond reheating. Good protein, not a naked carb, uses up produce.
 
 ---
 
@@ -231,6 +256,15 @@ Organized by protein — matches how you shop and plan.
 - Kevin's Paleo sous vide chicken pouches over rice — zero-friction freezer staple
 - **Fried rice** — see Quick Reference
 - **Upgraded instant ramen** — see Quick Reference
+- **Carnitas bowl** — see Quick Reference
+
+### Camp Meals (Coleman 2-burner + carbon steel skillet + pot)
+
+- **Taco bowls** — ground beef or turkey + taco seasoning + canned black beans + rice (cooked in pot) + salsa + cheese + sour cream + lime. Everything cooks in sequence on two burners.
+- **Thin-cut pork chops** — season with whatever's in the camp kit, sear hard in carbon steel skillet. Instant mashed in the pot. Bag salad alongside. 20 min total.
+- **Shepherd's pie skillet** — ground beef or turkey + frozen veg + gravy or broth, top with instant mashed, cover to steam. One pan.
+
+*Camp pantry always stocked: olive oil, canola spray, s&p, garlic powder, cajun seasoning, seasoned salt, onion powder, paprika. Don't buy these for trips.*
 
 ### Dutch Oven Mains
 
@@ -279,46 +313,42 @@ Organized by protein — matches how you shop and plan.
 *Running observations from food_log.md — updated as patterns emerge or resolve.*
 
 **Active patterns:**
-- **Dessert ritual** — consistent before-bed need for something sweet. PB+choc chips, ice cream, mini Oreos. Vehicle varies; ritual is constant. Absent May 31 and June 2 — possible seasonal/situational variation. Tracking before addressing.
-- **Post-long-effort recovery** — still a gap but improving. Scratch drinks in cooler (May 30) = right move. Cold brew only pre-run = not ideal. Keep building the habit.
-- **Friday cinnamon roll** — weekly ritual, known event, not a problem. Oikos Triple Zero alongside = meaningful improvement without disrupting the ritual. Try it June 6.
-- **1am couch-wake eating** — first appearance June 1. Light dinner → fell asleep on couch → woke at 1am hungry → grabbed chips. Gap-driven, not ritual-driven. Watch for recurrence.
+- **Dessert ritual** — consistent before-bed need for something sweet. PB+choc chips, ice cream, mini Oreos. Vehicle varies; ritual is constant. Absent May 31 and June 2. Tracking before addressing.
+- **Post-long-effort recovery** — improving but not consistent. Scratch in cooler = right move. 27k race Saturday — Scratch mixed and in cooler, real food within 30–45 min after finish.
+- **Friday cinnamon roll** — weekly ritual. Oikos Triple Zero alongside = try it June 6 (tomorrow).
+- **1am couch-wake eating (June 1)** — single instance, gap-driven. No recurrence yet.
+- **Trip planning spiral** — identified and named June 4. Two-trip framework is the fix. First use: Saturday morning (4 items) + Wednesday/Thursday cabin shop.
 
 **What's working:**
-- Beans showing up consistently and naturally
-- Naked carb awareness working without effort
-- Prep-before-hungry instinct paying off (guac ahead, leftover gnocchi saved for post-run)
+- Beans showing up consistently and naturally — no effort required
+- Naked carb awareness solid
+- Prep-before-hungry instinct paying off
 - MQT removing midday decision fatigue when available
-- Spinach sneak — wilted under egg while cheese melts. Zero friction, didn't register taste-wise. Volume increasing by design.
-- Asking for protein add-ons at restaurants (cudighi on the greek pizza, June 3) — good instinct becoming habit
+- Spinach sneak under egg — volume increasing, zero friction
+- Protein add-ons at restaurants (cudighi on greek pizza) — becoming instinct
+- Carnitas bowl June 4 — good end-of-pantry execution, freezer item finally resolved
 
 ---
 
 ## 7. Open Questions & Parking Lot
 
-### Immediate
+### Immediate / This Week
 
-- **Carnitas in the freezer — USE THEM.** This has been open for months.
-- **Full pantry audit** — still hasn't happened. Go through everything, toss what's past its prime.
-- **Add fish sauce to regular shopping list** — unlocks larb, ginger pork, Thai soup
-- **Add kalamata olives to regular shopping list**
-- **Restock: spinach, grapefruit** — both depleted as of June 3
-
-### In Progress
-
-- **Grocery cycle + upcoming events planning conversation** — scheduled for later June 4. Marty wants to map current pantry state and account for coming events that create planning spiral.
-- Training schedule and fueling specifics — not yet formally mapped
-- Shopping list structure: simplifying per-trip decisions
+- **Saturday morning shopping list (pre-race, 15 min):** spinach, grapefruit, Italian sausage, 2–3 frozen pizzas
+- **Wednesday/Thursday cabin shopping list:** ground beef or turkey, thin-cut pork chops, 1 rotisserie chicken (pull and pack), taco seasoning, rice, canned black beans, salsa, shredded cheese, sour cream, limes, instant mashed potatoes, 2 bag salads, car/cabin snacks
+- **Friday June 6:** Oikos Triple Zero alongside cinnamon roll — try it
+- **Post-race Saturday:** Scratch in cooler, real food within 30–45 min of finishing
 
 ### Parking Lot
 
-- **End-of-cycle systems conversation (priority — flagged June 2, 2026):** When pantry is low and kitchen is a mess, no systems exist to sustain good eating. Marty wants to build something here. Dedicated conversation needed — what does survival mode actually look like, and what are the minimum viable anchors to keep food from going fully off the rails?
+- **End-of-cycle systems conversation (priority):** What does survival mode actually look like when pantry is low and kitchen is a mess? Minimum viable anchors. Dedicated session needed.
 - Before-bed dessert ritual — tracking first, better swap when ready
-- Friday cinnamon roll + Oikos Triple Zero — try it June 6
 - Simple rotating weekly framework (dutch oven day, assembly day, etc.)
 - Specific athlete fueling guidance around training blocks and race season
+- Full pantry audit — still hasn't happened
+- Add fish sauce and kalamata olives to regular shopping list
 - Curry yogurt sauce experiment
-- Chickpea texture — try towel method more aggressively; Trader Joe's as alternative
+- Chickpea texture — try towel method; Trader Joe's as alternative
 
 ---
 
