@@ -7,7 +7,7 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 **What we're watching for:**
 - Protein distribution across the day (spread it out; don't back-load it all)
 - Naked carbs — carbs with no protein, fat, or fiber to slow them down
-- Gaps — long stretches without eating that pinch set up late-night chaos
+- Gaps — long stretches without eating that set up late-night chaos
 - Fiber — beans, veg, whole grains showing up consistently
 - Patterns around energy, training, and the frozen pizza moments
 
@@ -34,13 +34,14 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 - BBQ Chicken Mac & Cheez (vegan) with broccoli
 - Macros: 461 cal, 53g carbs, 37g protein, 10g fat
 
-*Notes: 37g protein at lunch is excellent — that's real work done for the day. Broccoli adding fiber. Mac is higher carb but the protein load justifies it and it's a controlled meal service portion. Vegan cheese via nutritional yeast + Daiya. Going out to dinner with friends tonight.*
+*Notes: 37g protein at lunch is excellent — that's real work done for the day. Broccoli adding fiber. Mac is higher carb but the protein load justifies it and it's a controlled meal service portion. Vegan cheese via nutritional yeast + Daiya.*
 
 **Dinner — out with friends**
-- Greek pizza (dinner plate sized, individual): pizza sauce, cheese, spinach, feta, sausage
+- Greek pizza (dinner plate sized, individual): pizza sauce, cheese, spinach, feta, house-made cudighi (added for protein — they make it in-house)
+- Base is vegetarian; sausage added by request
 - Ate the whole thing
 
-*Notes: Good topping profile — spinach, feta, sausage means it wasn't naked carbs. Protein and fat present. Ate more than intended but it's a social dinner out, not a pattern problem.*
+*Notes: Smart move asking for the cudighi — protein sorted, and house-made is worth it. Spinach + feta + sausage means not a naked carb situation. Ate more than intended but it's a restaurant dinner with friends, not a pattern.*
 
 ---
 
