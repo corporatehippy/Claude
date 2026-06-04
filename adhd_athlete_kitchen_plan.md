@@ -1,7 +1,7 @@
 # Marty's Kitchen & Nutrition System
 
 *Companion document for 1A sessions — retrieved via GitHub MCP*
-*Last updated: June 2, 2026 | Living document — updated each session*
+*Last updated: June 4, 2026 | Living document — updated each session*
 
 Companion files:
 - **adhd_athlete_kitchen_plan.md** (this file) — kitchen system, frameworks, meal ideas, execution notes
@@ -279,9 +279,9 @@ Organized by protein — matches how you shop and plan.
 *Running observations from food_log.md — updated as patterns emerge or resolve.*
 
 **Active patterns:**
-- **Dessert ritual** — consistent before-bed need for something sweet. PB+choc chips, ice cream, mini Oreos. Vehicle varies; ritual is constant. Tracking before addressing.
+- **Dessert ritual** — consistent before-bed need for something sweet. PB+choc chips, ice cream, mini Oreos. Vehicle varies; ritual is constant. Absent May 31 and June 2 — possible seasonal/situational variation. Tracking before addressing.
 - **Post-long-effort recovery** — still a gap but improving. Scratch drinks in cooler (May 30) = right move. Cold brew only pre-run = not ideal. Keep building the habit.
-- **Friday cinnamon roll** — weekly ritual, known event, not a problem. Oikos Triple Zero alongside = meaningful improvement without disrupting the ritual. Try it.
+- **Friday cinnamon roll** — weekly ritual, known event, not a problem. Oikos Triple Zero alongside = meaningful improvement without disrupting the ritual. Try it June 6.
 - **1am couch-wake eating** — first appearance June 1. Light dinner → fell asleep on couch → woke at 1am hungry → grabbed chips. Gap-driven, not ritual-driven. Watch for recurrence.
 
 **What's working:**
@@ -289,7 +289,8 @@ Organized by protein — matches how you shop and plan.
 - Naked carb awareness working without effort
 - Prep-before-hungry instinct paying off (guac ahead, leftover gnocchi saved for post-run)
 - MQT removing midday decision fatigue when available
-- Spinach sneak — wilted under egg while cheese melts. Zero friction, didn't register taste-wise.
+- Spinach sneak — wilted under egg while cheese melts. Zero friction, didn't register taste-wise. Volume increasing by design.
+- Asking for protein add-ons at restaurants (cudighi on the greek pizza, June 3) — good instinct becoming habit
 
 ---
 
@@ -301,9 +302,11 @@ Organized by protein — matches how you shop and plan.
 - **Full pantry audit** — still hasn't happened. Go through everything, toss what's past its prime.
 - **Add fish sauce to regular shopping list** — unlocks larb, ginger pork, Thai soup
 - **Add kalamata olives to regular shopping list**
+- **Restock: spinach, grapefruit** — both depleted as of June 3
 
 ### In Progress
 
+- **Grocery cycle + upcoming events planning conversation** — scheduled for later June 4. Marty wants to map current pantry state and account for coming events that create planning spiral.
 - Training schedule and fueling specifics — not yet formally mapped
 - Shopping list structure: simplifying per-trip decisions
 
