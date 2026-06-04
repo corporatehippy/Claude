@@ -18,6 +18,28 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 ## June 2026
 
+### June 4 (Thursday)
+
+**Breakfast — bakery**
+- Black bean and chorizo breakfast burrito
+
+*Notes: Good protein/fiber combo — black beans + chorizo is a solid pairing. Not a naked carb.*
+
+**Lunch — MQT Nutrition (partial)**
+- Bruschetta Chicken: Italian-style chicken with fresh bruschetta, roasted cinnamon sweet potatoes, steamed broccoli
+- Full macros: 327 cal, 37g protein, 33g carbs, 5g fat
+- Only ate ~half — not hungry, didn't love it
+- Approximate intake: ~165 cal, ~18g protein, ~16g carbs, ~2g fat
+
+*Notes: First MQT meal she hasn't finished. Appetite low at lunch. Running light on protein by mid-afternoon — burrito + half MQT puts her around 30g total heading into dinner. Dinner needs to deliver.*
+
+**Afternoon**
+- Cold brew with lightly sweetened oat milk (regular)
+
+**Dinner — TBD**
+
+---
+
 ### June 3 (Wednesday)
 
 **Breakfast (post-beach)**
