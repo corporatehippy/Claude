@@ -7,7 +7,7 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 **What we're watching for:**
 - Protein distribution across the day (spread it out; don't back-load it all)
 - Naked carbs — carbs with no protein, fat, or fiber to slow them down
-- Gaps — long stretches without eating that set up late-night chaos
+- Gaps — long stretches without eating that pinch set up late-night chaos
 - Fiber — beans, veg, whole grains showing up consistently
 - Patterns around energy, training, and the frozen pizza moments
 
@@ -36,8 +36,11 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 *Notes: 37g protein at lunch is excellent — that's real work done for the day. Broccoli adding fiber. Mac is higher carb but the protein load justifies it and it's a controlled meal service portion. Vegan cheese via nutritional yeast + Daiya. Going out to dinner with friends tonight.*
 
-**Dinner**
-- TBD — out with friends
+**Dinner — out with friends**
+- Greek pizza (dinner plate sized, individual): pizza sauce, cheese, spinach, feta, sausage
+- Ate the whole thing
+
+*Notes: Good topping profile — spinach, feta, sausage means it wasn't naked carbs. Protein and fat present. Ate more than intended but it's a social dinner out, not a pattern problem.*
 
 ---
 
