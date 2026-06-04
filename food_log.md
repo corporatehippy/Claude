@@ -23,7 +23,7 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 **Breakfast — bakery**
 - Black bean and chorizo breakfast burrito
 
-*Notes: Good protein/fiber combo — black beans + chorizo is a solid pairing. Not a naked carb.*
+*Notes: Good protein/fiber combo — beans + chorizo is a solid pairing, not a naked carb. Larger than expected — still full at lunchtime.*
 
 **Lunch — MQT Nutrition (partial)**
 - Bruschetta Chicken: Italian-style chicken with fresh bruschetta, roasted cinnamon sweet potatoes, steamed broccoli
@@ -31,12 +31,15 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 - Only ate ~half — not hungry, didn't love it
 - Approximate intake: ~165 cal, ~18g protein, ~16g carbs, ~2g fat
 
-*Notes: First MQT meal she hasn't finished. Appetite low at lunch. Running light on protein by mid-afternoon — burrito + half MQT puts her around 30g total heading into dinner. Dinner needs to deliver.*
+*Notes: First MQT meal she hasn't finished. Not a behavior problem — ate ahead of hunger because meetings were coming, burrito was bigger than expected, meal wasn't worth pushing through. Reasonable self-regulation. Running light on protein heading into dinner.*
 
 **Afternoon**
 - Cold brew with lightly sweetened oat milk (regular)
 
-**Dinner — TBD**
+**Dinner**
+- Carnitas bowl: frozen carnitas (finally used), leftover brown rice, tomatoes, cilantro, lime, red onion
+
+*Notes: Perfect end-of-pantry execution. Carnitas out of the freezer at last. Good protein, fiber from veg, not a naked carb. Closed the day out well despite the lighter lunch.*
 
 ---
 
@@ -50,20 +53,20 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 - Velveeta cheese slice
 - Small glass OJ (used up what was in fridge; out of grapefruit)
 
-*Notes: Fourth consecutive bakery bread breakfast sandwich, each one incrementally better. Spinach volume increasing by design. Bread fully used up = genuine win. OJ was the use-it-up choice — grapefruit is the preferred citrus and should go back on the shopping list. Spinach also depleted; both on the list.*
+*Notes: Fourth consecutive bakery bread breakfast sandwich, each one incrementally better. Spinach volume increasing by design. Bread fully used up = genuine win. OJ was the use-it-up choice — grapefruit is the preferred citrus and should go back on the shopping list.*
 
 **Lunch — MQT Nutrition**
 - BBQ Chicken Mac & Cheez (vegan) with broccoli
 - Macros: 461 cal, 53g carbs, 37g protein, 10g fat
 
-*Notes: 37g protein at lunch is excellent — that's real work done for the day. Broccoli adding fiber. Mac is higher carb but the protein load justifies it and it's a controlled meal service portion. Vegan cheese via nutritional yeast + Daiya.*
+*Notes: 37g protein at lunch is excellent. Broccoli adding fiber. Mac is higher carb but protein load justifies it.*
 
 **Dinner — out with friends**
 - Greek pizza (dinner plate sized, individual): pizza sauce, cheese, spinach, feta, house-made cudighi (added for protein — they make it in-house)
 - Base is vegetarian; sausage added by request
 - Ate the whole thing
 
-*Notes: Smart move asking for the cudighi — protein sorted, and house-made is worth it. Spinach + feta + sausage means not a naked carb situation. Ate more than intended but it's a restaurant dinner with friends, not a pattern.*
+*Notes: Smart move asking for the cudighi. Spinach + feta + sausage = not a naked carb. Restaurant dinner with friends, not a pattern.*
 
 ---
 
@@ -72,18 +75,16 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 **Breakfast — Third Street Bagel (post-lake-dip errand run)**
 - Cinnamon raisin bagel with cream cheese and bacon
 
-*Notes: Carb-forward but cream cheese and bacon add fat and protein. Next time: savory bagel if adding egg; leave cinnamon raisin as the occasional flavor treat it is.*
+*Notes: Carb-forward but cream cheese and bacon add fat and protein. Next time: savory bagel if adding egg.*
 
 **Lunch — MQT Nutrition**
 - Blackened shrimp with coconut rice and mango salsa
-
-*Notes: MQT doing its job — solid macro-balanced meal, zero decision fatigue.*
 
 **Dinner (~10pm)**
 - Frozen pizza (one pizza, solo)
 - No bedtime snack
 
-*Notes: Kitchen fully reset after two cleaning sessions. Frozen pizza at 10pm was the right call — depleted evening, correct usage. No dessert — second evening without bedtime sweet.*
+*Notes: Depleted evening, correct usage. No dessert — second evening without bedtime sweet.*
 
 ---
 
@@ -175,20 +176,20 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 ---
 
-## Emerging Patterns (End of Week 1 / Into Week 2)
+## Emerging Patterns (Race Week / June 4)
 
-- **Dessert ritual:** Five consecutive evenings (May 25–30), absent May 31 and June 2. Seasonal hypothesis still live. Tracking, not addressing.
-- **Spinach sneak in egg sandwiches:** Volume increasing by design. Spinach now depleted — restock.
-- **Citrus preference:** Grapefruit is the default; OJ is the use-it-up backup. Grapefruit back on shopping list.
-- **Beans landing naturally** across the week without effort.
-- **Naked carb awareness working** — most meals properly paired.
-- **Upgraded instant ramen confirmed (June 1):** Fast, substantial, great template.
-- **Post-long-effort recovery improving:** Scratch in cooler May 30 = right move. Pre-run solid food still a gap.
-- **Friday cinnamon roll:** Try Oikos Triple Zero alongside June 6.
-- **1am couch-wake eating (June 1):** Light dinner → couch nap → chips. Gap-driven. Watch for recurrence.
-- **Frozen pizza as legitimate tool:** June 2 — depleted evening, correct usage.
-- **Kitchen reset complete (June 2):** Environment now set up for better choices.
-- **Bakery bread run (May 31–June 3):** Four breakfast sandwiches, incrementally better each time. Fully used up.
+- **Dessert ritual:** Five consecutive evenings (May 25–30), absent May 31 and June 2. June 3 and 4 TBD. Seasonal hypothesis still live. Tracking, not addressing.
+- **Spinach depleted** — on Saturday morning shopping list.
+- **Grapefruit depleted** — on Saturday morning shopping list.
+- **Beans landing naturally** — black beans in bakery burrito, carnitas bowl, multiple home meals. No effort required.
+- **Naked carb awareness working** — most meals properly paired without overthinking.
+- **Upgraded instant ramen (June 1):** Fast, substantial, confirmed template.
+- **Carnitas finally used (June 4):** Long-standing freezer item resolved. Good end-of-pantry execution.
+- **Post-long-effort recovery improving:** Scratch in cooler May 30 = right move. 27k race Saturday — Scratch in cooler, real food within 30–45 min after finish.
+- **Friday cinnamon roll:** Try Oikos Triple Zero alongside — tomorrow, June 6.
+- **1am couch-wake eating (June 1):** Single instance, gap-driven. No recurrence.
+- **Two-trip shopping framework established (June 4):** Saturday morning (4 items, 15 min) for Sun–Wed survival + Wednesday/Thursday for cabin trip. Splits the end-of-cycle/trip planning spiral into two separate manageable problems.
+- **Eating ahead of hunger (June 4):** Warmed MQT before meetings despite not being hungry — reasonable call, noted for awareness. Burrito size was a factor.
 
 ---
 
