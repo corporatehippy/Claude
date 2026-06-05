@@ -37,9 +37,9 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 - Cold brew with lightly sweetened oat milk (regular)
 
 **Dinner**
-- Carnitas bowl: frozen carnitas (finally used), leftover brown rice, tomatoes, cilantro, lime, red onion
+- Carnitas bowl: ~1.5 cup carnitas crisped in skillet, ~3/4 cup brown rice, pickled red onions, cherry tomatoes, cilantro, jalapeño, sour cream
 
-*Notes: Perfect end-of-pantry execution. Carnitas out of the freezer at last. Good protein, fiber from veg, not a naked carb. Closed the day out well despite the lighter lunch.*
+*Notes: Proper execution — crisped in the skillet, not just reheated. Good protein, fiber from veg, not a naked carb. Closed the day out well despite the lighter lunch. Template locked.*
 
 ---
 
@@ -176,7 +176,7 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 ---
 
-## Emerging Patterns (Race Week / June 4)
+## Emerging Patterns (Race Week / June 5)
 
 - **Dessert ritual:** Five consecutive evenings (May 25–30), absent May 31 and June 2. June 3 and 4 TBD. Seasonal hypothesis still live. Tracking, not addressing.
 - **Spinach depleted** — on Saturday morning shopping list.
@@ -184,12 +184,11 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 - **Beans landing naturally** — black beans in bakery burrito, carnitas bowl, multiple home meals. No effort required.
 - **Naked carb awareness working** — most meals properly paired without overthinking.
 - **Upgraded instant ramen (June 1):** Fast, substantial, confirmed template.
-- **Carnitas finally used (June 4):** Long-standing freezer item resolved. Good end-of-pantry execution.
+- **Carnitas bowl confirmed (June 4):** ~1.5 cup carnitas crisped in skillet + ~3/4 cup brown rice + pickled red onion + cherry tomatoes + cilantro + jalapeño + sour cream. Template locked.
 - **Post-long-effort recovery improving:** Scratch in cooler May 30 = right move. 27k race Saturday — Scratch in cooler, real food within 30–45 min after finish.
-- **Friday cinnamon roll:** Try Oikos Triple Zero alongside — tomorrow, June 6.
+- **Friday cinnamon roll:** Try Oikos Triple Zero alongside — today, June 6.
 - **1am couch-wake eating (June 1):** Single instance, gap-driven. No recurrence.
-- **Two-trip shopping framework established (June 4):** Saturday morning (4 items, 15 min) for Sun–Wed survival + Wednesday/Thursday for cabin trip. Splits the end-of-cycle/trip planning spiral into two separate manageable problems.
-- **Eating ahead of hunger (June 4):** Warmed MQT before meetings despite not being hungry — reasonable call, noted for awareness. Burrito size was a factor.
+- **Two-trip shopping framework established (June 4):** Saturday morning (4 items, 15 min) for Sun–Wed survival + Wednesday/Thursday for cabin trip.
 
 ---
 
