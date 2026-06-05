@@ -18,6 +18,24 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 ## June 2026
 
+### June 5 (Friday — pre-race day)
+
+**Breakfast — bakery post-lake-dip**
+- Oikos Triple Zero vanilla yogurt (5.3oz) — eaten first
+- Cinnamon roll — ate just over half, picking at remainder during the day
+- Coffee
+
+*Notes: First Friday with Oikos alongside the cinnamon roll. Ate it before the roll, ate less of the roll without trying. Ritual intact, spike blunted. This is the protocol going forward.*
+
+**Lunch — TBD (MQT or out)**
+
+**Dinner — planned**
+- Meatball bake with garlic bread (pre-race carb load)
+
+*Notes: Meatball bake the night before a 27k is correct. Garlic bread is carbs with purpose, not a splurge.*
+
+---
+
 ### June 4 (Thursday)
 
 **Breakfast — bakery**
@@ -31,7 +49,7 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 - Only ate ~half — not hungry, didn't love it
 - Approximate intake: ~165 cal, ~18g protein, ~16g carbs, ~2g fat
 
-*Notes: First MQT meal she hasn't finished. Not a behavior problem — ate ahead of hunger because meetings were coming, burrito was bigger than expected, meal wasn't worth pushing through. Reasonable self-regulation. Running light on protein heading into dinner.*
+*Notes: First MQT meal she hasn't finished. Not a behavior problem — ate ahead of hunger because meetings were coming, burrito was bigger than expected, meal wasn't worth pushing through. Reasonable self-regulation.*
 
 **Afternoon**
 - Cold brew with lightly sweetened oat milk (regular)
@@ -39,77 +57,42 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 **Dinner**
 - Carnitas bowl: ~1.5 cup carnitas crisped in skillet, ~3/4 cup brown rice, pickled red onions, cherry tomatoes, cilantro, jalapeño, sour cream
 
-*Notes: Proper execution — crisped in the skillet, not just reheated. Good protein, fiber from veg, not a naked carb. Closed the day out well despite the lighter lunch. Template locked.*
+*Notes: Proper execution — crisped in the skillet, not just reheated. Good protein, fiber from veg, not a naked carb. Template locked.*
 
 **Late night (after couch nap)**
 - Urge to snack present after waking on couch. Drank water and went to bed. No snacking.
 
-*Notes: Same couch-wake situation as June 1, different outcome. June 1 = chips. June 4 = water + bed. The urge was real; she didn't act on it. That's the data point worth keeping.*
+*Notes: Same couch-wake situation as June 1, different outcome. June 1 = chips. June 4 = water + bed. The urge was real; she didn't act on it.*
 
 ---
 
 ### June 3 (Wednesday)
 
 **Breakfast (post-beach)**
-- Toasted multigrain roma (bakery bread, last of it) with butter
-- 1/2 serving thin deli ham
-- Over medium egg
-- Spinach — more than previous days, wilted under the egg (spinach now depleted)
-- Velveeta cheese slice
-- Small glass OJ (used up what was in fridge; out of grapefruit)
-
-*Notes: Fourth consecutive bakery bread breakfast sandwich, each one incrementally better. Spinach volume increasing by design. Bread fully used up = genuine win. OJ was the use-it-up choice — grapefruit is the preferred citrus and should go back on the shopping list.*
+- Toasted multigrain roma (bakery bread, last of it) with butter, 1/2 serving thin deli ham, over medium egg, spinach wilted under egg, Velveeta cheese slice, small glass OJ
 
 **Lunch — MQT Nutrition**
-- BBQ Chicken Mac & Cheez (vegan) with broccoli
-- Macros: 461 cal, 53g carbs, 37g protein, 10g fat
-
-*Notes: 37g protein at lunch is excellent. Broccoli adding fiber. Mac is higher carb but protein load justifies it.*
+- BBQ Chicken Mac & Cheez (vegan) with broccoli — 461 cal, 53g carbs, 37g protein, 10g fat
 
 **Dinner — out with friends**
-- Greek pizza (dinner plate sized, individual): pizza sauce, cheese, spinach, feta, house-made cudighi (added for protein — they make it in-house)
-- Base is vegetarian; sausage added by request
-- Ate the whole thing
-
-*Notes: Smart move asking for the cudighi. Spinach + feta + sausage = not a naked carb. Restaurant dinner with friends, not a pattern.*
+- Greek pizza (individual, dinner plate sized): pizza sauce, cheese, spinach, feta, house-made cudighi added for protein. Ate the whole thing.
 
 ---
 
 ### June 2 (Tuesday)
 
-**Breakfast — Third Street Bagel (post-lake-dip errand run)**
-- Cinnamon raisin bagel with cream cheese and bacon
-
-*Notes: Carb-forward but cream cheese and bacon add fat and protein. Next time: savory bagel if adding egg.*
-
-**Lunch — MQT Nutrition**
-- Blackened shrimp with coconut rice and mango salsa
-
-**Dinner (~10pm)**
-- Frozen pizza (one pizza, solo)
-- No bedtime snack
-
-*Notes: Depleted evening, correct usage. No dessert — second evening without bedtime sweet.*
+**Breakfast** — Cinnamon raisin bagel with cream cheese and bacon (Third Street Bagel, post-lake-dip)
+**Lunch — MQT** — Blackened shrimp with coconut rice and mango salsa
+**Dinner (~10pm)** — Frozen pizza (solo). No bedtime snack.
 
 ---
 
 ### June 1 (Monday)
 
-**Breakfast (post-beach)**
-- Toasted multigrain roma with butter, 1/2 serving thin deli ham, over medium egg, few leaves spinach wilted under egg, Velveeta cheese slice, 1/2 grapefruit alongside
-
-**Lunch**
-- 2 packs Shin-Black bone broth ramen, split with Nick; sautéed onion, garlic, frozen mixed veg, spinach, sesame oil, soy/oyster/chili garlic sauce; ~1/2 cooked chicken breast; noodles melded in skillet, broth poured over
-
-*Notes: Upgraded instant ramen — ridiculously satisfying. Good template confirmed.*
-
-**Dinner**
-- Frozen burger patty on Blackstone with cheese, hamburger bun; store-bought potato salad; split cowboy cookie with Nick
-
-**1am**
-- Handful of tortilla chips (woke up on couch)
-
-*Notes: Light dinner → couch nap → woke hungry → grabbed nearest thing. Gap-driven.*
+**Breakfast** — Toasted multigrain roma with butter, ham, egg, spinach, Velveeta, 1/2 grapefruit
+**Lunch** — Upgraded Shin-Black ramen: sautéed onion, garlic, frozen veg, spinach, sesame oil, soy/oyster/chili garlic sauce, ~1/2 chicken breast; noodles melded in skillet, broth poured over
+**Dinner** — Frozen burger patty + cheese on bun, store-bought potato salad, split cowboy cookie with Nick
+**1am** — Handful of tortilla chips (woke on couch, gap-driven)
 
 ---
 
@@ -121,7 +104,7 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 **Lunch** — Leftover guac + tortilla chips, ~5oz hummus, pita chips, cucumber, red pepper
 **Post-ride snack** — Ritz PB crackers
 **Evening** — Beer at brewery rooftop, ice cream at Frosty Treats
-**Dinner** — PB&J sandwich *(no dessert after — first evening without bedtime sweet)*
+**Dinner** — PB&J sandwich *(no dessert after)*
 
 ---
 
@@ -132,7 +115,7 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 **Post-run** — Scratch Recovery drink (in cooler) ✓
 **Post-run meal** — Leftover gnocchi with cudighi ✓
 **Evening** — Smashburger delivery, ~half fries, bourbon and coke
-**Before bed** — Sweet Tarts (trail leftovers left out) + PB + choc chips
+**Before bed** — Sweet Tarts + PB + choc chips
 
 ---
 
@@ -183,16 +166,15 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 ## Emerging Patterns (Race Week / June 5)
 
-- **Late-night/couch-wake pattern:** June 1 = woke, grabbed chips (gap-driven). June 4 = woke with urge, drank water, went to bed. Same trigger, different outcome. Worth watching.
-- **Dessert ritual:** Five consecutive evenings (May 25–30), absent May 31, June 2, June 4. Possibly shifting — or situational. Tracking, not addressing.
-- **Spinach depleted** — on Saturday morning shopping list.
-- **Grapefruit depleted** — on Saturday morning shopping list.
+- **Friday cinnamon roll protocol confirmed (June 5):** Oikos Triple Zero first, then roll, ate less of the roll without trying. Ritual intact, spike blunted. This is the move going forward.
+- **Late-night/couch-wake pattern:** June 1 = woke, grabbed chips. June 4 = woke with urge, water + bed. Same trigger, different outcome. Tracking.
+- **Dessert ritual:** Five consecutive evenings (May 25–30), absent May 31, June 2, June 4. Possibly shifting. Tracking, not addressing.
 - **Beans landing naturally** — no effort required.
-- **Naked carb awareness working** — most meals properly paired without overthinking.
-- **Carnitas bowl confirmed (June 4):** ~1.5 cup carnitas crisped in skillet + ~3/4 cup brown rice + pickled red onion + cherry tomatoes + cilantro + jalapeño + sour cream. Template locked.
-- **Post-long-effort recovery improving:** Scratch in cooler May 30 = right move. 27k race Saturday — Scratch in cooler, real food within 30–45 min after finish.
-- **Friday cinnamon roll:** Oikos Triple Zero alongside — try today, June 6.
-- **Two-trip shopping framework established (June 4):** Saturday morning (4 items, 15 min) + Wednesday/Thursday cabin shop.
+- **Naked carb awareness working** — most meals properly paired.
+- **Carnitas bowl confirmed template (June 4):** ~1.5 cup crisped carnitas + ~3/4 cup brown rice + pickled red onion + cherry tomatoes + cilantro + jalapeño + sour cream.
+- **Post-long-effort recovery:** 27k race Saturday — Scratch in cooler, real food within 30–45 min after finish.
+- **Two-trip shopping framework (June 4):** Saturday morning (4 items, 15 min) + Wednesday/Thursday cabin shop.
+- **Spinach + grapefruit:** Both depleted, both on Saturday morning list.
 
 ---
 
