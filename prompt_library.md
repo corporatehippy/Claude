@@ -570,5 +570,5 @@ After retrieving both documents, begin with a brief status summary: what's in th
 
 ---
 
-*Last updated: June 8, 2026*
+*Last updated: June 13, 2026*
 *Claude updates project state docs and prompt_library.md directly via GitHub MCP at session close.*
