@@ -84,11 +84,11 @@ FOOD LOG PURPOSE AND USE:
 - Claude commits each food entry to food_log.md immediately after it is logged — not batched, not at session close. Every meal reported = one commit.
 - When reorienting mid-session, re-read food_log.md to know what's already been committed vs. what's still only in conversation.
 - The log also creates accountability Marty didn't expect — that's worth preserving. Treat it as a real coaching tool, not a filing task.
-- The companion doc (adhd_athlete_kitchen_plan.md Section 5) holds running pattern observations that accumulate across sessions. Update it when meaningful patterns emerge or resolve.
+- The companion doc (adhd_athlete_kitchen_plan.md Section 6) holds running pattern observations that accumulate across sessions. Update it when meaningful patterns emerge or resolve.
 
 CLIENT PROFILE:
 - Marty. Adult with ADHD. Endurance athlete with significant training load.
-- Currently in active training — working toward an ultra marathon and a long endurance bike event.
+- Currently in active training — working toward the Marquette Trail 50k (August 15, 2026) and a long endurance bike event.
 - Works from home — dutch oven and hands-off cooking are genuinely accessible most days.
 - "Measure with your heart" cook — enjoys cooking, hates fussy recipes.
 - Thinks in components and formulas, not recipes. Self-described ingredient household.
@@ -104,12 +104,13 @@ CLIENT PROFILE:
 - Communicates in parenthetical asides — thinks out loud. Don't over-explain when she's already processing.
 - When presented with numbered options or recommendations, she responds at the list level — present multi-part choices as numbered lists to enable efficient decision-making.
 - Health context: A1C is high, potentially pre-diabetic; insulin resistance concern. Approach is add-before-subtract — incremental improvement, not overhaul.
-- Goals: lose weight, fuel training, lower blood sugar, feel better as she ages. Approach is sustainable and incremental — not a reset, not a diet.
+- Goals: lose weight, fuel training, lower blood sugar, feel better as she ages — and reduce joint load for August race. Approach is sustainable and incremental — not a reset, not a diet.
 - MQT Nutrition meals: Marty orders macro-balanced, low-calorie lunches from a local meal prep service when available. Removes midday decision fatigue. Don't suggest changing this. Log as described + noted as MQT. Not always available (holidays, etc.).
 - Post-long-effort recovery window: known gap — appetite suppressed after exercise → skips real food → blood sugar chaos later. Default recovery snack within 30-45 min is the fix; options are in the kitchen plan. Scratch Recovery drink confirmed as a good option.
 - Daily ritual: Cold-water dips in Lake Superior on weekday mornings with friends — mental health anchor, non-negotiable.
-- Friday addition: After the dip, stops at the bakery for cinnamon rolls and coffee. Joy ritual — not a nutrition problem. Oikos Triple Zero alongside the roll would blunt the glucose spike without changing the ritual.
+- Friday addition: After the dip, stops at the bakery for cinnamon rolls and coffee. Joy ritual — not a nutrition problem. Oikos Triple Zero alongside the roll blunts the glucose spike without changing the ritual. CONFIRMED WORKING (June 5).
 - Before-bed dessert ritual: Consistent before-bed need for something sweet — shows up as PB+choc chips, ice cream, Oreos. Identified and tracking; working on a better swap when ready.
+- Pre-race breakfast: Pre-race anxiety shuts down appetite physiologically. Not a willpower problem. Work around it, don't fight it.
 
 COMMUNICATION RULES:
 - Talk to Marty like a trusted coach and friend, not a patient or student.
@@ -570,5 +571,5 @@ After retrieving both documents, begin with a brief status summary: what's in th
 
 ---
 
-*Last updated: June 13, 2026*
+*Last updated: June 14, 2026*
 *Claude updates project state docs and prompt_library.md directly via GitHub MCP at session close.*

@@ -1,7 +1,7 @@
 # Marty's Kitchen & Nutrition System
 
 *Companion document for 1A sessions — retrieved via GitHub MCP*
-*Last updated: June 4, 2026 | Living document — updated each session*
+*Last updated: June 14, 2026 | Living document — updated each session*
 
 Companion files:
 - **adhd_athlete_kitchen_plan.md** (this file) — kitchen system, frameworks, meal ideas, execution notes
@@ -33,18 +33,20 @@ Companion files:
 - Dinner often happens around 9:30–10pm — meals need to be *finishable*, not startable, at that hour
 - Post-long-effort recovery gap: appetite suppressed after long rides/runs → skips real food → blood sugar drops → chaos by late afternoon/evening
 - Before-bed dessert ritual: consistent need for something sweet before bed — PB+choc chips, ice cream, Oreos. Vehicle varies; ritual is constant. Tracking before addressing.
-- **End-of-cycle crash (flagged June 2026):** When pantry is low and kitchen is a mess, no systems exist to sustain good eating. Known gap, needs its own framework — dedicated session still needed.
+- **End-of-cycle crash (flagged June 2026):** When pantry is low and kitchen is a mess, no systems exist to sustain good eating. Known gap — can derail for weeks (June 7–13 confirmed this). Dedicated session still needed.
 - **Trip planning spiral (identified June 4, 2026):** When a trip is coming up, Marty unconsciously ignores the days before departure and shops only for the trip — leaving the bridge days stranded. Fix: treat as two separate problems with two separate lists (see Two-Trip Framework below).
+- **Pre-race breakfast:** Pre-race anxiety shuts down appetite physiologically — sympathetic nervous system. Not a willpower problem. Not the thing to fix right now; work around it with in-race fueling.
 
 ### Training Context
 
-- Currently training for an ultra marathon and a long endurance bike event
+- Currently training for Marquette Trail 50k (August 15, 2026) — 9 weeks out as of June 14
 - Training load is significant; fueling is a real performance variable, not just a health consideration
+- **Joint load is a real concern:** Long efforts on technical terrain (4+ hours, rocky trails) are hard on knees and ankles at current weight. Even 10–15 lbs down meaningfully reduces mechanical stress on every downhill step. Weight loss between now and August 15 has a direct performance and injury-prevention rationale, not just a health one.
 - Pre-long-effort: intentional carb loading at breakfast is appropriate — the fuel is doing a job
 - Post-long-effort recovery window (30–45 min after finishing, before showering): Greek yogurt + granola, chocolate milk, Fairlife shake, PB on tortilla + banana, leftover breakfast burrito, Scratch Recovery drink. Goal: 15–25g protein + fast carbs.
+- **Don't shortchange carbs in training bowls** — brown rice + sweet potato in the bowl is fuel, not indulgence. The lever is eating-out chaos and late-night gaps, not the rice.
 - Scratch Recovery drink: confirmed good option — especially when mixed ahead and kept in a cooler
 - Saving dinner leftovers intentionally for post-long-run = excellent instinct. Do this deliberately.
-- **Upcoming: 27k trail race Saturday June 7.** ~6 hours to finish. Sunday will be a write-off. Saturday morning shopping (4 items) + frozen pizza Sunday = the plan.
 
 ---
 
@@ -62,6 +64,25 @@ Each formula is a template — the flavor profile rotates, the process doesn't. 
 | Grain Bowl | Cooked grain + protein + acid + fat + greens (optional) | Rice + dutch oven meat + lemon + avocado |
 | Quick Skillet | Fat + aromatics + protein + sauce → serve over grain | Sausage + onion + jarred tomatoes over pasta |
 | Dump and Bake | Everything in the vessel + oven + time | Meatball pasta bake, gnocchi, white bean bake |
+| **Ingredient Grill** | Season proteins → grill all at once → cut up → fridge → week of bowls | Chicken thighs + breasts, country ribs |
+
+### Chicken Bowl Framework *(confirmed June 14, 2026)*
+
+**The build:** Grilled chicken (thighs + breasts mixed, s&p + garlic + ranch powder, charcoal Weber) → cut up together → fridge → assemble bowls all week.
+
+**Base:** Brown rice (batch cooked) + roasted sweet potato + roasted chickpeas
+
+**Sauce rotations — no extra work:**
+- Marie's Habanero Buffalo → Mexican-style bowl (add pickled onion, salsa, sour cream, cilantro)
+- Ken's Garlic Parmesan Wing Sauce → Greek/med-style bowl (add feta, olives, cucumber, lemon)
+- Just the garlic parm straight → classic bowl
+- Just the buffalo straight → heat bowl
+
+**Why thighs + breasts together:** Thighs carry the moisture and flavor; breasts extend the volume without drying out the batch. Cut together = no decision at assembly time.
+
+**Nick-compatible:** Yes — bowl format lets him customize without separate cooking.
+
+**Lunch add-on:** Cottage cheese + grapes alongside MQT Nutrition meals for more substance and protein. Low friction, carries into afternoon better.
 
 ### Two-Trip Shopping Framework *(established June 4, 2026)*
 
@@ -90,10 +111,12 @@ The problem isn't planning — it's that proteins go in the cart with no committ
 |---|---|
 | Chuck roast | Barbacoa or Italian beef — decide when you cook it |
 | Chicken breasts | Foreman grill → slice → fridge. Always. It's an ingredient, not a meal. |
+| Chicken thighs | Grill with breasts → bowl ingredient. Or salsa chicken in dutch oven. |
 | Ground beef | Korean bowl, beef and bean skillet, or dirty rice — pick one before the cart. Not spaghetti. |
 | Ground pork | Larb bowl or ginger pork rice bowl |
 | Italian sausage | Pasta, white bean skillet, or sheet pan with peppers and onions |
 | Pork shoulder | Carnitas or Italian pulled pork |
+| Country ribs | Dry rub → Weber → sauce at the end. Confirmed technique. |
 | Baby back ribs | Weber kettle (technique confirmed — see Quick Reference) |
 
 ### If-Then Shopping Logic
@@ -106,6 +129,7 @@ Protein chosen → supporting ingredients auto-follow. Shopping decisions shrink
 | Chuck roast | Barbacoa | Chipotles in adobo, lime, beef broth, cumin, oregano, tortillas |
 | Pork shoulder | Carnitas | OJ or citrus, cumin, oregano, garlic, tortillas, limes |
 | Pork shoulder | Italian Pulled Pork | Fennel seed, crushed tomatoes, white wine or broth, crusty bread |
+| Chicken thighs + breasts | Grill → bowl week | s&p, garlic powder, ranch powder, brown rice, sweet potato, sauces |
 | Chicken thighs | Salsa Chicken | One jar of salsa |
 | Chicken thighs | Braised Tomato & Olive | Canned tomatoes, olives, garlic, dried herbs |
 | Chicken thighs | Sheet Pan | Any frozen veg, olive oil, seasoning |
@@ -120,6 +144,7 @@ Protein chosen → supporting ingredients auto-follow. Shopping decisions shrink
 | Italian sausage | Sheet pan | Peppers, onions, crusty bread or grain |
 | Italian sausage | Stovetop gnocchi | Shelf-stable gnocchi, jarred sauce, spinach, parm |
 | Baby back ribs | Weber kettle | Apple or cherry wood chunks, foil, sauce |
+| Country ribs | Weber kettle | Dry rub (already made), sauce for basting |
 
 ### Ingredient Stocking Categories
 
@@ -127,10 +152,10 @@ Goal: always have at least one item in each category so assembly is possible wit
 
 | Category | Always Have Something Like... |
 |---|---|
-| Cooked or easy protein | Rotisserie chicken (pull immediately), canned fish, hard-boiled eggs, leftover dutch oven meat, deli meat, pre-cooked sausage, frozen shrimp |
+| Cooked or easy protein | Rotisserie chicken (pull immediately), canned fish, hard-boiled eggs, leftover dutch oven meat, deli meat, pre-cooked sausage, frozen shrimp, **grilled chicken batch** |
 | Cooked or quick grain | Leftover rice, farro, barley, pasta, tortillas, bread |
 | Zero-prep vegetable | Frozen veg, pre-washed greens, cherry tomatoes, bagged slaw, canned beans |
-| Sauce / flavor bomb | Jarred salsa, pasta sauce, miso, soy sauce, pesto, hot sauce, chipotles in adobo, Thai red curry paste, fish sauce |
+| Sauce / flavor bomb | Jarred salsa, pasta sauce, miso, soy sauce, pesto, hot sauce, chipotles in adobo, Thai red curry paste, fish sauce, **buffalo sauce, garlic parm wing sauce** |
 | Fat | Olive oil, butter, avocado, tahini |
 | Salad pantry | Kalamata olives, pepperoncini, roasted red peppers (jarred), dried cranberries, walnuts/slivered almonds, feta (in brine), pita chips, balsamic vinaigrette, Italian dressing |
 
@@ -142,6 +167,7 @@ Highest-ROI tasks to do when already in the kitchen — not as a separate event:
 - Big batch of grains (rice, farro, quinoa) — 30–40 min hands-off, feeds the week
 - Hard-boiled eggs — while water is boiling for something else
 - Foreman grill 2–3 chicken breasts on shopping day → slice → fridge → 4–5 days of lunches
+- **Grill all proteins in one session when charcoal is already going** — ribs first, chicken on while coals die. One fire, two problems solved.
 - Washed/dried greens — when unpacking groceries
 - Roasted garlic or caramelized onions — when oven is already on
 
@@ -177,6 +203,12 @@ Three highest-leverage shifts:
 - **Pesto** — straight from the jar. Unironically great over roasted chicken and sweet potato.
 
 ### Confirmed Techniques
+
+**Grilled chicken batch (confirmed June 14, 2026 — week-of-bowls anchor)**
+Season boneless/skinless thighs and breasts together: s&p, garlic powder, ranch powder. Grill over charcoal (Weber kettle). Cut all up together into chunks once off the grill. Fridge in a container. Thighs carry moisture for the whole batch — nothing gets dry by Wednesday. Use all week in bowls with rotating sauces. One cook session = 5+ dinners.
+
+**Country ribs — Weber kettle (confirmed June 14, 2026)**
+Dry rub (Marty's rock-solid house blend — works on anything). Grill over charcoal. Baste with sauce at the end to caramelize. More sauce on plates. Simple, reliable, good.
 
 **Stovetop gnocchi with Italian sausage** *(confirmed May 2026 — faster and better than baked)*
 Brown sausage (crumbled or sliced), remove. Cook garlic in fat 30 sec. Add jarred sauce + splash of broth to loosen. Drop gnocchi in uncooked, stir to coat, cover, cook 5–6 min until tender. Add sausage back, spinach, wilt. Parm on top. 20 min, one pan. Gnocchi absorbs the sauce — no boiling water, no separate pot. Confirmed with cudighi + Rao's marinara + lots of spinach.
@@ -234,6 +266,7 @@ Organized by protein — matches how you shop and plan.
 
 ### Chicken
 
+- **Grilled chicken bowl week** — see Chicken Bowl Framework above
 - **Salsa chicken** — chicken thighs + one jar of salsa, dutch oven or slow cooker. Done.
 - **Coconut curry** — cube chicken, brown, add curry paste + can of coconut milk, simmer 15 min. Over rice or rice noodles.
 - **Chicken piccata-ish** — pound thin, sear, deglaze with lemon juice + splash of broth, swirl in butter. Over pasta or with bread. 20 min.
@@ -313,11 +346,12 @@ Organized by protein — matches how you shop and plan.
 *Running observations from food_log.md — updated as patterns emerge or resolve.*
 
 **Active patterns:**
-- **Dessert ritual** — consistent before-bed need for something sweet. PB+choc chips, ice cream, mini Oreos. Vehicle varies; ritual is constant. Absent May 31 and June 2. Tracking before addressing.
-- **Post-long-effort recovery** — improving but not consistent. Scratch in cooler = right move. 27k race Saturday — Scratch mixed and in cooler, real food within 30–45 min after finish.
-- **Friday cinnamon roll** — weekly ritual. Oikos Triple Zero alongside = try it June 6 (tomorrow).
-- **1am couch-wake eating (June 1)** — single instance, gap-driven. No recurrence yet.
-- **Trip planning spiral** — identified and named June 4. Two-trip framework is the fix. First use: Saturday morning (4 items) + Wednesday/Thursday cabin shop.
+- **Dessert ritual** — consistent before-bed need for something sweet. PB+choc chips, ice cream, mini Oreos. Vehicle varies; ritual is constant. Tracking before addressing.
+- **Post-long-effort recovery** — improving but not consistent. Scratch in cooler = right move.
+- **Friday cinnamon roll protocol CONFIRMED (June 5):** Oikos Triple Zero first → ate less of the roll without trying. Ritual intact, spike blunted. This is the protocol going forward.
+- **Late-night/couch-wake pattern:** June 1 = woke, grabbed chips. June 4 = woke with urge, water + bed. Same trigger, different outcome. Tracking.
+- **End-of-cycle collapse (June 7–13):** Race week + no shopping + cancelled cabin trip = ~1 week of untracked eating out. Entirely predictable from established patterns. Moving forward without reconstruction. This reinforces the urgency of the dedicated end-of-cycle session.
+- **Joint load motivation (identified June 14):** Training runs highlighting joint stress at current weight. Weight loss between now and August 15 has a direct race-day rationale. This is the most concrete motivation that's landed yet — worth holding onto.
 
 **What's working:**
 - Beans showing up consistently and naturally — no effort required
@@ -326,7 +360,8 @@ Organized by protein — matches how you shop and plan.
 - MQT removing midday decision fatigue when available
 - Spinach sneak under egg — volume increasing, zero friction
 - Protein add-ons at restaurants (cudighi on greek pizza) — becoming instinct
-- Carnitas bowl June 4 — good end-of-pantry execution, freezer item finally resolved
+- Carnitas bowl June 4 — good end-of-pantry execution
+- Chicken bowl framework (June 14) — Nick is on board; low friction, varied, sustainable
 
 ---
 
@@ -334,14 +369,14 @@ Organized by protein — matches how you shop and plan.
 
 ### Immediate / This Week
 
-- **Saturday morning shopping list (pre-race, 15 min):** spinach, grapefruit, Italian sausage, 2–3 frozen pizzas
-- **Wednesday/Thursday cabin shopping list:** ground beef or turkey, thin-cut pork chops, 1 rotisserie chicken (pull and pack), taco seasoning, rice, canned black beans, salsa, shredded cheese, sour cream, limes, instant mashed potatoes, 2 bag salads, car/cabin snacks
-- **Friday June 6:** Oikos Triple Zero alongside cinnamon roll — try it
-- **Post-race Saturday:** Scratch in cooler, real food within 30–45 min of finishing
+- **This week's anchor:** Grilled chicken batch (thighs + breasts) → brown rice → roasted sweet potato + chickpeas → bowl rotations with buffalo and garlic parm sauces
+- **Italian sausage in fridge** — versatile backup if bowl fatigue hits mid-week
+- **Cottage cheese + grapes alongside MQT lunches** — try this week, note if it actually carries into afternoon better
+- **Cabin trip rescheduled to August** — two-trip framework applies when that comes around
 
 ### Parking Lot
 
-- **End-of-cycle systems conversation (priority):** What does survival mode actually look like when pantry is low and kitchen is a mess? Minimum viable anchors. Dedicated session needed.
+- **End-of-cycle systems conversation (priority — reinforced June 14):** What does survival mode actually look like when pantry is low and kitchen is a mess? Minimum viable anchors. Dedicated session needed.
 - Before-bed dessert ritual — tracking first, better swap when ready
 - Simple rotating weekly framework (dutch oven day, assembly day, etc.)
 - Specific athlete fueling guidance around training blocks and race season
