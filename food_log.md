@@ -18,14 +18,26 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 ## June 2026
 
-### June 14 (Sunday — day after small loop training run)
+### June 14 (Sunday — recovery day after small loop training run)
 
-**Dinner — ingredient cook session**
-- Country style pork ribs (family pack): dry rubbed, started on grill, finished under broiler with sauce to caramelize. Served with bagged salad and oven-baked sweet potato.
-- Produced for the week: ~16 chicken thighs + 2 breasts (s&p, garlic, ranch powder — grilled on Weber), 3 oven-baked sweet potatoes, sheet pan roasted broccoli and cauliflower
+**Friday night (June 13) — pre-weekend prep**
+- Made 4 breakfast burritos for Saturday pre-run breakfast
+- Ordered pizza for dinner instead of cooking it
+
+*Notes: Classic finishable-before-hungry move — made burritos when there was energy, not when they were needed. Pizza was the right call for Friday night; burritos were there for Saturday.*
+
+**Saturday (June 14) — long run day**
+- Breakfast: leftover breakfast burritos (pre-run)
+- Dinner: leftover pizza (post-run early dinner)
+
+*Notes: Post-run recovery via leftover pizza isn't ideal nutritionally but it was real food, it was immediate, and it was already there. Functional.*
+
+**Sunday dinner — ingredient cook session**
+- Dinner: country style pork ribs (family pack) — dry rubbed, started on grill (chicken was priority, ribs went on after confirming enough fuel), finished under broiler with sauce to caramelize. Served with bagged salad and oven-roasted sweet potato cubes.
+- Produced for the week: ~16 chicken thighs + 2 breasts (s&p, garlic, ranch powder — grilled on Weber, cut up and stored in two glass containers), roasted sweet potato cubes (one container), roasted broccoli and cauliflower (one container)
 - Total cook + cleanup: ~2 hours
 
-*Notes: First full ingredient cook session — biggest lift of the chicken bowl framework. Ribs were dinner; everything else goes into the fridge for the week. Brown rice still to do (rice cooker, any time). Kitchen clean. This is the template: one afternoon, week handled. Worth tracking whether this becomes a Sunday habit or stays a one-time thing.*
+*Notes: Chicken was the explicit priority — ribs were a bonus once fuel was confirmed. Two full containers of chicken plus sweet potato and veg in the fridge. This is the week handled. Key conditions that made it work: groceries already in the house from Friday shopping (PTO day), low-key recovery Sunday with nothing else competing. Friday shopping → Saturday/Sunday cook is the pattern worth replicating. Brown rice still to do whenever — low friction.*
 
 ---
 
@@ -175,17 +187,17 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 ---
 
-## Emerging Patterns (Race Week / June 5)
+## Emerging Patterns
 
+- **Friday shopping → weekend cook:** June 13 PTO shop → June 14 big cook session. Clean sequence. Friday shopping means groceries land before the weekend rather than mid-week. Worth testing intentionally — even shifting from Saturday shopping to Friday evening.
+- **Prep-before-hungry instinct confirmed:** Friday night breakfast burritos made when energy was available, not when needed Saturday morning. This is the model.
 - **Friday cinnamon roll protocol confirmed (June 5):** Oikos Triple Zero first, then roll, ate less of the roll without trying. Ritual intact, spike blunted. This is the move going forward.
 - **Late-night/couch-wake pattern:** June 1 = woke, grabbed chips. June 4 = woke with urge, water + bed. Same trigger, different outcome. Tracking.
 - **Dessert ritual:** Five consecutive evenings (May 25–30), absent May 31, June 2, June 4. Possibly shifting. Tracking, not addressing.
 - **Beans landing naturally** — no effort required.
 - **Naked carb awareness working** — most meals properly paired.
 - **Carnitas bowl confirmed template (June 4):** ~1.5 cup crisped carnitas + ~3/4 cup brown rice + pickled red onion + cherry tomatoes + cilantro + jalapeño + sour cream.
-- **Post-long-effort recovery:** 27k race Saturday — Scratch in cooler, real food within 30–45 min after finish.
-- **Two-trip shopping framework (June 4):** Saturday morning (4 items, 15 min) + Wednesday/Thursday cabin shop.
-- **Ingredient cook session (June 14):** First full execution of the chicken bowl framework. ~2 hours, kitchen clean after. Worth tracking as a potential Sunday habit.
+- **Ingredient cook session (June 14):** First full execution. ~2 hours, kitchen clean. Chicken was the priority; ribs were bonus. Two containers of chicken + sweet potato + veg in the fridge. Conditions: Friday grocery shop, low-key recovery Sunday.
 
 ---
 
