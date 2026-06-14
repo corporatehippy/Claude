@@ -18,6 +18,17 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 ## June 2026
 
+### June 14 (Sunday — day after small loop training run)
+
+**Dinner — ingredient cook session**
+- Country style pork ribs (family pack): dry rubbed, started on grill, finished under broiler with sauce to caramelize. Served with bagged salad and oven-baked sweet potato.
+- Produced for the week: ~16 chicken thighs + 2 breasts (s&p, garlic, ranch powder — grilled on Weber), 3 oven-baked sweet potatoes, sheet pan roasted broccoli and cauliflower
+- Total cook + cleanup: ~2 hours
+
+*Notes: First full ingredient cook session — biggest lift of the chicken bowl framework. Ribs were dinner; everything else goes into the fridge for the week. Brown rice still to do (rice cooker, any time). Kitchen clean. This is the template: one afternoon, week handled. Worth tracking whether this becomes a Sunday habit or stays a one-time thing.*
+
+---
+
 ### June 5 (Friday — pre-race day)
 
 **Breakfast — bakery post-lake-dip**
@@ -174,7 +185,7 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 - **Carnitas bowl confirmed template (June 4):** ~1.5 cup crisped carnitas + ~3/4 cup brown rice + pickled red onion + cherry tomatoes + cilantro + jalapeño + sour cream.
 - **Post-long-effort recovery:** 27k race Saturday — Scratch in cooler, real food within 30–45 min after finish.
 - **Two-trip shopping framework (June 4):** Saturday morning (4 items, 15 min) + Wednesday/Thursday cabin shop.
-- **Spinach + grapefruit:** Both depleted, both on Saturday morning list.
+- **Ingredient cook session (June 14):** First full execution of the chicken bowl framework. ~2 hours, kitchen clean after. Worth tracking as a potential Sunday habit.
 
 ---
 
