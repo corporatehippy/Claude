@@ -23,7 +23,7 @@ Companion files:
 - Owns a good wok — confirmed in active use; fried rice technique confirmed
 - **Camp kitchen:** Coleman 2-burner camp stove + large carbon steel skillet + pot. Well-stocked camp kitchen situation. Confirmed go-to camp meals: taco bowls, shepherd's pie skillet, thin-cut pork chops + instant mashed + bag salad.
 - MQT Nutrition: orders macro-balanced, low-calorie lunches from a local meal prep service when available — removes midday decision fatigue entirely. Not always available (holidays, etc.)
-- Shopping rhythm: aims for every 2–3 weeks, Saturday or Sunday evenings preferred. **Known pattern: trips stretching to 4 weeks, causing end-of-cycle crashes.**
+- Shopping rhythm: aims for every 2–3 weeks, Saturday or Sunday evenings preferred. **Known pattern: trips stretching to 4 weeks, causing end-of-cycle crashes. Friday shopping (when possible) → weekend cook is the better sequence.**
 
 ### Current Friction Points
 
@@ -167,9 +167,10 @@ Highest-ROI tasks to do when already in the kitchen — not as a separate event:
 - Big batch of grains (rice, farro, quinoa) — 30–40 min hands-off, feeds the week
 - Hard-boiled eggs — while water is boiling for something else
 - Foreman grill 2–3 chicken breasts on shopping day → slice → fridge → 4–5 days of lunches
-- **Grill all proteins in one session when charcoal is already going** — ribs first, chicken on while coals die. One fire, two problems solved.
+- **Grill all proteins in one session when charcoal is already going** — chicken first (priority), add ribs or other proteins after confirming fuel. One fire, multiple problems solved.
 - Washed/dried greens — when unpacking groceries
 - Roasted garlic or caramelized onions — when oven is already on
+- **Breakfast burritos ahead of long run days** — make the night before when energy is available, not the morning when it's needed. Freezer-friendly.
 
 ### Protein Planning Per Shopping Trip
 
@@ -190,6 +191,14 @@ Three highest-leverage shifts:
 
 *Chickpea texture note: towel-rub method (drain, dry, rub aggressively) removes most skins. Trader Joe's canned chickpeas are softer. If texture still bothers after a real attempt — skip them. Beans you'll eat beat chickpeas you won't.*
 
+### Chia Seeds *(added June 14, 2026)*
+
+- Ordered and received. First time using them.
+- **Entry point:** Stir 1 tbsp into Oikos vanilla yogurt and eat immediately — slightly crunchy, no gel yet. Lowest friction way to try them.
+- **Chia pudding:** 3 tbsp chia + 1 cup liquid (milk, oat milk, coconut milk). Stir, wait 5 min, stir again, fridge overnight. Top with thawed frozen fruit + spoonful of vanilla Oikos. Different texture than overnight oats — gels more like tapioca.
+- **Why it matters for blood sugar:** High fiber, slows glucose absorption significantly. Chia pudding + Oikos is a solid pre-long-run breakfast option once past the pre-race anxiety window.
+- **Texture verdict:** TBD — try yogurt stir-in first before committing to pudding.
+
 ---
 
 ## 3. Quick Reference
@@ -205,10 +214,10 @@ Three highest-leverage shifts:
 ### Confirmed Techniques
 
 **Grilled chicken batch (confirmed June 14, 2026 — week-of-bowls anchor)**
-Season boneless/skinless thighs and breasts together: s&p, garlic powder, ranch powder. Grill over charcoal (Weber kettle). Cut all up together into chunks once off the grill. Fridge in a container. Thighs carry moisture for the whole batch — nothing gets dry by Wednesday. Use all week in bowls with rotating sauces. One cook session = 5+ dinners.
+Season boneless/skinless thighs and breasts together: s&p, garlic powder, ranch powder. Grill over charcoal (Weber kettle). Chicken is the priority — additional proteins (ribs, etc.) go on after confirming fuel. Cut all up together into chunks once off the grill. Fridge in a container. Thighs carry moisture for the whole batch — nothing gets dry by Wednesday. Use all week in bowls with rotating sauces. One cook session = 5+ dinners.
 
 **Country ribs — Weber kettle (confirmed June 14, 2026)**
-Dry rub (Marty's rock-solid house blend — works on anything). Grill over charcoal. Baste with sauce at the end to caramelize. More sauce on plates. Simple, reliable, good.
+Dry rub (Marty's rock-solid house blend — works on anything). Grill over charcoal, finish under broiler if needed. Baste with sauce at the end to caramelize. More sauce on plates. Simple, reliable, good.
 
 **Stovetop gnocchi with Italian sausage** *(confirmed May 2026 — faster and better than baked)*
 Brown sausage (crumbled or sliced), remove. Cook garlic in fat 30 sec. Add jarred sauce + splash of broth to loosen. Drop gnocchi in uncooked, stir to coat, cover, cook 5–6 min until tender. Add sausage back, spinach, wilt. Parm on top. 20 min, one pan. Gnocchi absorbs the sauce — no boiling water, no separate pot. Confirmed with cudighi + Rao's marinara + lots of spinach.
@@ -352,11 +361,12 @@ Organized by protein — matches how you shop and plan.
 - **Late-night/couch-wake pattern:** June 1 = woke, grabbed chips. June 4 = woke with urge, water + bed. Same trigger, different outcome. Tracking.
 - **End-of-cycle collapse (June 7–13):** Race week + no shopping + cancelled cabin trip = ~1 week of untracked eating out. Entirely predictable from established patterns. Moving forward without reconstruction. This reinforces the urgency of the dedicated end-of-cycle session.
 - **Joint load motivation (identified June 14):** Training runs highlighting joint stress at current weight. Weight loss between now and August 15 has a direct race-day rationale. This is the most concrete motivation that's landed yet — worth holding onto.
+- **Friday shop → weekend cook (identified June 14):** Friday grocery shop (PTO day) → low-key Sunday → big ingredient cook session. Clean sequence worth replicating intentionally. Friday shopping means food lands before the weekend rather than mid-week.
 
 **What's working:**
 - Beans showing up consistently and naturally — no effort required
 - Naked carb awareness solid
-- Prep-before-hungry instinct paying off
+- Prep-before-hungry instinct paying off (breakfast burritos made Friday night for Saturday run)
 - MQT removing midday decision fatigue when available
 - Spinach sneak under egg — volume increasing, zero friction
 - Protein add-ons at restaurants (cudighi on greek pizza) — becoming instinct
@@ -369,9 +379,10 @@ Organized by protein — matches how you shop and plan.
 
 ### Immediate / This Week
 
-- **This week's anchor:** Grilled chicken batch (thighs + breasts) → brown rice → roasted sweet potato + chickpeas → bowl rotations with buffalo and garlic parm sauces
+- **This week's anchor:** Grilled chicken batch in fridge + roasted sweet potato + broccoli/cauliflower → bowl rotations with buffalo and garlic parm sauces
 - **Italian sausage in fridge** — versatile backup if bowl fatigue hits mid-week
 - **Cottage cheese + grapes alongside MQT lunches** — try this week, note if it actually carries into afternoon better
+- **Chia seeds:** Try 1 tbsp stirred into Oikos vanilla, eat immediately — report back on texture before committing to pudding
 - **Cabin trip rescheduled to August** — two-trip framework applies when that comes around
 
 ### Parking Lot
@@ -384,6 +395,7 @@ Organized by protein — matches how you shop and plan.
 - Add fish sauce and kalamata olives to regular shopping list
 - Curry yogurt sauce experiment
 - Chickpea texture — try towel method; Trader Joe's as alternative
+- Chia pudding — try after texture verdict on yogurt stir-in
 
 ---
 
