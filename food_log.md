@@ -18,6 +18,27 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 ## June 2026
 
+### June 15 (Monday — full rest day)
+
+**Breakfast**
+- French toast + sausage
+- ~½ cup Oikos Triple Zero vanilla with berries alongside
+
+**Lunch**
+- Skipped — snacked through the afternoon instead
+
+**Dinner (earlier than usual)**
+- 2 country style pork ribs (from Sunday's cook, leftover)
+- Split bag salad with Nick
+- Idahoan instant mashed potatoes (bag)
+
+**Evening**
+- Split bag of microwave popcorn (butter, not movie theater style) with Nick
+
+*Notes: Full rest day, no activity. French toast carried well into the afternoon — no lunch, just grazing, which is typical for low-structure rest days. Early dinner meant a gap before bed; popcorn filled it. Not a problem — just the rest-day pattern. Oikos alongside french toast was a good instinct — protein + berries with a carb-forward breakfast. Ribs + salad + instant mashed is a solid assembled dinner with zero effort.*
+
+---
+
 ### June 14 (Sunday — recovery day after small loop training run)
 
 **Friday night (June 13) — pre-weekend prep**
@@ -189,6 +210,7 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 ## Emerging Patterns
 
+- **Rest day grazing pattern (emerging):** No-lunch snack drift on low-structure rest days. Breakfast carries well, then grazing fills the gap. Not problematic yet — tracking.
 - **Friday shopping → weekend cook:** June 13 PTO shop → June 14 big cook session. Clean sequence. Friday shopping means groceries land before the weekend rather than mid-week. Worth testing intentionally — even shifting from Saturday shopping to Friday evening.
 - **Prep-before-hungry instinct confirmed:** Friday night breakfast burritos made when energy was available, not when needed Saturday morning. This is the model.
 - **Friday cinnamon roll protocol confirmed (June 5):** Oikos Triple Zero first, then roll, ate less of the roll without trying. Ritual intact, spike blunted. This is the move going forward.
