@@ -5,137 +5,91 @@
 Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each session.
 
 **What we're watching for:**
-- Protein distribution across the day (spread it out; don't back-load it all)
-- Naked carbs — carbs with no protein, fat, or fiber to slow them down
-- Gaps — long stretches without eating that set up late-night chaos
-- Fiber — beans, veg, whole grains showing up consistently
+- Protein distribution across the day
+- Naked carbs
+- Gaps
+- Fiber
 - Patterns around energy, training, and the frozen pizza moments
 
-**Format:** Date → meals as described, loose notes on context when relevant.
+**Format:** Date → meals as described.
 **MQT Nutrition meals** logged as described + noted as MQT.
 
 ---
 
 ## June 2026
 
-### June 15 (Monday — full rest day)
+### June 16 (Tuesday)
 
-**Breakfast**
-- French toast + sausage
-- ~½ cup Oikos Triple Zero vanilla with berries alongside
+**Breakfast — post-beach**
+- ~120g Oikos Triple Zero vanilla + shy 3 tsp chia seeds + <¼ cup Fairlife 2% milk, stirred together, soaked ~1 hour in fridge while at the beach
+- After soak: added another dollop of Oikos (seemed thin), 30g granola, 10–11 raspberries, ½ banana, a few walnuts
+- **Verdict: delicious. Confirmed addition.**
 
-**Lunch**
-- Skipped — snacked through the afternoon instead
+*Notes: Went conservative on chia for the first try. Full serving is 3 tbsp; working up gradually to avoid fiber shock. Fairlife was a smart liquid choice — higher protein than regular milk. Whole bowl = protein, fiber, fat, slow carbs. Thinness after 1 hour = normal at low chia amount; gels more firmly as amount increases. One of the best blood sugar-friendly breakfasts in the rotation.*
 
-**Dinner (earlier than usual)**
-- 2 country style pork ribs (from Sunday's cook, leftover)
-- Split bag salad with Nick
-- Idahoan instant mashed potatoes (bag)
-
-**Evening**
-- Split bag of microwave popcorn (butter, not movie theater style) with Nick
-
-*Notes: Full rest day, no activity. French toast carried well into the afternoon — no lunch, just grazing, which is typical for low-structure rest days. Early dinner meant a gap before bed; popcorn filled it. Not a problem — just the rest-day pattern. Oikos alongside french toast was a good instinct — protein + berries with a carb-forward breakfast. Ribs + salad + instant mashed is a solid assembled dinner with zero effort.*
+**Lunch (planned)**
+- Fattoush salad with grilled chicken (Sunday batch) and feta
+- MQT Nutrition ordered for pickup tomorrow
 
 ---
 
-### June 14 (Sunday — recovery day after small loop training run)
+### June 15 (Monday — full rest day)
 
-**Friday night (June 13) — pre-weekend prep**
-- Made 4 breakfast burritos for Saturday pre-run breakfast
-- Ordered pizza for dinner instead of cooking it
+**Breakfast** — French toast + sausage; ~½ cup Oikos Triple Zero vanilla with berries alongside
+**Lunch** — Skipped, snacked through afternoon
+**Dinner (early)** — 2 country style pork ribs (leftover) + split bag salad + Idahoan instant mashed
+**Evening** — Split bag microwave popcorn (butter) with Nick
 
-*Notes: Classic finishable-before-hungry move — made burritos when there was energy, not when they were needed. Pizza was the right call for Friday night; burritos were there for Saturday.*
+*Notes: Rest day. Grazing pattern — typical for low-structure days. Oikos alongside french toast was a good instinct.*
 
-**Saturday (June 14) — long run day**
-- Breakfast: leftover breakfast burritos (pre-run)
-- Dinner: leftover pizza (post-run early dinner)
+---
 
-*Notes: Post-run recovery via leftover pizza isn't ideal nutritionally but it was real food, it was immediate, and it was already there. Functional.*
+### June 14 (Sunday — recovery day)
 
-**Sunday dinner — ingredient cook session**
-- Dinner: country style pork ribs (family pack) — dry rubbed, started on grill (chicken was priority, ribs went on after confirming enough fuel), finished under broiler with sauce to caramelize. Served with bagged salad and oven-roasted sweet potato cubes.
-- Produced for the week: ~16 chicken thighs + 2 breasts (s&p, garlic, ranch powder — grilled on Weber, cut up and stored in two glass containers), roasted sweet potato cubes (one container), roasted broccoli and cauliflower (one container)
-- Total cook + cleanup: ~2 hours
-
-*Notes: Chicken was the explicit priority — ribs were a bonus once fuel was confirmed. Two full containers of chicken plus sweet potato and veg in the fridge. This is the week handled. Key conditions that made it work: groceries already in the house from Friday shopping (PTO day), low-key recovery Sunday with nothing else competing. Friday shopping → Saturday/Sunday cook is the pattern worth replicating. Brown rice still to do whenever — low friction.*
+**Fri night (June 13)** — Made 4 breakfast burritos for Sat pre-run; ordered pizza for dinner
+**Saturday** — Breakfast: leftover burritos (pre-run). Dinner: leftover pizza (post-run)
+**Sunday dinner — ingredient cook session** — Country style ribs + bagged salad + roasted sweet potato. Produced for week: ~16 chicken thighs + 2 breasts grilled and cut up (2 containers), roasted sweet potato, roasted broccoli and cauliflower. ~2 hours total.
 
 ---
 
 ### June 5 (Friday — pre-race day)
 
-**Breakfast — bakery post-lake-dip**
-- Oikos Triple Zero vanilla yogurt (5.3oz) — eaten first
-- Cinnamon roll — ate just over half, picking at remainder during the day
-- Coffee
-
-*Notes: First Friday with Oikos alongside the cinnamon roll. Ate it before the roll, ate less of the roll without trying. Ritual intact, spike blunted. This is the protocol going forward.*
-
-**Lunch — TBD (MQT or out)**
-
-**Dinner — planned**
-- Meatball bake with garlic bread (pre-race carb load)
-
-*Notes: Meatball bake the night before a 27k is correct. Garlic bread is carbs with purpose, not a splurge.*
+**Breakfast** — Oikos Triple Zero (eaten first) + cinnamon roll (ate just over half) + coffee
+**Dinner** — Meatball bake with garlic bread (pre-race carb load)
 
 ---
 
 ### June 4 (Thursday)
 
-**Breakfast — bakery**
-- Black bean and chorizo breakfast burrito
-
-*Notes: Good protein/fiber combo — beans + chorizo is a solid pairing, not a naked carb. Larger than expected — still full at lunchtime.*
-
-**Lunch — MQT Nutrition (partial)**
-- Bruschetta Chicken: Italian-style chicken with fresh bruschetta, roasted cinnamon sweet potatoes, steamed broccoli
-- Full macros: 327 cal, 37g protein, 33g carbs, 5g fat
-- Only ate ~half — not hungry, didn't love it
-- Approximate intake: ~165 cal, ~18g protein, ~16g carbs, ~2g fat
-
-*Notes: First MQT meal she hasn't finished. Not a behavior problem — ate ahead of hunger because meetings were coming, burrito was bigger than expected, meal wasn't worth pushing through. Reasonable self-regulation.*
-
-**Afternoon**
-- Cold brew with lightly sweetened oat milk (regular)
-
-**Dinner**
-- Carnitas bowl: ~1.5 cup carnitas crisped in skillet, ~3/4 cup brown rice, pickled red onions, cherry tomatoes, cilantro, jalapeño, sour cream
-
-*Notes: Proper execution — crisped in the skillet, not just reheated. Good protein, fiber from veg, not a naked carb. Template locked.*
-
-**Late night (after couch nap)**
-- Urge to snack present after waking on couch. Drank water and went to bed. No snacking.
-
-*Notes: Same couch-wake situation as June 1, different outcome. June 1 = chips. June 4 = water + bed. The urge was real; she didn't act on it.*
+**Breakfast** — Black bean and chorizo breakfast burrito (bakery)
+**Lunch — MQT** — Bruschetta Chicken (ate ~half)
+**Afternoon** — Cold brew with oat milk
+**Dinner** — Carnitas bowl: crisped carnitas + brown rice + pickled red onion + cherry tomatoes + cilantro + jalapeño + sour cream
+**Late night** — Urge after couch nap. Water + bed. No snacking.
 
 ---
 
 ### June 3 (Wednesday)
 
-**Breakfast (post-beach)**
-- Toasted multigrain roma (bakery bread, last of it) with butter, 1/2 serving thin deli ham, over medium egg, spinach wilted under egg, Velveeta cheese slice, small glass OJ
-
-**Lunch — MQT Nutrition**
-- BBQ Chicken Mac & Cheez (vegan) with broccoli — 461 cal, 53g carbs, 37g protein, 10g fat
-
-**Dinner — out with friends**
-- Greek pizza (individual, dinner plate sized): pizza sauce, cheese, spinach, feta, house-made cudighi added for protein. Ate the whole thing.
+**Breakfast** — Toasted multigrain roma + butter + ham + egg + spinach + Velveeta + OJ
+**Lunch — MQT** — BBQ Chicken Mac & Cheez with broccoli
+**Dinner** — Greek pizza with spinach, feta, cudighi (out)
 
 ---
 
 ### June 2 (Tuesday)
 
-**Breakfast** — Cinnamon raisin bagel with cream cheese and bacon (Third Street Bagel, post-lake-dip)
+**Breakfast** — Cinnamon raisin bagel + cream cheese + bacon
 **Lunch — MQT** — Blackened shrimp with coconut rice and mango salsa
-**Dinner (~10pm)** — Frozen pizza (solo). No bedtime snack.
+**Dinner** — Frozen pizza. No bedtime snack.
 
 ---
 
 ### June 1 (Monday)
 
-**Breakfast** — Toasted multigrain roma with butter, ham, egg, spinach, Velveeta, 1/2 grapefruit
-**Lunch** — Upgraded Shin-Black ramen: sautéed onion, garlic, frozen veg, spinach, sesame oil, soy/oyster/chili garlic sauce, ~1/2 chicken breast; noodles melded in skillet, broth poured over
-**Dinner** — Frozen burger patty + cheese on bun, store-bought potato salad, split cowboy cookie with Nick
+**Breakfast** — Toasted multigrain roma + butter + ham + egg + spinach + Velveeta + ½ grapefruit
+**Lunch** — Upgraded Shin-Black ramen with veg, spinach, chicken
+**Dinner** — Frozen burger + cheese on bun + potato salad + split cowboy cookie with Nick
 **1am** — Handful of tortilla chips (woke on couch, gap-driven)
 
 ---
@@ -144,19 +98,18 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 ### May 31 (Sunday)
 
-**Breakfast** — Toasted multigrain roma with butter, ham, egg, Velveeta, 1/2 grapefruit
-**Lunch** — Leftover guac + tortilla chips, ~5oz hummus, pita chips, cucumber, red pepper
-**Post-ride snack** — Ritz PB crackers
-**Evening** — Beer at brewery rooftop, ice cream at Frosty Treats
-**Dinner** — PB&J sandwich *(no dessert after)*
+**Breakfast** — Toasted multigrain roma + butter + ham + egg + Velveeta + ½ grapefruit
+**Lunch** — Leftover guac + chips, hummus, pita chips, cucumber, red pepper
+**Post-ride** — Ritz PB crackers
+**Evening** — Beer at brewery, ice cream at Frosty Treats
+**Dinner** — PB&J *(no dessert after)*
 
 ---
 
 ### May 30 (Saturday — long run day)
 
-**Breakfast** — Oikos Triple Zero, 60g granola, raspberries, banana
-**Pre-run** — Cold brew with oat milk
-**Post-run** — Scratch Recovery drink (in cooler) ✓
+**Breakfast** — Oikos Triple Zero + 60g granola + raspberries + banana
+**Post-run** — Scratch Recovery drink ✓
 **Post-run meal** — Leftover gnocchi with cudighi ✓
 **Evening** — Smashburger delivery, ~half fries, bourbon and coke
 **Before bed** — Sweet Tarts + PB + choc chips
@@ -165,61 +118,60 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 ### May 29 (Friday)
 
-**Breakfast** — Cinnamon roll + coffee, bakery post-lake-jump
+**Breakfast** — Cinnamon roll + coffee
 **Lunch** — Greek salad with gyro + feta (delivery; won't reorder)
-**Dinner** — Burrito bowl: brown rice, leftover ribeye + charred corn, guac, tomatoes, lite sour cream
+**Dinner** — Burrito bowl: brown rice + leftover ribeye + charred corn + guac + tomatoes + lite sour cream
 **Before bed** — Mini Oreos
 
 ---
 
-### May 28 (Thursday — no MQT)
+### May 28 (Thursday)
 
-**Breakfast** — Canadian bacon + fried egg + American cheese on buttered toast, 1/2 grapefruit
-**Lunch** — 1/2 Street Corn bag salad + ~4.5oz grilled chicken
-**Dinner** — 2 slices pizza (film festival submission night; no dessert)
+**Breakfast** — Canadian bacon + fried egg + American cheese on buttered toast + ½ grapefruit
+**Lunch** — ½ Street Corn bag salad + ~4.5oz grilled chicken
+**Dinner** — 2 slices pizza (no dessert)
 
 ---
 
-### May 27 (Wednesday — no MQT)
+### May 27 (Wednesday)
 
 **Breakfast** — Leftover breakfast burrito
-**Lunch** — 1/2 baked sweet potato + black beans + ~6oz grilled chicken + lite sour cream + pickled red onion, cilantro, jalapeño, hot sauce
-**Dinner** — Stovetop gnocchi with cudighi, Rao's, spinach, parm + mozz (half saved for post-run)
+**Lunch** — ½ baked sweet potato + black beans + ~6oz grilled chicken + lite sour cream + pickled red onion + cilantro + jalapeño + hot sauce
+**Dinner** — Stovetop gnocchi with cudighi + Rao’s + spinach + parm
 **Before bed** — PB + choc chips
 
 ---
 
-### May 26 (Tuesday — no MQT)
+### May 26 (Tuesday)
 
 **Breakfast** — Oikos Triple Zero + granola + raspberries + banana
 **Lunch** — Chipotle bag salad + black beans + Foreman chicken
-**Dinner** — Ribeye + 1/2 sweet potato + broccolini
+**Dinner** — Ribeye + ½ sweet potato + broccolini
 **Later** — Vanilla ice cream + caramel + chocolate sauce
 
 ---
 
-### May 25 (Sunday — Memorial Day, no MQT)
+### May 25 (Sunday — Memorial Day)
 
-**Breakfast** — Breakfast burritos (sausage, egg/egg beaters, black beans, cheddar, jalapeño, onion; OJ alongside)
-**Lunch** — Skipped (eMTB ride + chores)
+**Breakfast** — Breakfast burritos (sausage, egg/egg beaters, black beans, cheddar, jalapeño, onion)
 **Pre-dinner** — Banana + crackers + cheddar
-**Dinner** — ~1/2 slab baby back ribs + potato salad + pit beans
+**Dinner** — ~½ slab baby back ribs + potato salad + pit beans
 **Before bed** — PB + choc chips
 
 ---
 
 ## Emerging Patterns
 
-- **Rest day grazing pattern (emerging):** No-lunch snack drift on low-structure rest days. Breakfast carries well, then grazing fills the gap. Not problematic yet — tracking.
-- **Friday shopping → weekend cook:** June 13 PTO shop → June 14 big cook session. Clean sequence. Friday shopping means groceries land before the weekend rather than mid-week. Worth testing intentionally — even shifting from Saturday shopping to Friday evening.
-- **Prep-before-hungry instinct confirmed:** Friday night breakfast burritos made when energy was available, not when needed Saturday morning. This is the model.
-- **Friday cinnamon roll protocol confirmed (June 5):** Oikos Triple Zero first, then roll, ate less of the roll without trying. Ritual intact, spike blunted. This is the move going forward.
-- **Late-night/couch-wake pattern:** June 1 = woke, grabbed chips. June 4 = woke with urge, water + bed. Same trigger, different outcome. Tracking.
-- **Dessert ritual:** Five consecutive evenings (May 25–30), absent May 31, June 2, June 4. Possibly shifting. Tracking, not addressing.
+- **Chia yogurt bowl CONFIRMED (June 16):** First try = delicious. Working up from ~3 tsp toward 3 tbsp gradually. Fairlife as liquid is a good choice. Full build is one of the best blood sugar-friendly breakfasts in the rotation.
+- **Rest day grazing (emerging):** No-lunch snack drift on low-structure days. Tracking.
+- **Friday shopping → weekend cook:** Confirmed June 13–14. Worth replicating intentionally.
+- **Prep-before-hungry instinct confirmed:** Burritos made Friday night, eaten Saturday.
+- **Friday cinnamon roll protocol (June 5):** Oikos first → ate less roll. Permanent protocol.
+- **Late-night/couch-wake:** June 1 = chips. June 4 = water + bed. Tracking.
+- **Dessert ritual:** Tracking, not addressing.
 - **Beans landing naturally** — no effort required.
-- **Naked carb awareness working** — most meals properly paired.
-- **Carnitas bowl confirmed template (June 4):** ~1.5 cup crisped carnitas + ~3/4 cup brown rice + pickled red onion + cherry tomatoes + cilantro + jalapeño + sour cream.
-- **Ingredient cook session (June 14):** First full execution. ~2 hours, kitchen clean. Chicken was the priority; ribs were bonus. Two containers of chicken + sweet potato + veg in the fridge. Conditions: Friday grocery shop, low-key recovery Sunday.
+- **Naked carb awareness** — solid.
+- **Ingredient cook session (June 14):** First full execution. Two containers of chicken + sweet potato + veg. Week handled.
 
 ---
 
