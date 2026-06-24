@@ -6,6 +6,40 @@
 
 ## Session Log
 
+### June 24, 2026 — Session 5
+
+**Scope:** New persona creation — 6A, Single-Income Transition Planning. First brand-new prompt added since the initial five.
+
+**Context:** Nick's job is at meaningful risk of elimination as early as August 2026 (he's nearly 60). Marty wants to determine whether the household can run on her salary alone, so Nick can be done working rather than pushed into a new job at this stage of his life. A transition is already underway: restructuring paycheck deposits so Marty's checking deposit covers expenses and both incomes otherwise build savings, with existing credit card balances and Nick's $500/mo Jeep payment identified as prerequisites to clear.
+
+**Changes made:**
+
+1. **6A prompt created** — Full persona following the 1A model (three-paragraph opening: who/what's at stake, how the practical and emotional hold together, where the lane ends). Added to prompt_library.md after 5A.
+2. **Companion doc created** — `financial_transition_plan.md`, structured on the established information-architecture pattern (context, the plan, quick reference, decisions log, open questions) seeded with the current vs. target paycheck numbers and known prerequisites.
+3. **"How to Use" section updated** — Added the 6A entry following the existing pattern.
+4. **6A reuses the "6A" slot** previously flagged in the open work list as a placeholder for a future YouTube/content prompt. That prompt, if built, becomes 7A.
+5. **Pay frequency confirmed** — Biweekly, with some months carrying 3 paychecks per person. Flagged in the companion doc as a built-in savings-cushion window worth surfacing when those months land.
+
+**New principles established:**
+
+- **Not-a-licensed-X lane-flagging extends beyond medical.** 1B already established "not a physician, defer on medical specifics." 6A applies the same pattern to finance: not a licensed financial planner/CPA/fiduciary — defer on tax filing, retirement withdrawal rules, severance/COBRA terms, and legal matters. This is now a reusable pattern for any domain-expert persona: name the lane, name what falls outside it, defer explicitly.
+- **Emotional calibration scales with stakes.** 1A's "warm and light-hearted, know when to lead with comfort vs. solution" framing was the model, but 6A dials it up further ("default to gentle and steady," explicit anti-deprivation framing) because the subject — a spouse's involuntary career exit at nearly 60 — carries more weight than kitchen logistics. Confirmed by Marty as the right calibration.
+- **A persona can center a third party.** 6A is the first prompt where the emotional stakes belong partly to someone who isn't in the conversation (Nick). The persona explicitly names whose dignity and peace of mind are in play, not just Marty's.
+
+**Open work list (updated):**
+- [ ] Create streamdeck_project_state.md (3A companion doc doesn't exist yet)
+- [ ] Confirm GoPro capture resolution for Hero12 and Hero11 Mini (TBD in 2B)
+- [ ] Confirm project frame rate (TBD in 2B)
+- [ ] Clarify "one additional Mac (TBD)" in 4A USER PROFILE
+- [ ] Consider a YouTube/content creation prompt (would now be 7A, since 6A is taken) as Marty's channel grows
+- [ ] Update 2A PROJECT STATUS — film was due May 31; confirm submission status
+- [ ] Consider developing full personas for 2A, 2B, 3A, 4A following the 1A model
+- [ ] Populate financial_transition_plan.md Sections 3–6 (debt balances, monthly bills, retirement account status, severance/COBRA details) in first working 6A session
+
+---
+
+## Session Log
+
 ### May 31, 2026 — Session 4
 
 **Scope:** 1A deep restructure — companion doc reorganization, prompt cleanup, and food log framing evolution.
@@ -176,7 +210,7 @@
 ## Established Principles
 
 **Companion doc retrieval pattern:**
-All prompts retrieve their docs via GitHub MCP before saying anything else. Graceful fallback where doc may not yet exist (currently 3A).
+All prompts retrieve their docs via GitHub MCP before saying anything else. Graceful fallback where doc may not yet exist (currently 3A, 6A).
 
 **Ownership model — each companion doc has one owning prompt:**
 - adhd_athlete_kitchen_plan.md → 1A (read/write)
@@ -185,6 +219,7 @@ All prompts retrieve their docs via GitHub MCP before saying anything else. Grac
 - streamdeck_project_state.md → 3A (read/write)
 - MCP_server_setup_status.md → 4A (read/write)
 - refining_prompt_library_state.md → 5A (read/write)
+- financial_transition_plan.md → 6A (read/write)
 
 **SESSION CLOSE RULE standard:**
 Every prompt updates its companion doc + the relevant section of prompt_library.md + the "Last updated" date at the bottom.
@@ -221,7 +256,7 @@ Used in 2B and 5A to set session scope before companion doc locations. Available
 A full persona opening (not just a job title) gives Claude a character to inhabit, which improves consistency of voice and emotional calibration. 1A is the model. Others may benefit in future sessions.
 
 **Draft-first principle (established May 6):**
-Technical or structural changes → execute directly. Creative or voice decisions (personas, tone framing, narration, significant rewrites) → show a draft first, get approval, then push. Applies in 2A and 5A; likely applies in any prompt where voice/tone is part of the output.
+Technical or structural changes → execute directly. Creative or voice decisions (personas, tone framing, narration, significant rewrites) → show a draft first, get approval, then push. Applies in 2A and 5A; likely applies in any prompt where voice/tone is part of the output. Confirmed again June 24 when 6A was drafted and reviewed before pushing.
 
 **Domain-specific expertise principle (established May 6):**
 Learning style and prior knowledge are domain-specific, not uniform:
@@ -235,6 +270,12 @@ Learning style and prior knowledge are domain-specific, not uniform:
 
 **Persona captures the whole person (established May 30):**
 The 1A persona now names Marty's actual life context — not just the problem domain. This gives Claude the frame to understand what she's balancing, not just what she's asking for help with.
+
+**Not-a-licensed-X lane-flagging (established June 24):**
+Domain-expert personas should name their lane and explicitly defer outside it — 1B does this for medicine, 6A does this for tax/retirement/legal financial matters. Reusable pattern for future personas with professional-advice adjacency.
+
+**Emotional calibration scales with stakes (established June 24):**
+1A's "warm, know when to lead with comfort vs. solution" is the baseline. Higher-stakes domains (6A: a spouse's involuntary career exit) get the calibration dialed up further — explicit gentleness, explicit anti-deprivation framing — rather than reusing the baseline as-is.
 
 ---
 
@@ -252,3 +293,4 @@ The 1A persona now names Marty's actual life context — not just the problem do
 - Reorientation phrase matters: "Re-read the docs and reorient" triggers MCP retrieval. Conversational openers do not. Worth reinforcing this as a habit.
 - On companion docs: wants them useful for her own reference, not just for Claude. Structure matters for human readability too.
 - On the food log: day-to-day accountability is valuable and should be preserved, but the longer-term lens is equally important. Both need to be held simultaneously.
+- On 6A: a new persona can carry weight for someone who isn't in the room (Nick) — confirmed this should be named explicitly rather than left implicit.
