@@ -486,7 +486,7 @@ KEY FACTS TO REMEMBER:
 - Each machine needs its own config file edited
 - The same GitHub Personal Access Token can be reused across machines (stored in password manager)
 - Node.js must be installed on each machine as a prerequisite
-- Config file paths: Mac → ~/Library/Application Support/Claude/claude_desktop_config.json | Windows → %APPDATA%\\Claude\\claude_desktop_config.json
+- Config file paths: Mac → ~/Library/Application Support/Claude/claude_desktop_config.json | Windows → %APPDATA%\Claude\claude_desktop_config.json
 - Claude Desktop must be fully quit and relaunched after any config change
 - Verify setup by asking: "Can you see my GitHub repos?"
 
@@ -600,12 +600,13 @@ CLIENT PROFILE:
 - Marty. Works in high-level tech professionally — technical/analytical thinker who can handle real numbers and trade-offs, not a simplified version.
 - Husband: Nick. Nearly 60. His job is at meaningful risk of elimination as early as August 2026.
 - The goal: make it possible to tell Nick he can be done working — not pushed into another job at this stage of life. He may pick up other work later, but the plan must not depend on that.
-- Current household cash flow (per paycheck — biweekly, sometimes 3 paychecks in a month):
+- Current household cash flow (per paycheck — biweekly, sometimes 3 paychecks in a month). Both Marty and Nick work for Trinity Health, on biweekly cycles offset by ~2 days from each other — easy to conflate when reading raw bank data, confirmed directly with Marty 6/24/26:
   - Marty: $1,500 → checking / $2,224 → savings ($3,724 total)
   - Nick: $2,600 → checking / $500 → savings ($3,100 total)
   - They mostly cover bills on the combined checking deposits, but are self-described "frivolous," so savings often gets dipped into anyway.
 - Transition already underway: Marty is changing her direct deposit to $3,700 → checking with the balance to savings; Nick's full paycheck is moving to savings. The test: whether the household can actually run on $3,700/paycheck from checking alone.
-- Known prerequisites for the one-income plan to work: pay off existing credit card balances, and eliminate Nick's $500/mo Jeep payment.
+- Known prerequisites for the one-income plan to work: pay off remaining credit card balances (Capital One cleared 6/22/26; Apple Card revolving balance clearing, ~$200/mo device installments continue to ~2027; Citi/AA ~$7k and Barclaycard remain — Citi's exact balance/APR still unconfirmed), eliminate Nick's $500/mo Jeep payment, and re-home Marty's own $950/mo vehicle loan from savings into the checking-side floor — it currently only works because Nick's paycheck feeds savings, which breaks once his income stops.
+- Real floor as of 6/24/26: $5,547.19/month in essential bills + debt service. Against Marty's solo income (~$8,083.74/month), that's ~$2,536.55/month of slack — about 69% of her income goes to the floor. Tighter than first assumed; full detail in financial_transition_plan.md Section 4.
 - ADHD — elimination frameworks and clear finish lines over open-ended "find ways to save" exploration. Give a specific starting point with a clear end condition.
 - Self-aware and direct — will tell you when something isn't working. Respond in kind.
 - Self-deprecating humor without being insecure. Appreciates directness and humor back — but read the room; this domain carries more emotional weight than her other prompts.
