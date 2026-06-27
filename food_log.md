@@ -18,6 +18,49 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 ## June 2026
 
+### June 27 (Saturday — shopping day)
+
+*Grocery run today. Chicken confirmed. Pork TBD at store. Planning grill session Sunday.*
+
+---
+
+### June 17–26 (Week 2 bowl framework)
+
+*Partial recall — framework held. No MQT ordered; lunches made from prep ingredients most days.*
+
+**Confirmed meals this week:**
+- Chicken fattoush salad
+- Steak salad
+- Chicken bowl with greek-yogurt-based ranch + Melinda's habanero + lightly dressed arugula + brown rice
+- Chicken + sweet potatoes + BBQ sauce
+- Steak bowls with brown rice + sweet potato + fresh-made guac (avo, jalapeño, lime, salt)
+- Farmer's market meal (Wednesday)
+- Papa Murphy's pizza (lunch, one day)
+
+**Produce this week:** 3lb chicken breast + 3lb chicken thighs + 2–3lb top sirloin grilled Monday 6/23 after work. 3 large sweet potatoes roasted. Frozen pizza dinner after the cook session.
+
+**Remaining as of June 27:** ½ cooked chicken, some steak, brown rice, sweet potato. Plan: freeze chicken; finish rest before waste.
+
+*Notes: Second consecutive week of bowl framework execution. Nick actively participated in prep this week. MQT gap didn't crater lunches — bowl prep replaced it. 50/50 thigh-to-breast ratio dialed in (first week was too thigh-heavy, felt rich). Penzey's seasoned salt + garlic powder + ranch powder + cracked black pepper confirmed as the seasoning build. One frozen pizza in the week. Ground beef purchased but went bad unused — confirmed skip-list protein going forward unless purpose is committed before cart.*
+
+---
+
+### June 17–20 (Week 1 bowl framework — additional meals recalled)
+
+*Additions to what was already logged on June 14–16:*
+- Country ribs one night with instant mashed + frozen steamable veg
+- Country ribs another night with roasted sweet potato + roasted veg
+- Chicken fattoush salad
+- Chicken taco salad
+- Chicken bowl with brown rice + Melinda's habanero wing sauce
+- Chicken Greek-style with brown rice + lemon/dill Greek yogurt sauce + cherry tomatoes + cucumbers
+- Cudighi on naan pizza (made from leftover cudighi — longer fridge life than ground beef, zero-decision execution)
+- 1 frozen pizza, 1 meal out
+
+*Notes: No MQT that week either — bowl prep handled lunches. Framework held through 9:30pm dinners. Nick on board.*
+
+---
+
 ### June 16 (Tuesday)
 
 **Breakfast — post-beach**
@@ -137,7 +180,7 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 **Breakfast** — Leftover breakfast burrito
 **Lunch** — ½ baked sweet potato + black beans + ~6oz grilled chicken + lite sour cream + pickled red onion + cilantro + jalapeño + hot sauce
-**Dinner** — Stovetop gnocchi with cudighi + Rao’s + spinach + parm
+**Dinner** — Stovetop gnocchi with cudighi + Rao's + spinach + parm
 **Before bed** — PB + choc chips
 
 ---
@@ -162,16 +205,18 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 ## Emerging Patterns
 
-- **Chia yogurt bowl CONFIRMED (June 16):** First try = delicious. Working up from ~3 tsp toward 3 tbsp gradually. Fairlife as liquid is a good choice. Full build is one of the best blood sugar-friendly breakfasts in the rotation.
+- **Bowl framework sustained TWO consecutive weeks (June 14–26):** Framework held without MQT both weeks. Nick is now an active prep participant. 50/50 thigh-to-breast ratio confirmed. Penzey's seasoned salt + garlic powder + ranch powder + cracked black pepper = the seasoning build.
+- **Bowl prep replaces MQT:** When bowl framework is running, no MQT needed for lunch decisions. Same outcome, different mechanism.
+- **Ground beef = skip list:** Doesn't last, requires in-moment decision. Only buy with committed purpose within 2 days. Cudighi/Italian sausage is the better bench protein — longer fridge life, zero-decision execution.
+- **Chia yogurt bowl CONFIRMED (June 16, still holding June 27):** Obsessed. Working up from ~3 tsp toward 3 tbsp gradually. Fairlife as liquid is the move.
 - **Rest day grazing (emerging):** No-lunch snack drift on low-structure days. Tracking.
-- **Friday shopping → weekend cook:** Confirmed June 13–14. Worth replicating intentionally.
+- **Friday shopping → weekend cook:** Confirmed June 13–14, repeating June 27–28. Worth replicating intentionally.
 - **Prep-before-hungry instinct confirmed:** Burritos made Friday night, eaten Saturday.
 - **Friday cinnamon roll protocol (June 5):** Oikos first → ate less roll. Permanent protocol.
 - **Late-night/couch-wake:** June 1 = chips. June 4 = water + bed. Tracking.
 - **Dessert ritual:** Tracking, not addressing.
 - **Beans landing naturally** — no effort required.
 - **Naked carb awareness** — solid.
-- **Ingredient cook session (June 14):** First full execution. Two containers of chicken + sweet potato + veg. Week handled.
 
 ---
 
