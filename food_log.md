@@ -18,9 +18,17 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 ## June 2026
 
-### June 27 (Saturday — shopping day)
+### June 27 (Saturday — shopping day + session)
 
-*Grocery run today. Chicken confirmed. Pork TBD at store. Planning grill session Sunday.*
+*Grocery run complete. Haul: family pack thin-cut bone-in pork chops, 2.5–3lb chicken breast, ~same thighs, 1lb cudighi, sweet potatoes, broccoli. Last week's steak eaten down in quesadillas.*
+
+**Dinner tonight or tomorrow:** Grilled thin-cut bone-in pork chops — fast over direct heat (3–4 min/side), dinner the night of. Leftovers → fried rice.
+
+**Grill session planned Sunday:** Chicken (50/50 thighs + breasts, Penzey's seasoned salt + garlic powder + ranch powder + cracked black pepper) → cut up → containers → bowl week. Sweet potato + broccoli roasted same session.
+
+**New pantry addition:** Chili crisp — confirmed excellent, hype warranted. Savory/umami depth from fried shallots and garlic. Goes on: chicken rice bowls (soy + sesame), fried rice at the end, eggs, pork chops, savory cottage cheese.
+
+**Sauce rotations this week:** Greek/med-inspired, Mexican/taco-inspired, wing sauce-inspired, Asian-inspired (soy + sesame oil + rice vinegar + chili crisp, or gochujang stirred in).
 
 ---
 
@@ -37,11 +45,11 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 - Farmer's market meal (Wednesday)
 - Papa Murphy's pizza (lunch, one day)
 
-**Produce this week:** 3lb chicken breast + 3lb chicken thighs + 2–3lb top sirloin grilled Monday 6/23 after work. 3 large sweet potatoes roasted. Frozen pizza dinner after the cook session.
+**Proteins this week:** 3lb chicken breast + 3lb chicken thighs + 2–3lb top sirloin grilled Monday 6/23 after work. 3 large sweet potatoes roasted. Frozen pizza dinner after the cook session.
 
-**Remaining as of June 27:** ½ cooked chicken, some steak, brown rice, sweet potato. Plan: freeze chicken; finish rest before waste.
+**Remaining as of June 27:** ½ cooked chicken (freezing), some steak (finished in quesadillas), brown rice, sweet potato.
 
-*Notes: Second consecutive week of bowl framework execution. Nick actively participated in prep this week. MQT gap didn't crater lunches — bowl prep replaced it. 50/50 thigh-to-breast ratio dialed in (first week was too thigh-heavy, felt rich). Penzey's seasoned salt + garlic powder + ranch powder + cracked black pepper confirmed as the seasoning build. One frozen pizza in the week. Ground beef purchased but went bad unused — confirmed skip-list protein going forward unless purpose is committed before cart.*
+*Notes: Second consecutive week of bowl framework execution. Nick actively participated in prep this week. MQT gap didn't crater lunches — bowl prep replaced it. 50/50 thigh-to-breast ratio dialed in. Penzey's seasoned salt + garlic powder + ranch powder + cracked black pepper confirmed as the seasoning build. One frozen pizza in the week. Ground beef purchased but went bad unused — confirmed skip-list protein.*
 
 ---
 
@@ -68,7 +76,7 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 - After soak: added another dollop of Oikos (seemed thin), 30g granola, 10–11 raspberries, ½ banana, a few walnuts
 - **Verdict: delicious. Confirmed addition.**
 
-*Notes: Went conservative on chia for the first try. Full serving is 3 tbsp; working up gradually to avoid fiber shock. Fairlife was a smart liquid choice — higher protein than regular milk. Whole bowl = protein, fiber, fat, slow carbs. Thinness after 1 hour = normal at low chia amount; gels more firmly as amount increases. One of the best blood sugar-friendly breakfasts in the rotation.*
+*Notes: Went conservative on chia for the first try. Full serving is 3 tbsp; working up gradually to avoid fiber shock. Fairlife was a smart liquid choice — higher protein than regular milk. Whole bowl = protein, fiber, fat, slow carbs. One of the best blood sugar-friendly breakfasts in the rotation.*
 
 **Lunch (planned)**
 - Fattoush salad with grilled chicken (Sunday batch) and feta
@@ -205,12 +213,14 @@ Claude retrieves this file from GitHub (corporatehippy/Claude) via MCP each sess
 
 ## Emerging Patterns
 
-- **Bowl framework sustained TWO consecutive weeks (June 14–26):** Framework held without MQT both weeks. Nick is now an active prep participant. 50/50 thigh-to-breast ratio confirmed. Penzey's seasoned salt + garlic powder + ranch powder + cracked black pepper = the seasoning build.
+- **Bowl framework sustained TWO consecutive weeks (June 14–26), entering week 3 (June 28+):** Framework held without MQT both weeks. Nick is now an active prep participant. 50/50 thigh-to-breast ratio confirmed. Penzey's seasoned salt + garlic powder + ranch powder + cracked black pepper = the seasoning build.
 - **Bowl prep replaces MQT:** When bowl framework is running, no MQT needed for lunch decisions. Same outcome, different mechanism.
-- **Ground beef = skip list:** Doesn't last, requires in-moment decision. Only buy with committed purpose within 2 days. Cudighi/Italian sausage is the better bench protein — longer fridge life, zero-decision execution.
-- **Chia yogurt bowl CONFIRMED (June 16, still holding June 27):** Obsessed. Working up from ~3 tsp toward 3 tbsp gradually. Fairlife as liquid is the move.
+- **Ground beef = skip list:** Doesn't last, requires in-moment decision. Only buy with committed purpose within 2 days. Cudighi/Italian sausage is the better bench protein.
+- **Thin-cut pork chops → fried rice:** Fast grill protein that transitions cleanly into fried rice with leftover rice. Confirmed direction June 27.
+- **Chili crisp added to pantry (June 27):** Confirmed excellent. Goes on bowls, fried rice, eggs, pork chops, savory cottage cheese.
+- **Chia yogurt bowl CONFIRMED and holding:** Still obsessed as of June 27. Building toward 3 tbsp gradually.
 - **Rest day grazing (emerging):** No-lunch snack drift on low-structure days. Tracking.
-- **Friday shopping → weekend cook:** Confirmed June 13–14, repeating June 27–28. Worth replicating intentionally.
+- **Friday shopping → weekend cook:** Three consecutive weekends now. Deliberate pattern.
 - **Prep-before-hungry instinct confirmed:** Burritos made Friday night, eaten Saturday.
 - **Friday cinnamon roll protocol (June 5):** Oikos first → ate less roll. Permanent protocol.
 - **Late-night/couch-wake:** June 1 = chips. June 4 = water + bed. Tracking.

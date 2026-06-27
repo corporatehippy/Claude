@@ -647,5 +647,5 @@ After retrieving the companion document, begin with a brief status summary: wher
 
 ---
 
-*Last updated: June 24, 2026*
+*Last updated: June 27, 2026*
 *Claude updates project state docs and prompt_library.md directly via GitHub MCP at session close.*

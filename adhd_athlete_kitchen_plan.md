@@ -23,7 +23,7 @@ Companion files:
 - Owns a good wok — confirmed in active use
 - **Camp kitchen:** Coleman 2-burner + large carbon steel skillet + pot. Confirmed go-to meals: taco bowls, shepherd's pie skillet, thin-cut pork chops + instant mashed + bag salad.
 - MQT Nutrition: macro-balanced lunches from local meal prep service when available — removes midday decision fatigue. **Note: when bowl framework is running, MQT is optional — bowl prep handles lunch decisions equivalently.**
-- Shopping rhythm: aims for every 2–3 weeks. **Known pattern: trips stretching to 4 weeks = crashes. Friday shopping → weekend cook is the better sequence. Confirmed replicating June 27.**
+- Shopping rhythm: aims for every 2–3 weeks. **Known pattern: trips stretching to 4 weeks = crashes. Friday shopping → weekend cook is the better sequence. Now three consecutive weekends (June 13, 20, 27).**
 
 ### Current Friction Points
 
@@ -59,9 +59,9 @@ Companion files:
 | Grain Bowl | Cooked grain + protein + acid + fat + greens (optional) | Rice + dutch oven meat + lemon + avocado |
 | Quick Skillet | Fat + aromatics + protein + sauce → serve over grain | Sausage + onion + jarred tomatoes over pasta |
 | Dump and Bake | Everything in the vessel + oven + time | Meatball pasta bake, gnocchi, white bean bake |
-| **Ingredient Grill** | Season proteins → grill all at once → cut up → fridge → week of bowls | Chicken thighs + breasts, country ribs, top sirloin |
+| **Ingredient Grill** | Season proteins → grill all at once → cut up → fridge → week of bowls | Chicken thighs + breasts, country ribs, top sirloin, thin pork chops |
 
-### Chicken Bowl Framework *(confirmed June 14; sustained two consecutive weeks through June 26)*
+### Chicken Bowl Framework *(confirmed June 14; sustained two consecutive weeks through June 26; entering week 3)*
 
 **The build:** Grilled chicken (thighs + breasts mixed, Penzey's seasoned salt + garlic powder + ranch powder + cracked black pepper, charcoal Weber) → cut up together → fridge → assemble bowls all week.
 
@@ -75,6 +75,7 @@ Companion files:
 - Lemon/dill Greek yogurt sauce → cherry tomatoes + cucumbers (Greek-style)
 - BBQ sauce → chicken + sweet potato
 - Garlic parm wing sauce → Greek/med-style (feta, olives, cucumber, lemon)
+- **Asian-inspired:** soy + sesame oil + rice vinegar + chili crisp (or gochujang stirred in) → cucumber, scallion, rice
 
 **Salad builds confirmed:**
 - Fattoush with feta and chicken
@@ -86,6 +87,14 @@ Companion files:
 **Nick-compatible:** Yes. Bowl format = everyone customizes. Nick now actively participates in prep.
 
 **Freezer note:** Excess cooked chicken freezes well. Freeze what won't be eaten by end of week.
+
+### Thin-Cut Pork Chop Framework *(confirmed June 27)*
+
+**The build:** Bone-in thin-cut pork chops → grill over direct heat, 3–4 min/side → done. Fast. Dinner the night of.
+
+**Leftover direction:** Slice up → fried rice. The char from the grill adds depth you don't get from plain ground pork. Better fried rice protein than most.
+
+**Not a bowl protein** — these are plate proteins (chop + side), not chunk-and-assemble like chicken or steak.
 
 ### Two-Trip Shopping Framework *(established June 4, 2026)*
 
@@ -106,6 +115,7 @@ Companion files:
 | Cudighi / Italian sausage | Brown it and put it on stuff. Longer fridge life. Zero-decision. Preferred bench protein over ground beef. |
 | Ground pork | Larb bowl or ginger pork rice bowl |
 | Pork shoulder | Carnitas or Italian pulled pork |
+| Thin-cut bone-in pork chops | Direct grill heat → dinner. Leftovers → fried rice. |
 | Country ribs | Dry rub → Weber → sauce at the end. Grills alongside chicken. |
 | Top sirloin | Grill alongside chicken → slice → steak bowls + steak salad. |
 | Baby back ribs | Weber kettle (technique confirmed) |
@@ -124,6 +134,7 @@ Companion files:
 | Chicken thighs | Sheet Pan | Any frozen veg, olive oil, seasoning |
 | Chicken breasts | Foreman → fridge ingredient | Nothing extra needed |
 | Top sirloin | Grill → bowl week | Same session as chicken; guac ingredients if making fresh |
+| Thin-cut bone-in pork chops | Grill → dinner + fried rice | Leftover rice for fried rice |
 | Ground beef | Only buy with committed purpose | Must cook within 2 days |
 | Ground pork | Larb bowl | Fish sauce, lime, chili flake, rice, cucumber |
 | Ground pork | Ginger pork bowl | Garlic, ginger, soy, mirin, rice |
@@ -141,7 +152,7 @@ Companion files:
 | Cooked or easy protein | Rotisserie chicken, canned fish, hard-boiled eggs, leftover dutch oven meat, deli meat, pre-cooked sausage, frozen shrimp, **grilled chicken batch**, grilled steak batch |
 | Cooked or quick grain | Leftover rice, farro, barley, pasta, tortillas, bread |
 | Zero-prep vegetable | Frozen veg, pre-washed greens, cherry tomatoes, bagged slaw, canned beans |
-| Sauce / flavor bomb | Jarred salsa, pasta sauce, miso, soy sauce, pesto, hot sauce, chipotles in adobo, Thai red curry paste, fish sauce, **buffalo sauce, garlic parm wing sauce, Melinda's habanero** |
+| Sauce / flavor bomb | Jarred salsa, pasta sauce, miso, soy sauce, pesto, hot sauce, chipotles in adobo, Thai red curry paste, fish sauce, **buffalo sauce, garlic parm wing sauce, Melinda's habanero, chili crisp** |
 | Fat | Olive oil, butter, avocado, tahini |
 | Salad pantry | Kalamata olives, pepperoncini, roasted red peppers (jarred), dried cranberries, walnuts/slivered almonds, feta (in brine), pita chips, balsamic vinaigrette, Italian dressing |
 
@@ -151,7 +162,7 @@ Companion files:
 - Big batch of grains — 30–40 min hands-off
 - Hard-boiled eggs while water is boiling for something else
 - Foreman grill 2–3 chicken breasts on shopping day → slice → fridge
-- **Grill all proteins in one session** — chicken first, then steak/ribs after confirming fuel
+- **Grill all proteins in one session** — chicken first, then steak/ribs/chops after confirming fuel
 - **Breakfast burritos ahead of long run days** — night before, not morning of
 - **Freeze excess grilled chicken** — don't let it sit past the week
 
@@ -168,8 +179,14 @@ Companion files:
 - **Why a milk splash matters:** Without extra liquid, chia pulls moisture from the yogurt and gets gummy. Fairlife or regular milk keeps it creamy.
 - **Gradual ramp-up:** Start with ~3 tsp, work toward 3 tbsp (1 full serving) over 1–2 weeks. Jumping to full serving from zero = a lot of fiber introduction at once.
 - **Full build (confirmed June 16):** ~120g Oikos Triple Zero + ~3 tsp chia + small pour Fairlife 2%, soak 1 hour, top with 30g granola + raspberries + ½ banana + walnuts. Protein, fiber, fat, slow carbs — excellent blood sugar response.
-- **Overnight pudding option:** 3 tbsp chia + 1 cup liquid (milk, oat milk, coconut milk). Stir, wait 5 min, stir again, fridge overnight. Top with thawed frozen fruit + spoonful of Oikos. True tapioca-like gel. Pre-mixing chia + liquid separately only matters for overnight.
+- **Overnight pudding option:** 3 tbsp chia + 1 cup liquid (milk, oat milk, coconut milk). Stir, wait 5 min, stir again, fridge overnight. Top with thawed frozen fruit + spoonful of Oikos. True tapioca-like gel.
 - **Blood sugar value:** High fiber, slows glucose absorption significantly. One of the better breakfast options in the rotation.
+
+### Chili Crisp *(added June 27)*
+
+- **Confirmed excellent. Hype warranted.** Not just heat — savory/umami depth from fried shallots and garlic that straight hot sauce doesn't have.
+- **Goes on:** Chicken rice bowls (soy + sesame base), fried rice at the end, eggs, pork chops, straight on bowls, stirred into cottage cheese (savory application).
+- **Asian bowl shortcut:** Soy + sesame oil + rice vinegar + chili crisp over chicken + rice + cucumber = done. Or stir in a spoonful of gochujang for Korean-ish direction.
 
 ---
 
@@ -184,11 +201,15 @@ Companion files:
 - **Curry yogurt** — Greek yogurt + spoonful of red curry paste + squeeze of lemon *(future experiment)*
 - **Pesto** — straight from the jar. Great over roasted chicken and sweet potato.
 - **Fresh guac** — avo + jalapeño + lime + salt. Right fat/acid hit for steak bowls.
+- **Asian bowl base** — soy + sesame oil + rice vinegar + chili crisp. Gochujang optional for Korean direction.
 
 ### Confirmed Techniques
 
 **Grilled chicken + steak batch (confirmed June 14 + June 23)**
 Season chicken thighs + breasts 50/50: Penzey's seasoned salt + garlic powder + ranch powder + cracked black pepper. Grill over charcoal. Top sirloin grills in the same session. Cut chicken up together. Slice steak thin. Fridge in containers. Use all week in bowls and salads. Freeze excess chicken before it turns.
+
+**Thin-cut bone-in pork chops (confirmed June 27)**
+Direct heat on charcoal grill. 3–4 min per side. Done fast. Eat as dinner with sides. Leftovers slice up for fried rice — grill char adds depth. Not a bowl-week protein; a plate protein.
 
 **Country ribs — Weber kettle (June 14, 2026)**
 Dry rub. Grill over charcoal, finish under broiler if needed. Baste with sauce at the end. More sauce on plates.
@@ -197,7 +218,7 @@ Dry rub. Grill over charcoal, finish under broiler if needed. Baste with sauce a
 Brown sausage, remove. Cook garlic in fat 30 sec. Add jarred sauce + splash of broth. Drop gnocchi in uncooked, stir, cover, cook 5–6 min. Add sausage back, spinach, wilt. Parm on top. 20 min, one pan.
 
 **Fried rice**
-Canola oil, onion + garlic, frozen veg, brown rice, sesame oil, fold in 4 scrambled eggs, fried rice sauce. Wok. 10 min. Nick-approved.
+Canola oil, onion + garlic, frozen veg, brown rice, sesame oil, fold in 4 scrambled eggs, fried rice sauce. Wok. 10 min. Nick-approved. Chili crisp at the end.
 
 **Baby back ribs — Weber kettle**
 Two-zone indirect, 225–250°F, apple/cherry wood, ~5 hours (3 unwrapped → 1–1.5 foil → 30 min sauced). Toothpick test; rack bends when done.
@@ -246,6 +267,9 @@ Brown cudighi. Spread sauce on naan. Top with cudighi + cheese. Oven or toaster 
 ### Chicken
 - Grilled chicken bowl week, salsa chicken, coconut curry, piccata-ish, Thai coconut soup, sheet pan, braised tomato & olive — see frameworks above
 
+### Pork Chops
+- Thin-cut bone-in → grill → dinner. Leftovers → fried rice.
+
 ### Steak
 - Top sirloin → grill session → steak bowls, steak salad, burrito bowl
 
@@ -293,13 +317,14 @@ Brown cudighi. Spread sauce on naan. Top with cudighi + cheese. Oven or toaster 
 ## 6. Food Log Patterns
 
 **Active patterns:**
-- **Bowl framework SUSTAINED: two consecutive weeks (June 14–26).** Nick is now an active prep participant. Framework holds at 9:30pm. Executes without MQT.
+- **Bowl framework SUSTAINED: three consecutive weeks (June 14–28+).** Nick is now an active prep participant. Framework holds at 9:30pm. Executes without MQT.
 - **Bowl prep = MQT equivalent for lunches:** When the framework is running, no need to order MQT. Same outcome.
 - **Ground beef = skip list (confirmed June 27):** Doesn't last; requires in-moment decision. Cudighi/Italian sausage is the better bench protein.
+- **Thin-cut pork chops confirmed as grill-session add-on (June 27):** Plate protein → dinner night-of, leftovers into fried rice. Chili crisp also added to pantry.
 - **Chia yogurt bowl CONFIRMED and holding:** Still obsessed as of June 27. Building toward 3 tbsp gradually.
 - **Rest day grazing (emerging):** No-lunch snack drift on low-structure days. Tracking.
-- **Friday shopping → weekend cook:** Confirmed replicating June 27. Deliberate pattern now.
-- **Prep-before-hungry instinct confirmed:** Burritos made Friday night, eaten Saturday. This is the model.
+- **Friday shopping → weekend cook:** Three consecutive weekends. Deliberate pattern now.
+- **Prep-before-hungry instinct confirmed:** Burritos made Friday night, eaten Saturday.
 - **Friday cinnamon roll protocol (June 5):** Oikos first → ate less roll. Permanent protocol.
 - **Late-night/couch-wake:** June 1 = chips. June 4 = water + bed. Tracking.
 - **Dessert ritual:** Tracking, not addressing.
@@ -322,17 +347,18 @@ Brown cudighi. Spread sauce on naan. Top with cudighi + cheese. Oven or toaster 
 
 ## 7. Open Questions & Parking Lot
 
-### This Week (June 27+)
-- Grocery run today → grill session Sunday
-- Chicken confirmed; pork TBD at store
+### This Week (June 28+)
+- Grill session Sunday: chicken (50/50) + pork chops. Broccoli + sweet potato roasted alongside.
+- Cudighi on bench for mid-week skillet meal
+- Asian-inspired bowl rotation with chili crisp
 - Continue chia ramp toward 3 tbsp
-- Freeze excess chicken from this week's leftovers
+- Freeze excess chicken from prior week before new batch goes in
 
 ### Parking Lot
 - **End-of-cycle systems conversation (priority):** Dedicated session needed.
+- **Athlete fueling around training blocks (49 days to 50k):** Starting to have a clock on it.
 - Before-bed dessert ritual — tracking first
 - Simple rotating weekly framework
-- Athlete fueling guidance around training blocks (49 days to 50k)
 - Full pantry audit
 - Add fish sauce and kalamata olives to regular shopping list
 - Curry yogurt sauce experiment
